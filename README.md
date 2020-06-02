@@ -36,4 +36,8 @@ python process.y
 
 # Data Architecture
 ![](data_architecture.jpg)
-
+* the data from other source need to be ingested first through either API, GRPC or GraphQL, depends what interface used
+* the data will be prepare to make sure the data exists and suitable with the requirement
+* Process and transform the data will be required to filter what data that need to display and stored in analytical database
+* Define what structure of data that need to store. Define relation of table if necessay.
+* create interface (API) in accessing data through analytical database
