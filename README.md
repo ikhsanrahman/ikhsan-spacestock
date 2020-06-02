@@ -16,6 +16,8 @@ grep -v '^/' tower.json > new_tower.json
 ```
 2. create a database in mongodb and restore that file
 3. create database in postgresql with the table that mentioned already
+* make sure create user with encrypted password. the user and password that define in script is ```stock``` and ```stock```
+* grant all privileges of database to that credentials
 4. activate environment
 ```
 source env/bin/activate
