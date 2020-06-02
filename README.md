@@ -33,3 +33,6 @@ python process.y
 2. it can be seen also as CSV file
 
 
+# Data Architecture
+![Data Archicture](data_achitecture.jpg)
+
