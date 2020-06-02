@@ -34,5 +34,5 @@ python process.y
 
 
 # Data Architecture
-![Data Archicture](data_achitecture.jpg)
+![](data_architecture.jpg)
 
