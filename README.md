@@ -11,7 +11,8 @@ This task related to as data engineer.
 ## run
 1. clean the json file (complex.json and tower.json)
 ```
-grep -v '^/' complex.json > wew.json
+grep -v '^/' complex.json > new_complex.json
+grep -v '^/' tower.json > new_tower.json
 ```
 2. create a database in mongodb and restore that file
 3. create database in postgresql with the table that mentioned already
