@@ -1,0 +1,6752 @@
+/* 1 */
+{
+    "_id" : ObjectId("5c7f62f67e409ee0933b0b9f"),
+    "complex_id" : "5c7f62f67e409ee0933b0b9e",
+    "create_by_id" : "admin+dev@spacestock.com",
+    "last_update_at" : NumberLong(1570502644),
+    "category" : "Apartment",
+    "name" : "Tower Royal",
+    "year_completion" : NumberLong(2017),
+    "year_renovation" : NumberLong(0),
+    "floor_count" : NumberLong(29),
+    "description" : null,
+    "parking" : [ 
+        {
+            "name" : "Car Parking",
+            "type" : "Car",
+            "payment_term" : "Free",
+            "price" : 0.0,
+            "capacity" : NumberLong(0)
+        }, 
+        {
+            "name" : "Motorcycle Parking",
+            "type" : "Motorcycle",
+            "payment_term" : "Free",
+            "price" : 0.0,
+            "capacity" : NumberLong(0)
+        }
+    ],
+    "lift" : [ 
+        {
+            "name" : "Passenger",
+            "serving" : "",
+            "count" : NumberLong(4)
+        }, 
+        {
+            "name" : "Service",
+            "serving" : "",
+            "count" : NumberLong(1)
+        }
+    ],
+    "internet" : {
+        "Indihome" : true
+    },
+    "images" : {
+        "images_developer" : null,
+        "images_banner" : null,
+        "images_brochure" : null,
+        "images_interior" : [ 
+            {
+                "url" : "building/cat-20190306084135",
+                "alternate_text" : "Lobby Lift",
+                "priority" : NumberLong(1)
+            }
+        ],
+        "images_exterior" : null,
+        "images_floorplan" : null,
+        "images_360" : [ 
+            {
+                "url" : "building/cat-20190306084116",
+                "alternate_text" : "Interior - Lobby",
+                "priority" : NumberLong(1)
+            }
+        ],
+        "video_link" : null
+    },
+    "unit_total" : NumberLong(112),
+    "id" : "5c7f62f67e409ee0933b0b9f",
+    "branches" : {
+        "5c8a28ed9208d3e40eaf0196" : true,
+        "5e5e19d61f78725c121fa3fd" : true,
+        "5e2e77bebdd35d85036fa1e1" : true,
+        "5c88a1599208d3e40eaf0195" : true,
+        "5e5e2e5d1f78725c121fa3fe" : true,
+        "5c8f5bc523a47a53411f0f5a" : true,
+        "5e2e6cddbdd35d85036fa1e0" : true,
+        "5e5e19b51f78725c121fa3fc" : true
+    },
+    "unit_rent_total" : NumberLong(9),
+    "unit_sell_total" : NumberLong(1),
+    "architect" : "",
+    "certificate" : "",
+    "contractor" : "",
+    "fee_component" : [ 
+        {
+            "for" : "Rent",
+            "percentage" : 0.0,
+            "from" : "price_rent"
+        }, 
+        {
+            "for" : "Sell",
+            "percentage" : 0.0,
+            "from" : "price_sell"
+        }
+    ],
+    "last_update_by_uid" : "admin+dev@spacestock.com",
+    "promo" : "",
+    "rent_commission" : 0.0,
+    "sell_commission" : 0.0,
+    "year_completed_estimation" : NumberLong(0),
+    "year_construction" : NumberLong(0),
+    "building_type" : [ 
+        "Strata Buy", 
+        "Strata Rent"
+    ],
+    "service_charge" : 35000.0,
+    "auto_description" : true,
+    "is_leads_agent" : false,
+    "average_floor_plate" : 0.0,
+    "ceiling_height" : 0.0,
+    "commercial_terms" : null,
+    "condition" : "",
+    "electricity" : null,
+    "fire_safety" : null,
+    "grade" : "",
+    "land_size" : 0.0,
+    "max_zone_per_floor" : NumberLong(0),
+    "office_hours" : null,
+    "power_line" : null,
+    "selling_point" : {
+        "id" : [ 
+            {
+                "title" : "",
+                "description" : ""
+            }
+        ]
+    },
+    "semi_gross_area" : 0.0,
+    "sinking_fund" : -1.0,
+    "complex" : {
+        "id" : "5c7f62f67e409ee0933b0b9e",
+        "name" : "1 Park Avenue",
+        "address_city" : "JAKARTA SELATAN",
+        "primary_area" : null
+    },
+    "create_at" : NumberLong(0),
+    "status" : NumberLong(0)
+}
+
+/* 2 */
+{
+    "_id" : ObjectId("5c7f62f67e409ee0933b0ba0"),
+    "complex_id" : "5c7f62f67e409ee0933b0b9e",
+    "last_update_at" : NumberLong(1562147212),
+    "category" : "Apartment",
+    "name" : "Tower King",
+    "year_completion" : NumberLong(2017),
+    "year_renovation" : NumberLong(0),
+    "floor_count" : NumberLong(29),
+    "description" : null,
+    "parking" : [ 
+        {
+            "name" : "Car Parking",
+            "type" : "Car",
+            "payment_term" : "Free",
+            "price" : 0.0,
+            "capacity" : NumberLong(0)
+        }, 
+        {
+            "name" : "Motorcycle Parking",
+            "type" : "Motorcycle",
+            "payment_term" : "Free",
+            "price" : 0.0,
+            "capacity" : NumberLong(0)
+        }
+    ],
+    "lift" : [ 
+        {
+            "name" : "Passenger",
+            "serving" : "",
+            "count" : NumberLong(4)
+        }, 
+        {
+            "name" : "Service",
+            "serving" : "",
+            "count" : NumberLong(1)
+        }
+    ],
+    "internet" : {
+        "Indihome" : true
+    },
+    "images" : {
+        "images_360" : [ 
+            {
+                "url" : "building/cat-20190306084041",
+                "alternate_text" : "lobby.JPG",
+                "priority" : NumberLong(1)
+            }
+        ]
+    },
+    "unit_total" : NumberLong(112),
+    "id" : "5c7f62f67e409ee0933b0ba0",
+    "branches" : {
+        "5c88a1599208d3e40eaf0195" : true,
+        "5e5e2e5d1f78725c121fa3fe" : true,
+        "5c8f5bc523a47a53411f0f5a" : true,
+        "5e2e6cddbdd35d85036fa1e0" : true,
+        "5e5e19b51f78725c121fa3fc" : true,
+        "5c8a28ed9208d3e40eaf0196" : true,
+        "5e5e19d61f78725c121fa3fd" : true,
+        "5e2e77bebdd35d85036fa1e1" : true
+    },
+    "unit_rent_total" : NumberLong(11),
+    "unit_sell_total" : NumberLong(2),
+    "architect" : "",
+    "building_type" : [ 
+        "Strata Buy", 
+        "Strata Rent"
+    ],
+    "certificate" : "",
+    "contractor" : "",
+    "fee_component" : [ 
+        {
+            "for" : "Rent",
+            "percentage" : 0.0,
+            "from" : "price_rent"
+        }, 
+        {
+            "for" : "Sell",
+            "percentage" : 0.0,
+            "from" : "price_sell"
+        }
+    ],
+    "last_update_by_uid" : "admin+dev@spacestock.com",
+    "promo" : "",
+    "rent_commission" : 0.0,
+    "sell_commission" : 0.0,
+    "year_completed_estimation" : NumberLong(0),
+    "year_construction" : NumberLong(0),
+    "service_charge" : 35000.0,
+    "auto_description" : true,
+    "is_leads_agent" : false,
+    "average_floor_plate" : 0.0,
+    "ceiling_height" : 0.0,
+    "commercial_terms" : null,
+    "condition" : "",
+    "electricity" : null,
+    "fire_safety" : null,
+    "grade" : "",
+    "land_size" : 0.0,
+    "max_zone_per_floor" : NumberLong(0),
+    "office_hours" : null,
+    "power_line" : null,
+    "selling_point" : {
+        "id" : [ 
+            {
+                "title" : "",
+                "description" : ""
+            }
+        ]
+    },
+    "semi_gross_area" : 0.0,
+    "sinking_fund" : -1.0,
+    "complex" : {
+        "id" : "5c7f62f67e409ee0933b0b9e",
+        "name" : "1 Park Avenue"
+    }
+}
+
+/* 3 */
+{
+    "_id" : ObjectId("5c7f62f67e409ee0933b0ba1"),
+    "complex_id" : "5c7f62f67e409ee0933b0b9e",
+    "last_update_at" : NumberLong(1562147227),
+    "category" : "Apartment",
+    "name" : "Tower Queen",
+    "year_completion" : NumberLong(2017),
+    "year_renovation" : NumberLong(0),
+    "floor_count" : NumberLong(29),
+    "description" : null,
+    "parking" : [ 
+        {
+            "name" : "Car Parking",
+            "type" : "Car",
+            "payment_term" : "Free",
+            "price" : 0.0,
+            "capacity" : NumberLong(0)
+        }, 
+        {
+            "name" : "Motorcycle Parking",
+            "type" : "Motorcycle",
+            "payment_term" : "Free",
+            "price" : 0.0,
+            "capacity" : NumberLong(0)
+        }
+    ],
+    "lift" : [ 
+        {
+            "name" : "Passenger",
+            "serving" : "",
+            "count" : NumberLong(4)
+        }, 
+        {
+            "name" : "Service",
+            "serving" : "",
+            "count" : NumberLong(1)
+        }
+    ],
+    "internet" : {
+        "Indihome" : true
+    },
+    "images" : {
+        "images_360" : [ 
+            {
+                "url" : "building/cat-20190306084043",
+                "alternate_text" : "lobby.JPG",
+                "priority" : NumberLong(1)
+            }
+        ]
+    },
+    "unit_total" : NumberLong(112),
+    "id" : "5c7f62f67e409ee0933b0ba1",
+    "branches" : {
+        "5c88a1599208d3e40eaf0195" : true,
+        "5e5e2e5d1f78725c121fa3fe" : true,
+        "5c8f5bc523a47a53411f0f5a" : true,
+        "5e2e6cddbdd35d85036fa1e0" : true,
+        "5e5e19b51f78725c121fa3fc" : true,
+        "5c8a28ed9208d3e40eaf0196" : true,
+        "5e5e19d61f78725c121fa3fd" : true,
+        "5e2e77bebdd35d85036fa1e1" : true
+    },
+    "unit_rent_total" : NumberLong(13),
+    "building_type" : [ 
+        "Strata Buy", 
+        "Strata Rent"
+    ],
+    "architect" : "",
+    "certificate" : "",
+    "contractor" : "",
+    "fee_component" : [ 
+        {
+            "for" : "Rent",
+            "percentage" : 0.0,
+            "from" : "price_rent"
+        }, 
+        {
+            "for" : "Sell",
+            "percentage" : 0.0,
+            "from" : "price_sell"
+        }
+    ],
+    "last_update_by_uid" : "admin+dev@spacestock.com",
+    "promo" : "",
+    "rent_commission" : 0.0,
+    "sell_commission" : 0.0,
+    "service_charge" : 35000.0,
+    "year_completed_estimation" : NumberLong(0),
+    "year_construction" : NumberLong(0),
+    "auto_description" : true,
+    "is_leads_agent" : false,
+    "average_floor_plate" : 0.0,
+    "ceiling_height" : 0.0,
+    "commercial_terms" : null,
+    "condition" : "",
+    "electricity" : null,
+    "fire_safety" : null,
+    "grade" : "",
+    "land_size" : 0.0,
+    "max_zone_per_floor" : NumberLong(0),
+    "office_hours" : null,
+    "power_line" : null,
+    "selling_point" : {
+        "id" : [ 
+            {
+                "title" : "",
+                "description" : ""
+            }
+        ]
+    },
+    "semi_gross_area" : 0.0,
+    "sinking_fund" : -1.0,
+    "unit_sell_total" : NumberLong(0),
+    "complex" : {
+        "id" : "5c7f62f67e409ee0933b0b9e",
+        "name" : "1 Park Avenue"
+    }
+}
+
+/* 4 */
+{
+    "_id" : ObjectId("5c7f62f67e409ee0933b0ba2"),
+    "complex_id" : "5c7f62f67e409ee0933b0b9e",
+    "last_update_at" : NumberLong(1569320314),
+    "category" : "Apartment",
+    "name" : "Tower The Hamilton",
+    "year_completion" : NumberLong(2017),
+    "year_renovation" : NumberLong(0),
+    "floor_count" : NumberLong(29),
+    "description" : null,
+    "parking" : [ 
+        {
+            "name" : "Car Parking",
+            "type" : "Car",
+            "payment_term" : "Free",
+            "price" : 0.0,
+            "capacity" : NumberLong(0)
+        }, 
+        {
+            "name" : "Motorcycle Parking",
+            "type" : "Motorcycle",
+            "payment_term" : "Free",
+            "price" : 0.0,
+            "capacity" : NumberLong(0)
+        }
+    ],
+    "lift" : [ 
+        {
+            "name" : "Passenger",
+            "serving" : "",
+            "count" : NumberLong(4)
+        }, 
+        {
+            "name" : "Service",
+            "serving" : "",
+            "count" : NumberLong(1)
+        }
+    ],
+    "internet" : {
+        "Indihome" : true
+    },
+    "images" : {
+        "images_developer" : null,
+        "images_banner" : null,
+        "images_brochure" : null,
+        "images_interior" : null,
+        "images_exterior" : null,
+        "images_floorplan" : [ 
+            {
+                "url" : "building/n34ujgpy5qutp1ozugyj",
+                "alternate_text" : "2BR",
+                "priority" : NumberLong(1)
+            }, 
+            {
+                "url" : "building/txwvjms5jvgiof33pbvx",
+                "alternate_text" : "2BR",
+                "priority" : NumberLong(3)
+            }, 
+            {
+                "url" : "building/vuwd3q95pziwsekl4bgo",
+                "alternate_text" : "3BR",
+                "priority" : NumberLong(3)
+            }
+        ],
+        "images_360" : [ 
+            {
+                "url" : "building/cat-20190306084136",
+                "alternate_text" : "lobby.JPG",
+                "priority" : NumberLong(1)
+            }
+        ],
+        "video_link" : null
+    },
+    "unit_total" : NumberLong(112),
+    "id" : "5c7f62f67e409ee0933b0ba2",
+    "branches" : {
+        "5e5e19b51f78725c121fa3fc" : true,
+        "5c8a28ed9208d3e40eaf0196" : true,
+        "5e5e19d61f78725c121fa3fd" : true,
+        "5e2e77bebdd35d85036fa1e1" : true,
+        "5c88a1599208d3e40eaf0195" : true,
+        "5e5e2e5d1f78725c121fa3fe" : true,
+        "5c8f5bc523a47a53411f0f5a" : true,
+        "5e2e6cddbdd35d85036fa1e0" : true
+    },
+    "unit_rent_total" : NumberLong(5),
+    "unit_sell_total" : NumberLong(1),
+    "architect" : "",
+    "certificate" : "",
+    "contractor" : "",
+    "fee_component" : [ 
+        {
+            "for" : "Rent",
+            "percentage" : 0.0,
+            "from" : "price_rent"
+        }, 
+        {
+            "for" : "Sell",
+            "percentage" : 0.0,
+            "from" : "price_sell"
+        }
+    ],
+    "last_update_by_uid" : "admin+dev@spacestock.com",
+    "promo" : "",
+    "rent_commission" : 0.0,
+    "sell_commission" : 0.0,
+    "year_completed_estimation" : NumberLong(0),
+    "year_construction" : NumberLong(0),
+    "building_type" : [ 
+        "Strata Buy", 
+        "Strata Rent"
+    ],
+    "service_charge" : 35000.0,
+    "auto_description" : true,
+    "is_leads_agent" : false,
+    "average_floor_plate" : 0.0,
+    "ceiling_height" : 0.0,
+    "commercial_terms" : null,
+    "condition" : "",
+    "electricity" : null,
+    "fire_safety" : null,
+    "grade" : "",
+    "land_size" : 0.0,
+    "max_zone_per_floor" : NumberLong(0),
+    "office_hours" : null,
+    "power_line" : null,
+    "selling_point" : {
+        "id" : [ 
+            {
+                "title" : "",
+                "description" : ""
+            }
+        ]
+    },
+    "semi_gross_area" : 0.0,
+    "sinking_fund" : -1.0,
+    "create_at" : NumberLong(0),
+    "create_by_id" : "",
+    "status" : NumberLong(0),
+    "complex" : {
+        "id" : "5c7f62f67e409ee0933b0b9e",
+        "name" : "1 Park Avenue",
+        "address_city" : "JAKARTA SELATAN",
+        "primary_area" : null
+    }
+}
+
+/* 5 */
+{
+    "_id" : ObjectId("5c7f62f67e409ee0933b0ba4"),
+    "complex_id" : "5c7f62f67e409ee0933b0ba3",
+    "last_update_at" : NumberLong(1569399940),
+    "category" : "Apartment",
+    "name" : "Tower A",
+    "year_completion" : NumberLong(1356973200),
+    "year_renovation" : NumberLong(0),
+    "floor_count" : NumberLong(29),
+    "description" : null,
+    "parking" : [ 
+        {
+            "name" : "Car Parking",
+            "type" : "Car",
+            "payment_term" : "Free",
+            "price" : 0.0,
+            "capacity" : NumberLong(0)
+        }, 
+        {
+            "name" : "Motorcycle Parking",
+            "type" : "Motorcycle",
+            "payment_term" : "Free",
+            "price" : 0.0,
+            "capacity" : NumberLong(0)
+        }
+    ],
+    "lift" : [ 
+        {
+            "name" : "Passenger",
+            "serving" : "",
+            "count" : NumberLong(3)
+        }, 
+        {
+            "name" : "Service",
+            "serving" : "",
+            "count" : NumberLong(1)
+        }
+    ],
+    "internet" : {
+        "Indihome" : true
+    },
+    "images" : {
+        "images_developer" : null,
+        "images_banner" : null,
+        "images_brochure" : null,
+        "images_interior" : [],
+        "images_exterior" : null,
+        "images_floorplan" : [ 
+            {
+                "url" : "building/kzsye82u63cfyz19rfbw",
+                "alternate_text" : "2BR",
+                "priority" : NumberLong(1)
+            }, 
+            {
+                "url" : "building/mzwayc2i4cnojbq97dxr",
+                "alternate_text" : "3BR",
+                "priority" : NumberLong(3)
+            }, 
+            {
+                "url" : "building/mwmr3rknd5gdpoohwlsb",
+                "alternate_text" : "2BR",
+                "priority" : NumberLong(3)
+            }
+        ],
+        "images_360" : null,
+        "video_link" : null
+    },
+    "unit_total" : NumberLong(132),
+    "id" : "5c7f62f67e409ee0933b0ba4",
+    "branches" : {
+        "5e5e2e5d1f78725c121fa3fe" : true,
+        "5e2e77bebdd35d85036fa1e1" : true,
+        "5c8b61bb23a47a53411f0f58" : true,
+        "5e2e6cddbdd35d85036fa1e0" : true,
+        "5c88a1599208d3e40eaf0195" : true,
+        "5c8a28ed9208d3e40eaf0196" : true,
+        "5e5e19b51f78725c121fa3fc" : true,
+        "5c8f5bc523a47a53411f0f5a" : true,
+        "5e5e19d61f78725c121fa3fd" : true
+    },
+    "unit_rent_total" : NumberLong(6),
+    "unit_sell_total" : NumberLong(2),
+    "last_update_by_uid" : "admin+dev@spacestock.com",
+    "building_type" : [ 
+        "Strata Buy", 
+        "Strata Rent"
+    ],
+    "architect" : "",
+    "certificate" : "",
+    "contractor" : "",
+    "fee_component" : [ 
+        {
+            "for" : "Rent",
+            "percentage" : 0.0,
+            "from" : "price_rent"
+        }, 
+        {
+            "for" : "Sell",
+            "percentage" : 0.0,
+            "from" : "price_sell"
+        }
+    ],
+    "promo" : "",
+    "rent_commission" : 0.0,
+    "sell_commission" : 0.0,
+    "service_charge" : 23000.0,
+    "year_completed_estimation" : NumberLong(0),
+    "year_construction" : NumberLong(0),
+    "auto_description" : true,
+    "is_leads_agent" : false,
+    "average_floor_plate" : 0.0,
+    "ceiling_height" : 0.0,
+    "commercial_terms" : null,
+    "condition" : "",
+    "create_at" : NumberLong(0),
+    "create_by_id" : "",
+    "electricity" : null,
+    "fire_safety" : null,
+    "grade" : "",
+    "land_size" : 0.0,
+    "max_zone_per_floor" : NumberLong(0),
+    "office_hours" : null,
+    "power_line" : null,
+    "selling_point" : {
+        "id" : [ 
+            {
+                "title" : "",
+                "description" : ""
+            }
+        ]
+    },
+    "semi_gross_area" : 0.0,
+    "sinking_fund" : -1.0,
+    "status" : NumberLong(0),
+    "complex" : {
+        "id" : "5c7f62f67e409ee0933b0ba3",
+        "name" : "1 Park Residence",
+        "address_city" : "JAKARTA SELATAN",
+        "primary_area" : null
+    }
+}
+
+/* 6 */
+{
+    "_id" : ObjectId("5c7f62f77e409ee0933b0ba5"),
+    "complex_id" : "5c7f62f67e409ee0933b0ba3",
+    "last_update_at" : NumberLong(1569402598),
+    "category" : "Apartment",
+    "name" : "Tower B",
+    "year_completion" : NumberLong(1356973200),
+    "year_renovation" : NumberLong(0),
+    "floor_count" : NumberLong(18),
+    "description" : null,
+    "parking" : [ 
+        {
+            "name" : "Car Parking",
+            "type" : "Car",
+            "payment_term" : "Free",
+            "price" : 0.0,
+            "capacity" : NumberLong(0)
+        }, 
+        {
+            "name" : "Motorcycle Parking",
+            "type" : "Motorcycle",
+            "payment_term" : "Free",
+            "price" : 0.0,
+            "capacity" : NumberLong(0)
+        }
+    ],
+    "lift" : [ 
+        {
+            "name" : "Passenger",
+            "serving" : "",
+            "count" : NumberLong(3)
+        }, 
+        {
+            "name" : "Service",
+            "serving" : "",
+            "count" : NumberLong(1)
+        }
+    ],
+    "internet" : {
+        "Indihome" : true
+    },
+    "images" : {
+        "images_developer" : null,
+        "images_banner" : null,
+        "images_brochure" : null,
+        "images_interior" : [],
+        "images_exterior" : [],
+        "images_floorplan" : [ 
+            {
+                "url" : "building/enuxuf35rw1zawagkxwt",
+                "alternate_text" : "2BR",
+                "priority" : NumberLong(1)
+            }, 
+            {
+                "url" : "building/zpjwe3qfsz7bd0q4l1hu",
+                "alternate_text" : "2BR",
+                "priority" : NumberLong(3)
+            }, 
+            {
+                "url" : "building/dakrsdf8snvrvwiwq3vs",
+                "alternate_text" : "3BR",
+                "priority" : NumberLong(3)
+            }
+        ],
+        "images_360" : null,
+        "video_link" : null
+    },
+    "unit_total" : NumberLong(108),
+    "id" : "5c7f62f77e409ee0933b0ba5",
+    "branches" : {
+        "5e2e77bebdd35d85036fa1e1" : true,
+        "5c8b61bb23a47a53411f0f58" : true,
+        "5e5e2e5d1f78725c121fa3fe" : true,
+        "5e5e19b51f78725c121fa3fc" : true,
+        "5c8f5bc523a47a53411f0f5a" : true,
+        "5e5e19d61f78725c121fa3fd" : true,
+        "5e2e6cddbdd35d85036fa1e0" : true,
+        "5c88a1599208d3e40eaf0195" : true,
+        "5c8a28ed9208d3e40eaf0196" : true
+    },
+    "unit_rent_total" : NumberLong(4),
+    "last_update_by_uid" : "admin+dev@spacestock.com",
+    "building_type" : [ 
+        "Strata Buy", 
+        "Strata Rent"
+    ],
+    "architect" : "",
+    "certificate" : "",
+    "contractor" : "",
+    "fee_component" : [ 
+        {
+            "for" : "Rent",
+            "percentage" : 0.0,
+            "from" : "price_rent"
+        }, 
+        {
+            "for" : "Sell",
+            "percentage" : 0.0,
+            "from" : "price_sell"
+        }
+    ],
+    "promo" : "",
+    "rent_commission" : 0.0,
+    "sell_commission" : 0.0,
+    "service_charge" : 23000.0,
+    "year_completed_estimation" : NumberLong(0),
+    "year_construction" : NumberLong(0),
+    "auto_description" : true,
+    "is_leads_agent" : false,
+    "average_floor_plate" : 0.0,
+    "ceiling_height" : 0.0,
+    "commercial_terms" : null,
+    "condition" : "",
+    "create_at" : NumberLong(0),
+    "create_by_id" : "",
+    "electricity" : null,
+    "fire_safety" : null,
+    "grade" : "",
+    "land_size" : 0.0,
+    "max_zone_per_floor" : NumberLong(0),
+    "office_hours" : null,
+    "power_line" : null,
+    "selling_point" : {
+        "id" : [ 
+            {
+                "title" : "",
+                "description" : ""
+            }
+        ]
+    },
+    "semi_gross_area" : 0.0,
+    "sinking_fund" : -1.0,
+    "status" : NumberLong(0),
+    "unit_sell_total" : NumberLong(1),
+    "complex" : {
+        "id" : "5c7f62f67e409ee0933b0ba3",
+        "name" : "1 Park Residence",
+        "address_city" : "JAKARTA SELATAN",
+        "primary_area" : null
+    }
+}
+
+/* 7 */
+{
+    "_id" : ObjectId("5c7f62f77e409ee0933b0ba6"),
+    "complex_id" : "5c7f62f67e409ee0933b0ba3",
+    "last_update_at" : NumberLong(1569402785),
+    "category" : "Apartment",
+    "name" : "Tower C",
+    "year_completion" : NumberLong(1356973200),
+    "year_renovation" : NumberLong(0),
+    "floor_count" : NumberLong(26),
+    "description" : {
+        "id" : ""
+    },
+    "parking" : [ 
+        {
+            "name" : "Car Parking",
+            "type" : "Car",
+            "payment_term" : "Free",
+            "price" : 0.0,
+            "capacity" : NumberLong(0)
+        }, 
+        {
+            "name" : "Motorcycle Parking",
+            "type" : "Motorcycle",
+            "payment_term" : "Free",
+            "price" : 0.0,
+            "capacity" : NumberLong(0)
+        }
+    ],
+    "lift" : [ 
+        {
+            "name" : "Passenger",
+            "serving" : "",
+            "count" : NumberLong(3)
+        }, 
+        {
+            "name" : "Service",
+            "serving" : "",
+            "count" : NumberLong(1)
+        }
+    ],
+    "internet" : {
+        "Indihome" : true
+    },
+    "images" : {
+        "images_developer" : null,
+        "images_banner" : null,
+        "images_brochure" : null,
+        "images_interior" : null,
+        "images_exterior" : null,
+        "images_floorplan" : [ 
+            {
+                "url" : "building/wq3bpw3vqdjd4gcv4obv",
+                "alternate_text" : "2BR",
+                "priority" : NumberLong(1)
+            }, 
+            {
+                "url" : "building/gjk8op6yjnatfalzqphw",
+                "alternate_text" : "3BR",
+                "priority" : NumberLong(3)
+            }, 
+            {
+                "url" : "building/vh8hb4hl4oqn9mtvv965",
+                "alternate_text" : "2BR",
+                "priority" : NumberLong(3)
+            }
+        ],
+        "images_360" : null,
+        "video_link" : null
+    },
+    "unit_total" : NumberLong(156),
+    "branches" : {
+        "5e2e77bebdd35d85036fa1e1" : true,
+        "5c8b61bb23a47a53411f0f58" : true,
+        "5e5e2e5d1f78725c121fa3fe" : true,
+        "5e5e19b51f78725c121fa3fc" : true,
+        "5c8f5bc523a47a53411f0f5a" : true,
+        "5e5e19d61f78725c121fa3fd" : true,
+        "5e2e6cddbdd35d85036fa1e0" : true,
+        "5c88a1599208d3e40eaf0195" : true,
+        "5c8a28ed9208d3e40eaf0196" : true
+    },
+    "id" : "5c7f62f77e409ee0933b0ba6",
+    "building_type" : [ 
+        "Strata Buy", 
+        "Strata Rent"
+    ],
+    "last_update_by_uid" : "admin+dev@spacestock.com",
+    "service_charge" : 23000.0,
+    "unit_rent_total" : NumberLong(3),
+    "architect" : "",
+    "auto_description" : true,
+    "certificate" : "",
+    "contractor" : "",
+    "fee_component" : [ 
+        {
+            "for" : "Rent",
+            "percentage" : 0.0,
+            "from" : "price_rent"
+        }, 
+        {
+            "for" : "Sell",
+            "percentage" : 0.0,
+            "from" : "price_sell"
+        }
+    ],
+    "is_leads_agent" : false,
+    "promo" : "",
+    "rent_commission" : 0.0,
+    "sell_commission" : 0.0,
+    "year_completed_estimation" : NumberLong(0),
+    "year_construction" : NumberLong(0),
+    "average_floor_plate" : 0.0,
+    "ceiling_height" : 0.0,
+    "commercial_terms" : null,
+    "condition" : "",
+    "create_at" : NumberLong(0),
+    "create_by_id" : "",
+    "electricity" : null,
+    "fire_safety" : null,
+    "grade" : "",
+    "land_size" : 0.0,
+    "max_zone_per_floor" : NumberLong(0),
+    "office_hours" : null,
+    "power_line" : null,
+    "selling_point" : {
+        "id" : [ 
+            {
+                "title" : "",
+                "description" : ""
+            }
+        ]
+    },
+    "semi_gross_area" : 0.0,
+    "sinking_fund" : -1.0,
+    "status" : NumberLong(0),
+    "unit_sell_total" : NumberLong(0),
+    "complex" : {
+        "id" : "5c7f62f67e409ee0933b0ba3",
+        "name" : "1 Park Residence",
+        "address_city" : "JAKARTA SELATAN",
+        "primary_area" : null
+    }
+}
+
+/* 8 */
+{
+    "_id" : ObjectId("5c7f62f77e409ee0933b0ba8"),
+    "complex_id" : "5c7f62f77e409ee0933b0ba7",
+    "last_update_at" : NumberLong(1562210063),
+    "category" : "Apartment",
+    "name" : "Tower A",
+    "year_completion" : NumberLong(2005),
+    "year_renovation" : NumberLong(0),
+    "floor_count" : NumberLong(47),
+    "description" : null,
+    "parking" : [ 
+        {
+            "name" : "Car Parking",
+            "type" : "Car",
+            "payment_term" : "Free",
+            "price" : 0.0,
+            "capacity" : NumberLong(0)
+        }, 
+        {
+            "name" : "Motorcycle Parking",
+            "type" : "Motorcycle",
+            "payment_term" : "Free",
+            "price" : 0.0,
+            "capacity" : NumberLong(0)
+        }
+    ],
+    "lift" : [ 
+        {
+            "name" : "Passenger",
+            "serving" : "",
+            "count" : NumberLong(0)
+        }, 
+        {
+            "name" : "Service",
+            "serving" : "",
+            "count" : NumberLong(2)
+        }
+    ],
+    "internet" : {
+        "CBN" : true
+    },
+    "images" : {
+        "images_floorplan" : [ 
+            {
+                "url" : "building/npe0xbi4xtyacurgbxdv",
+                "alternate_text" : "3BR",
+                "priority" : NumberLong(3)
+            }
+        ]
+    },
+    "unit_total" : NumberLong(20),
+    "branches" : {
+        "5c8a28ed9208d3e40eaf0196" : true,
+        "5e2e77bebdd35d85036fa1e1" : true,
+        "5e5e2e5d1f78725c121fa3fe" : true,
+        "5c8f5bc523a47a53411f0f5a" : true,
+        "5e2e6cddbdd35d85036fa1e0" : true,
+        "5e5e19d61f78725c121fa3fd" : true,
+        "5c88a1599208d3e40eaf0195" : true,
+        "5e5e19b51f78725c121fa3fc" : true
+    },
+    "id" : "5c7f62f77e409ee0933b0ba8",
+    "building_type" : [ 
+        "Strata Buy", 
+        "Strata Rent"
+    ],
+    "architect" : "",
+    "certificate" : "",
+    "contractor" : "",
+    "fee_component" : [ 
+        {
+            "for" : "Rent",
+            "percentage" : 0.0,
+            "from" : "price_rent"
+        }, 
+        {
+            "for" : "Sell",
+            "percentage" : 0.0,
+            "from" : "price_sell"
+        }
+    ],
+    "last_update_by_uid" : "admin+dev@spacestock.com",
+    "promo" : "",
+    "rent_commission" : 0.0,
+    "sell_commission" : 0.0,
+    "service_charge" : 27000.0,
+    "sinking_fund" : 7500.0,
+    "year_completed_estimation" : NumberLong(0),
+    "year_construction" : NumberLong(0),
+    "auto_description" : true,
+    "is_leads_agent" : false,
+    "average_floor_plate" : 0.0,
+    "ceiling_height" : 0.0,
+    "commercial_terms" : null,
+    "condition" : "",
+    "create_at" : NumberLong(0),
+    "create_by_id" : "",
+    "electricity" : null,
+    "fire_safety" : null,
+    "grade" : "",
+    "land_size" : 0.0,
+    "max_zone_per_floor" : NumberLong(0),
+    "office_hours" : null,
+    "power_line" : null,
+    "selling_point" : {
+        "id" : [ 
+            {
+                "title" : "",
+                "description" : ""
+            }
+        ]
+    },
+    "semi_gross_area" : 0.0,
+    "status" : NumberLong(0),
+    "unit_rent_total" : NumberLong(0),
+    "unit_sell_total" : NumberLong(0),
+    "complex" : {
+        "id" : "5c7f62f77e409ee0933b0ba7",
+        "name" : "Airlangga Apartment"
+    }
+}
+
+/* 9 */
+{
+    "_id" : ObjectId("5c7f62f77e409ee0933b0ba9"),
+    "complex_id" : "5c7f62f77e409ee0933b0ba7",
+    "last_update_at" : NumberLong(1562210101),
+    "category" : "Apartment",
+    "name" : "Tower B",
+    "year_completion" : NumberLong(2005),
+    "year_renovation" : NumberLong(0),
+    "floor_count" : NumberLong(47),
+    "description" : null,
+    "parking" : [ 
+        {
+            "name" : "Car Parking",
+            "type" : "Car",
+            "payment_term" : "Free",
+            "price" : 0.0,
+            "capacity" : NumberLong(0)
+        }, 
+        {
+            "name" : "Motorcycle Parking",
+            "type" : "Motorcycle",
+            "payment_term" : "Free",
+            "price" : 0.0,
+            "capacity" : NumberLong(0)
+        }
+    ],
+    "lift" : [ 
+        {
+            "name" : "Passenger",
+            "serving" : "",
+            "count" : NumberLong(0)
+        }, 
+        {
+            "name" : "Service",
+            "serving" : "",
+            "count" : NumberLong(2)
+        }
+    ],
+    "internet" : {
+        "CBN" : true
+    },
+    "images" : {
+        "images_floorplan" : [ 
+            {
+                "url" : "building/xqvjtt2phmymw9txss3t",
+                "alternate_text" : "3BR",
+                "priority" : NumberLong(3)
+            }
+        ]
+    },
+    "unit_total" : NumberLong(20),
+    "branches" : {
+        "5c8a28ed9208d3e40eaf0196" : true,
+        "5e2e77bebdd35d85036fa1e1" : true,
+        "5e5e2e5d1f78725c121fa3fe" : true,
+        "5c8f5bc523a47a53411f0f5a" : true,
+        "5e2e6cddbdd35d85036fa1e0" : true,
+        "5e5e19d61f78725c121fa3fd" : true,
+        "5c88a1599208d3e40eaf0195" : true,
+        "5e5e19b51f78725c121fa3fc" : true
+    },
+    "id" : "5c7f62f77e409ee0933b0ba9",
+    "building_type" : [ 
+        "Strata Buy", 
+        "Strata Rent"
+    ],
+    "architect" : "",
+    "certificate" : "",
+    "contractor" : "",
+    "fee_component" : [ 
+        {
+            "for" : "Rent",
+            "percentage" : 0.0,
+            "from" : "price_rent"
+        }, 
+        {
+            "for" : "Sell",
+            "percentage" : 0.0,
+            "from" : "price_sell"
+        }
+    ],
+    "last_update_by_uid" : "admin+dev@spacestock.com",
+    "promo" : "",
+    "rent_commission" : 0.0,
+    "sell_commission" : 0.0,
+    "service_charge" : 27000.0,
+    "sinking_fund" : 7500.0,
+    "year_completed_estimation" : NumberLong(0),
+    "year_construction" : NumberLong(0),
+    "auto_description" : true,
+    "is_leads_agent" : false,
+    "average_floor_plate" : 0.0,
+    "ceiling_height" : 0.0,
+    "commercial_terms" : null,
+    "condition" : "",
+    "create_at" : NumberLong(0),
+    "create_by_id" : "",
+    "electricity" : null,
+    "fire_safety" : null,
+    "grade" : "",
+    "land_size" : 0.0,
+    "max_zone_per_floor" : NumberLong(0),
+    "office_hours" : null,
+    "power_line" : null,
+    "selling_point" : {
+        "id" : [ 
+            {
+                "title" : "",
+                "description" : ""
+            }
+        ]
+    },
+    "semi_gross_area" : 0.0,
+    "status" : NumberLong(0),
+    "unit_rent_total" : NumberLong(2),
+    "unit_sell_total" : NumberLong(0),
+    "complex" : {
+        "id" : "5c7f62f77e409ee0933b0ba7",
+        "name" : "Airlangga Apartment"
+    }
+}
+
+/* 10 */
+{
+    "_id" : ObjectId("5c7f62f77e409ee0933b0baa"),
+    "complex_id" : "5c7f62f77e409ee0933b0ba7",
+    "last_update_at" : NumberLong(1562210114),
+    "category" : "Apartment",
+    "name" : "Tower CP",
+    "year_completion" : NumberLong(2005),
+    "year_renovation" : NumberLong(0),
+    "floor_count" : NumberLong(47),
+    "description" : null,
+    "parking" : [ 
+        {
+            "name" : "Car Parking",
+            "type" : "Car",
+            "payment_term" : "Free",
+            "price" : 0.0,
+            "capacity" : NumberLong(0)
+        }, 
+        {
+            "name" : "Motorcycle Parking",
+            "type" : "Motorcycle",
+            "payment_term" : "Free",
+            "price" : 0.0,
+            "capacity" : NumberLong(0)
+        }
+    ],
+    "lift" : [ 
+        {
+            "name" : "Passenger",
+            "serving" : "",
+            "count" : NumberLong(0)
+        }, 
+        {
+            "name" : "Service",
+            "serving" : "",
+            "count" : NumberLong(2)
+        }
+    ],
+    "internet" : {
+        "CBN" : true
+    },
+    "images" : {
+        "images_floorplan" : [ 
+            {
+                "url" : "building/oqjanpsbdbc8f9khjs6z",
+                "alternate_text" : "3BR",
+                "priority" : NumberLong(3)
+            }
+        ]
+    },
+    "unit_total" : NumberLong(20),
+    "branches" : {
+        "5e5e19b51f78725c121fa3fc" : true,
+        "5c8a28ed9208d3e40eaf0196" : true,
+        "5e2e77bebdd35d85036fa1e1" : true,
+        "5e5e2e5d1f78725c121fa3fe" : true,
+        "5c8f5bc523a47a53411f0f5a" : true,
+        "5e2e6cddbdd35d85036fa1e0" : true,
+        "5e5e19d61f78725c121fa3fd" : true,
+        "5c88a1599208d3e40eaf0195" : true
+    },
+    "id" : "5c7f62f77e409ee0933b0baa",
+    "building_type" : [ 
+        "Strata Buy", 
+        "Strata Rent"
+    ],
+    "architect" : "",
+    "certificate" : "",
+    "contractor" : "",
+    "fee_component" : [ 
+        {
+            "for" : "Rent",
+            "percentage" : 0.0,
+            "from" : "price_rent"
+        }, 
+        {
+            "for" : "Sell",
+            "percentage" : 0.0,
+            "from" : "price_sell"
+        }
+    ],
+    "last_update_by_uid" : "admin+dev@spacestock.com",
+    "promo" : "",
+    "rent_commission" : 0.0,
+    "sell_commission" : 0.0,
+    "service_charge" : 27000.0,
+    "sinking_fund" : 7500.0,
+    "year_completed_estimation" : NumberLong(0),
+    "year_construction" : NumberLong(0),
+    "auto_description" : true,
+    "is_leads_agent" : false,
+    "average_floor_plate" : 0.0,
+    "ceiling_height" : 0.0,
+    "commercial_terms" : null,
+    "condition" : "",
+    "create_at" : NumberLong(0),
+    "create_by_id" : "",
+    "electricity" : null,
+    "fire_safety" : null,
+    "grade" : "",
+    "land_size" : 0.0,
+    "max_zone_per_floor" : NumberLong(0),
+    "office_hours" : null,
+    "power_line" : null,
+    "selling_point" : {
+        "id" : [ 
+            {
+                "title" : "",
+                "description" : ""
+            }
+        ]
+    },
+    "semi_gross_area" : 0.0,
+    "status" : NumberLong(0),
+    "unit_rent_total" : NumberLong(0),
+    "unit_sell_total" : NumberLong(0),
+    "complex" : {
+        "id" : "5c7f62f77e409ee0933b0ba7",
+        "name" : "Airlangga Apartment"
+    }
+}
+
+/* 11 */
+{
+    "_id" : ObjectId("5c7f62f77e409ee0933b0bac"),
+    "complex_id" : "5c7f62f77e409ee0933b0bab",
+    "last_update_at" : NumberLong(1560851938),
+    "category" : "Apartment",
+    "name" : "Ambasador Apartment 1",
+    "year_completion" : NumberLong(0),
+    "year_renovation" : NumberLong(0),
+    "floor_count" : NumberLong(0),
+    "description" : null,
+    "parking" : [ 
+        {
+            "name" : "Car Parking",
+            "type" : "Car",
+            "payment_term" : "",
+            "price" : 0.0,
+            "capacity" : NumberLong(0)
+        }, 
+        {
+            "name" : "Motorcycle Parking",
+            "type" : "Motorcycle",
+            "payment_term" : "",
+            "price" : 0.0,
+            "capacity" : NumberLong(0)
+        }
+    ],
+    "lift" : [ 
+        {
+            "name" : "Passenger",
+            "serving" : "",
+            "count" : NumberLong(0)
+        }, 
+        {
+            "name" : "Service",
+            "serving" : "",
+            "count" : NumberLong(0)
+        }
+    ],
+    "internet" : null,
+    "images" : {},
+    "unit_total" : NumberLong(144),
+    "branches" : {
+        "5e5e2e5d1f78725c121fa3fe" : true,
+        "5c8f5bc523a47a53411f0f5a" : true,
+        "5e2e6cddbdd35d85036fa1e0" : true,
+        "5e2e77bebdd35d85036fa1e1" : true,
+        "5c88a1599208d3e40eaf0195" : true,
+        "5e5e19b51f78725c121fa3fc" : true,
+        "5c8a28ed9208d3e40eaf0196" : true,
+        "5e5e19d61f78725c121fa3fd" : true
+    },
+    "id" : "5c7f62f77e409ee0933b0bac",
+    "building_type" : [ 
+        "Strata Buy", 
+        "Strata Rent"
+    ],
+    "architect" : "",
+    "auto_description" : true,
+    "certificate" : "",
+    "contractor" : "",
+    "fee_component" : [ 
+        {
+            "for" : "Rent",
+            "percentage" : 0.0,
+            "from" : "price_rent"
+        }, 
+        {
+            "for" : "Sell",
+            "percentage" : 0.0,
+            "from" : "price_sell"
+        }
+    ],
+    "is_leads_agent" : false,
+    "promo" : "",
+    "rent_commission" : 0.0,
+    "sell_commission" : 0.0,
+    "year_completed_estimation" : NumberLong(0),
+    "year_construction" : NumberLong(0),
+    "average_floor_plate" : 0.0,
+    "ceiling_height" : 0.0,
+    "commercial_terms" : null,
+    "condition" : "",
+    "electricity" : null,
+    "fire_safety" : null,
+    "grade" : "",
+    "land_size" : 0.0,
+    "last_update_by_uid" : "admin+dev@spacestock.com",
+    "max_zone_per_floor" : NumberLong(0),
+    "office_hours" : null,
+    "power_line" : null,
+    "selling_point" : {
+        "id" : [ 
+            {
+                "title" : "",
+                "description" : ""
+            }
+        ]
+    },
+    "semi_gross_area" : 0.0,
+    "service_charge" : 0.0,
+    "sinking_fund" : 0.0,
+    "unit_rent_total" : NumberLong(1),
+    "unit_sell_total" : NumberLong(1),
+    "complex" : {
+        "id" : "5c7f62f77e409ee0933b0bab",
+        "name" : "Ambasador Apartment 1"
+    }
+}
+
+/* 12 */
+{
+    "_id" : ObjectId("5c7f62f77e409ee0933b0bae"),
+    "complex_id" : "5c7f62f77e409ee0933b0bad",
+    "last_update_at" : NumberLong(1583130318),
+    "category" : "Apartment",
+    "name" : "Tower Ambassade",
+    "year_completion" : NumberLong(1325350800),
+    "year_renovation" : NumberLong(0),
+    "floor_count" : 27,
+    "description" : null,
+    "parking" : [ 
+        {
+            "name" : "Car Parking",
+            "type" : "Car",
+            "payment_term" : "Monthly",
+            "price" : 150000.0,
+            "capacity" : 0
+        }, 
+        {
+            "name" : "Motorcycle Parking",
+            "type" : "Motorcycle",
+            "payment_term" : "Monthly",
+            "price" : 75000.0,
+            "capacity" : 0
+        }
+    ],
+    "lift" : [ 
+        {
+            "name" : "Passenger",
+            "serving" : "",
+            "count" : 3
+        }, 
+        {
+            "name" : "Service",
+            "serving" : "",
+            "count" : 1
+        }
+    ],
+    "internet" : {
+        "Powertell" : true
+    },
+    "images" : {
+        "images_developer" : null,
+        "images_banner" : null,
+        "images_brochure" : null,
+        "images_interior" : null,
+        "images_exterior" : null,
+        "images_floorplan" : [ 
+            {
+                "url" : "building/je7sbjkoxr4oxismmx2k",
+                "alternate_text" : "1BR",
+                "priority" : 3
+            }, 
+            {
+                "url" : "building/b3a0vx7caqcxml6jt94u",
+                "alternate_text" : "2BR",
+                "priority" : 3
+            }, 
+            {
+                "url" : "building/rr96qitvngbpmpkb6u6e",
+                "alternate_text" : "3BR",
+                "priority" : 3
+            }, 
+            {
+                "url" : "building/d2jpzrm6zg8oesuamb2z",
+                "alternate_text" : "Studio",
+                "priority" : 3
+            }
+        ],
+        "images_360" : null,
+        "video_link" : null
+    },
+    "unit_total" : 242,
+    "branches" : {
+        "5c8a28ed9208d3e40eaf0196" : true,
+        "5e5e2e5d1f78725c121fa3fe" : true,
+        "5e2e77bebdd35d85036fa1e1" : true,
+        "5e85d5daca6ee7ced714cc58" : true,
+        "5c88a1599208d3e40eaf0195" : true,
+        "5e5e19d61f78725c121fa3fd" : true,
+        "5e2e6cddbdd35d85036fa1e0" : true,
+        "5c8f5bc523a47a53411f0f5a" : true,
+        "5e5e19b51f78725c121fa3fc" : true
+    },
+    "id" : "5c7f62f77e409ee0933b0bae",
+    "unit_rent_total" : NumberLong(20),
+    "building_type" : [ 
+        "Strata Buy", 
+        "Strata Rent"
+    ],
+    "architect" : "",
+    "auto_description" : true,
+    "certificate" : "",
+    "contractor" : "",
+    "fee_component" : [ 
+        {
+            "for" : "Rent",
+            "percentage" : 0.0,
+            "from" : "price_rent"
+        }, 
+        {
+            "for" : "Sell",
+            "percentage" : 0.0,
+            "from" : "price_sell"
+        }
+    ],
+    "is_leads_agent" : false,
+    "promo" : "",
+    "rent_commission" : 0.0,
+    "sell_commission" : 0.0,
+    "year_completed_estimation" : NumberLong(0),
+    "year_construction" : NumberLong(0),
+    "average_floor_plate" : 0.0,
+    "ceiling_height" : 0.0,
+    "commercial_terms" : null,
+    "condition" : "",
+    "create_at" : NumberLong(0),
+    "create_by_id" : "",
+    "electricity" : null,
+    "fire_safety" : null,
+    "grade" : "",
+    "land_size" : 0.0,
+    "last_update_by_uid" : "admin+dev@spacestock.com",
+    "max_zone_per_floor" : NumberLong(0),
+    "office_hours" : null,
+    "power_line" : null,
+    "selling_point" : {
+        "id" : [ 
+            {
+                "title" : "",
+                "description" : ""
+            }
+        ]
+    },
+    "semi_gross_area" : 0.0,
+    "service_charge" : 16000.0,
+    "sinking_fund" : 0.0,
+    "status" : 0,
+    "unit_sell_total" : NumberLong(4),
+    "complex" : {
+        "id" : "5c7f62f77e409ee0933b0bad",
+        "name" : "Ambassade Residences",
+        "address_city" : "JAKARTA SELATAN",
+        "primary_area" : null
+    },
+    "include_scsf" : false,
+    "total_unit_primary" : 0
+}
+
+/* 13 */
+{
+    "_id" : ObjectId("5c7f62f87e409ee0933b0bb0"),
+    "complex_id" : "5c7f62f87e409ee0933b0baf",
+    "last_update_at" : NumberLong(0),
+    "category" : "Apartment",
+    "name" : "Ambassador Apartment 2",
+    "year_completion" : NumberLong(0),
+    "year_renovation" : NumberLong(0),
+    "floor_count" : NumberLong(0),
+    "description" : null,
+    "parking" : [ 
+        {
+            "name" : "Car Parking",
+            "type" : "Car",
+            "payment_term" : "",
+            "price" : 0.0,
+            "capacity" : NumberLong(0)
+        }, 
+        {
+            "name" : "Motorcycle Parking",
+            "type" : "Motorcycle",
+            "payment_term" : "",
+            "price" : 0.0,
+            "capacity" : NumberLong(0)
+        }
+    ],
+    "lift" : [ 
+        {
+            "name" : "Passenger",
+            "serving" : "",
+            "count" : NumberLong(0)
+        }, 
+        {
+            "name" : "Service",
+            "serving" : "",
+            "count" : NumberLong(0)
+        }
+    ],
+    "internet" : {},
+    "images" : {},
+    "unit_total" : NumberLong(240),
+    "branches" : {
+        "5c8a28ed9208d3e40eaf0196" : true,
+        "5e2e77bebdd35d85036fa1e1" : true,
+        "5c88a1599208d3e40eaf0195" : true,
+        "5e5e19b51f78725c121fa3fc" : true,
+        "5e5e2e5d1f78725c121fa3fe" : true,
+        "5c8f5bc523a47a53411f0f5a" : true,
+        "5e2e6cddbdd35d85036fa1e0" : true,
+        "5e5e19d61f78725c121fa3fd" : true
+    },
+    "id" : "5c7f62f87e409ee0933b0bb0",
+    "unit_rent_total" : NumberLong(4),
+    "unit_sell_total" : NumberLong(1),
+    "building_type" : [ 
+        "Strata Buy", 
+        "Strata Rent"
+    ],
+    "architect" : "",
+    "auto_description" : false,
+    "certificate" : "",
+    "contractor" : "",
+    "fee_component" : null,
+    "is_leads_agent" : false,
+    "promo" : "",
+    "rent_commission" : 0.0,
+    "sell_commission" : 0.0,
+    "year_completed_estimation" : NumberLong(0),
+    "year_construction" : NumberLong(0),
+    "complex" : {
+        "id" : "5c7f62f87e409ee0933b0baf",
+        "name" : "Ambassador Apartment 2"
+    }
+}
+
+/* 14 */
+{
+    "_id" : ObjectId("5c7f62f87e409ee0933b0bb2"),
+    "complex_id" : "5c7f62f87e409ee0933b0bb1",
+    "last_update_at" : NumberLong(1568272491),
+    "category" : "Apartment",
+    "name" : "Tower Anandamaya One",
+    "year_completion" : NumberLong(1514739600),
+    "year_renovation" : NumberLong(0),
+    "floor_count" : NumberLong(55),
+    "description" : null,
+    "parking" : [ 
+        {
+            "name" : "Car Parking",
+            "type" : "Car",
+            "payment_term" : "Free",
+            "price" : 0.0,
+            "capacity" : NumberLong(0)
+        }, 
+        {
+            "name" : "Motorcycle Parking",
+            "type" : "Motorcycle",
+            "payment_term" : "Free",
+            "price" : 0.0,
+            "capacity" : NumberLong(0)
+        }
+    ],
+    "lift" : [ 
+        {
+            "name" : "Passenger",
+            "serving" : "",
+            "count" : NumberLong(1)
+        }, 
+        {
+            "name" : "Service",
+            "serving" : "",
+            "count" : NumberLong(2)
+        }
+    ],
+    "internet" : {
+        "Tower Bersama Group" : true
+    },
+    "images" : {
+        "images_developer" : null,
+        "images_banner" : null,
+        "images_brochure" : null,
+        "images_interior" : null,
+        "images_exterior" : null,
+        "images_floorplan" : [ 
+            {
+                "url" : "building/kimgqecfoqncs0wseghx",
+                "alternate_text" : "3BR",
+                "priority" : NumberLong(3)
+            }, 
+            {
+                "url" : "building/egitelqzvdzedo2uwavt",
+                "alternate_text" : "4BR+",
+                "priority" : NumberLong(3)
+            }, 
+            {
+                "url" : "building/lnxbhv04uk8ulfivh6ad",
+                "alternate_text" : "3BR",
+                "priority" : NumberLong(1)
+            }
+        ],
+        "images_360" : null,
+        "video_link" : null
+    },
+    "unit_total" : NumberLong(109),
+    "branches" : {
+        "5c8a28ed9208d3e40eaf0196" : true,
+        "5e5e19d61f78725c121fa3fd" : true,
+        "5e2e77bebdd35d85036fa1e1" : true,
+        "5c88a1599208d3e40eaf0195" : true,
+        "5e5e19b51f78725c121fa3fc" : true,
+        "5e5e2e5d1f78725c121fa3fe" : true,
+        "5c8f5bc523a47a53411f0f5a" : true,
+        "5e2e6cddbdd35d85036fa1e0" : true
+    },
+    "id" : "5c7f62f87e409ee0933b0bb2",
+    "unit_sell_total" : NumberLong(1),
+    "architect" : "",
+    "certificate" : "",
+    "contractor" : "",
+    "fee_component" : [ 
+        {
+            "for" : "Rent",
+            "percentage" : 0.0,
+            "from" : "price_rent"
+        }, 
+        {
+            "for" : "Sell",
+            "percentage" : 0.0,
+            "from" : "price_sell"
+        }
+    ],
+    "last_update_by_uid" : "admin+dev@spacestock.com",
+    "promo" : "",
+    "rent_commission" : 0.0,
+    "sell_commission" : 0.0,
+    "year_completed_estimation" : NumberLong(0),
+    "year_construction" : NumberLong(0),
+    "building_type" : [ 
+        "Strata Buy", 
+        "Strata Rent"
+    ],
+    "service_charge" : 50000.0,
+    "sinking_fund" : -1.0,
+    "auto_description" : true,
+    "is_leads_agent" : false,
+    "average_floor_plate" : 0.0,
+    "ceiling_height" : 0.0,
+    "commercial_terms" : null,
+    "condition" : "",
+    "create_at" : NumberLong(0),
+    "create_by_id" : "",
+    "electricity" : null,
+    "fire_safety" : null,
+    "grade" : "",
+    "land_size" : 0.0,
+    "max_zone_per_floor" : NumberLong(0),
+    "office_hours" : null,
+    "power_line" : null,
+    "selling_point" : {
+        "id" : [ 
+            {
+                "title" : "",
+                "description" : ""
+            }
+        ]
+    },
+    "semi_gross_area" : 0.0,
+    "status" : NumberLong(0),
+    "unit_rent_total" : NumberLong(1),
+    "complex" : {
+        "id" : "5c7f62f87e409ee0933b0bb1",
+        "name" : "Anandamaya Residences",
+        "address_city" : "JAKARTA PUSAT",
+        "primary_area" : null
+    }
+}
+
+/* 15 */
+{
+    "_id" : ObjectId("5c7f62f87e409ee0933b0bb3"),
+    "complex_id" : "5c7f62f87e409ee0933b0bb1",
+    "last_update_at" : NumberLong(1568271630),
+    "category" : "Apartment",
+    "name" : "Tower 2",
+    "year_completion" : NumberLong(1514739600),
+    "year_renovation" : NumberLong(0),
+    "floor_count" : NumberLong(59),
+    "description" : {
+        "id" : ""
+    },
+    "parking" : [ 
+        {
+            "name" : "Car Parking",
+            "type" : "Car",
+            "payment_term" : "Free",
+            "price" : 0.0,
+            "capacity" : NumberLong(0)
+        }, 
+        {
+            "name" : "Motorcycle Parking",
+            "type" : "Motorcycle",
+            "payment_term" : "Free",
+            "price" : 0.0,
+            "capacity" : NumberLong(0)
+        }
+    ],
+    "lift" : [ 
+        {
+            "name" : "Passenger",
+            "serving" : "",
+            "count" : NumberLong(4)
+        }, 
+        {
+            "name" : "Service",
+            "serving" : "",
+            "count" : NumberLong(2)
+        }
+    ],
+    "internet" : {
+        "Tower Bersama Group" : true
+    },
+    "images" : {
+        "images_developer" : null,
+        "images_banner" : null,
+        "images_brochure" : null,
+        "images_interior" : [ 
+            {
+                "url" : "building/cat-20190306084427",
+                "alternate_text" : "Others",
+                "priority" : NumberLong(1)
+            }, 
+            {
+                "url" : "building/cat-20190306084430",
+                "alternate_text" : "Lobby",
+                "priority" : NumberLong(5)
+            }, 
+            {
+                "url" : "building/cat-20190306084432",
+                "alternate_text" : "Lobby Lift",
+                "priority" : NumberLong(6)
+            }, 
+            {
+                "url" : "building/cat-20190306084435",
+                "alternate_text" : "Others",
+                "priority" : NumberLong(8)
+            }, 
+            {
+                "url" : "building/cat-20190306084436",
+                "alternate_text" : "Lobby",
+                "priority" : NumberLong(9)
+            }, 
+            {
+                "url" : "building/cat-20190306084425",
+                "alternate_text" : "Lobby",
+                "priority" : NumberLong(10)
+            }
+        ],
+        "images_exterior" : null,
+        "images_floorplan" : [ 
+            {
+                "url" : "building/lpm99kj5py2bj5q9bfpr",
+                "alternate_text" : "2BR",
+                "priority" : NumberLong(1)
+            }, 
+            {
+                "url" : "building/n1gikctevryldsd8drwm",
+                "alternate_text" : "2BR",
+                "priority" : NumberLong(3)
+            }, 
+            {
+                "url" : "building/sgbfcbpba2jqhi6bjj7s",
+                "alternate_text" : "3BR",
+                "priority" : NumberLong(3)
+            }
+        ],
+        "images_360" : null,
+        "video_link" : null
+    },
+    "unit_total" : NumberLong(200),
+    "id" : "5c7f62f87e409ee0933b0bb3",
+    "branches" : {
+        "5c88a1599208d3e40eaf0195" : true,
+        "5e5e19b51f78725c121fa3fc" : true,
+        "5e5e2e5d1f78725c121fa3fe" : true,
+        "5c8f5bc523a47a53411f0f5a" : true,
+        "5e2e6cddbdd35d85036fa1e0" : true,
+        "5c8a28ed9208d3e40eaf0196" : true,
+        "5e5e19d61f78725c121fa3fd" : true,
+        "5e2e77bebdd35d85036fa1e1" : true
+    },
+    "building_type" : [ 
+        "Strata Buy", 
+        "Strata Rent"
+    ],
+    "last_update_by_uid" : "admin+dev@spacestock.com",
+    "unit_rent_total" : NumberLong(9),
+    "architect" : "",
+    "certificate" : "",
+    "contractor" : "",
+    "fee_component" : [ 
+        {
+            "for" : "Rent",
+            "percentage" : 0.0,
+            "from" : "price_rent"
+        }, 
+        {
+            "for" : "Sell",
+            "percentage" : 0.0,
+            "from" : "price_sell"
+        }
+    ],
+    "promo" : "",
+    "rent_commission" : 0.0,
+    "sell_commission" : 0.0,
+    "year_completed_estimation" : NumberLong(0),
+    "year_construction" : NumberLong(0),
+    "service_charge" : 42000.0,
+    "auto_description" : true,
+    "is_leads_agent" : false,
+    "average_floor_plate" : 0.0,
+    "ceiling_height" : 0.0,
+    "commercial_terms" : null,
+    "condition" : "",
+    "create_at" : NumberLong(0),
+    "create_by_id" : "",
+    "electricity" : null,
+    "fire_safety" : null,
+    "grade" : "",
+    "land_size" : 0.0,
+    "max_zone_per_floor" : NumberLong(0),
+    "office_hours" : null,
+    "power_line" : null,
+    "selling_point" : {
+        "id" : [ 
+            {
+                "title" : "",
+                "description" : ""
+            }
+        ]
+    },
+    "semi_gross_area" : 0.0,
+    "sinking_fund" : -1.0,
+    "status" : NumberLong(0),
+    "unit_sell_total" : NumberLong(0),
+    "complex" : {
+        "id" : "5c7f62f87e409ee0933b0bb1",
+        "name" : "Anandamaya Residences",
+        "address_city" : "JAKARTA PUSAT",
+        "primary_area" : null
+    }
+}
+
+/* 16 */
+{
+    "_id" : ObjectId("5c7f62f87e409ee0933b0bb4"),
+    "complex_id" : "5c7f62f87e409ee0933b0bb1",
+    "last_update_at" : NumberLong(1568272119),
+    "category" : "Apartment",
+    "name" : "Tower 3",
+    "year_completion" : NumberLong(1514739600),
+    "year_renovation" : NumberLong(0),
+    "floor_count" : NumberLong(59),
+    "description" : null,
+    "parking" : [ 
+        {
+            "name" : "Car Parking",
+            "type" : "Car",
+            "payment_term" : "Free",
+            "price" : 0.0,
+            "capacity" : NumberLong(0)
+        }, 
+        {
+            "name" : "Motorcycle Parking",
+            "type" : "Motorcycle",
+            "payment_term" : "Free",
+            "price" : 0.0,
+            "capacity" : NumberLong(0)
+        }
+    ],
+    "lift" : [ 
+        {
+            "name" : "Passenger",
+            "serving" : "",
+            "count" : NumberLong(4)
+        }, 
+        {
+            "name" : "Service",
+            "serving" : "",
+            "count" : NumberLong(2)
+        }
+    ],
+    "internet" : {
+        "Tower Bersama Group" : true
+    },
+    "images" : {
+        "images_developer" : null,
+        "images_banner" : null,
+        "images_brochure" : null,
+        "images_interior" : [ 
+            {
+                "url" : "building/cat-20190306084505",
+                "alternate_text" : "Others",
+                "priority" : NumberLong(1)
+            }, 
+            {
+                "url" : "building/cat-20190306084506",
+                "alternate_text" : "Lobby",
+                "priority" : NumberLong(2)
+            }, 
+            {
+                "url" : "building/cat-20190306084507",
+                "alternate_text" : "Lobby",
+                "priority" : NumberLong(3)
+            }, 
+            {
+                "url" : "building/cat-20190306084508",
+                "alternate_text" : "Lobby",
+                "priority" : NumberLong(4)
+            }, 
+            {
+                "url" : "building/cat-20190306084510",
+                "alternate_text" : "Lobby",
+                "priority" : NumberLong(5)
+            }, 
+            {
+                "url" : "building/cat-20190306084509",
+                "alternate_text" : "Lobby",
+                "priority" : NumberLong(5)
+            }, 
+            {
+                "url" : "building/cat-20190306084511",
+                "alternate_text" : "Lobby Lift",
+                "priority" : NumberLong(6)
+            }, 
+            {
+                "url" : "building/cat-20190306084512",
+                "alternate_text" : "Lobby Lift",
+                "priority" : NumberLong(7)
+            }, 
+            {
+                "url" : "building/cat-20190306084501",
+                "alternate_text" : "Lobby",
+                "priority" : NumberLong(10)
+            }, 
+            {
+                "url" : "building/cat-20190306084502",
+                "alternate_text" : "Lobby",
+                "priority" : NumberLong(11)
+            }, 
+            {
+                "url" : "building/cat-20190306084503",
+                "alternate_text" : "Lobby Lift",
+                "priority" : NumberLong(12)
+            }, 
+            {
+                "url" : "building/cat-20190306084504",
+                "alternate_text" : "Lobby Lift",
+                "priority" : NumberLong(13)
+            }
+        ],
+        "images_exterior" : null,
+        "images_floorplan" : [ 
+            {
+                "url" : "building/wxvvw5vm6msftq8qvcvq",
+                "alternate_text" : "2BR",
+                "priority" : NumberLong(1)
+            }, 
+            {
+                "url" : "building/urjewazcrwseaa8ri53m",
+                "alternate_text" : "3BR",
+                "priority" : NumberLong(3)
+            }, 
+            {
+                "url" : "building/uzph0ufgxbkaf2ajcl1h",
+                "alternate_text" : "2BR",
+                "priority" : NumberLong(3)
+            }
+        ],
+        "images_360" : null,
+        "video_link" : null
+    },
+    "unit_total" : NumberLong(200),
+    "id" : "5c7f62f87e409ee0933b0bb4",
+    "branches" : {
+        "5c8f5bc523a47a53411f0f5a" : true,
+        "5e2e6cddbdd35d85036fa1e0" : true,
+        "5c8a28ed9208d3e40eaf0196" : true,
+        "5e5e19d61f78725c121fa3fd" : true,
+        "5e2e77bebdd35d85036fa1e1" : true,
+        "5c88a1599208d3e40eaf0195" : true,
+        "5e5e19b51f78725c121fa3fc" : true,
+        "5e5e2e5d1f78725c121fa3fe" : true
+    },
+    "unit_rent_total" : NumberLong(11),
+    "unit_sell_total" : NumberLong(2),
+    "architect" : "",
+    "certificate" : "",
+    "contractor" : "",
+    "fee_component" : [ 
+        {
+            "for" : "Rent",
+            "percentage" : 0.0,
+            "from" : "price_rent"
+        }, 
+        {
+            "for" : "Sell",
+            "percentage" : 0.0,
+            "from" : "price_sell"
+        }
+    ],
+    "last_update_by_uid" : "admin+dev@spacestock.com",
+    "promo" : "",
+    "rent_commission" : 0.0,
+    "sell_commission" : 0.0,
+    "year_completed_estimation" : NumberLong(0),
+    "year_construction" : NumberLong(0),
+    "building_type" : [ 
+        "Strata Buy", 
+        "Strata Rent"
+    ],
+    "service_charge" : 42000.0,
+    "auto_description" : true,
+    "is_leads_agent" : false,
+    "average_floor_plate" : 0.0,
+    "ceiling_height" : 0.0,
+    "commercial_terms" : null,
+    "condition" : "",
+    "create_at" : NumberLong(0),
+    "create_by_id" : "",
+    "electricity" : null,
+    "fire_safety" : null,
+    "grade" : "",
+    "land_size" : 0.0,
+    "max_zone_per_floor" : NumberLong(0),
+    "office_hours" : null,
+    "power_line" : null,
+    "selling_point" : {
+        "id" : [ 
+            {
+                "title" : "",
+                "description" : ""
+            }
+        ]
+    },
+    "semi_gross_area" : 0.0,
+    "sinking_fund" : -1.0,
+    "status" : NumberLong(0),
+    "complex" : {
+        "id" : "5c7f62f87e409ee0933b0bb1",
+        "name" : "Anandamaya Residences",
+        "address_city" : "JAKARTA PUSAT",
+        "primary_area" : null
+    }
+}
+
+/* 17 */
+{
+    "_id" : ObjectId("5c7f62f87e409ee0933b0bb6"),
+    "complex_id" : "5c7f62f87e409ee0933b0bb5",
+    "last_update_at" : NumberLong(1563873012),
+    "category" : "Apartment",
+    "name" : "Apartemen Setiabudi",
+    "year_completion" : NumberLong(0),
+    "year_renovation" : NumberLong(0),
+    "floor_count" : NumberLong(17),
+    "description" : null,
+    "parking" : [ 
+        {
+            "name" : "Car Parking",
+            "type" : "Car",
+            "payment_term" : "Free",
+            "price" : 0.0,
+            "capacity" : NumberLong(0)
+        }, 
+        {
+            "name" : "Motorcycle Parking",
+            "type" : "Motorcycle",
+            "payment_term" : "",
+            "price" : 0.0,
+            "capacity" : NumberLong(0)
+        }
+    ],
+    "lift" : [ 
+        {
+            "name" : "Passenger",
+            "serving" : "",
+            "count" : NumberLong(2)
+        }, 
+        {
+            "name" : "Service",
+            "serving" : "",
+            "count" : NumberLong(1)
+        }
+    ],
+    "internet" : {
+        "First Media" : true
+    },
+    "images" : {
+        "images_interior" : [ 
+            {
+                "url" : "building/lk3prr12w1k31dal3fyd",
+                "alternate_text" : "Lobby Lift",
+                "priority" : NumberLong(1)
+            }, 
+            {
+                "url" : "building/vr5c1pxj02smeraa8v6s",
+                "alternate_text" : "Lobby",
+                "priority" : NumberLong(3)
+            }, 
+            {
+                "url" : "building/zmjzwgdcifiumyg8rkjr",
+                "alternate_text" : "Lobby",
+                "priority" : NumberLong(3)
+            }
+        ],
+        "images_360" : [ 
+            {
+                "url" : "building/gkondfykin0rosjjniht",
+                "alternate_text" : "Interior - Lobby",
+                "priority" : NumberLong(1)
+            }
+        ]
+    },
+    "unit_total" : NumberLong(87),
+    "branches" : {
+        "5e5e2e5d1f78725c121fa3fe" : true,
+        "5c8f5bc523a47a53411f0f5a" : true,
+        "5e2e6cddbdd35d85036fa1e0" : true,
+        "5c88a1599208d3e40eaf0195" : true,
+        "5e5e19b51f78725c121fa3fc" : true,
+        "5e5e19d61f78725c121fa3fd" : true,
+        "5c8a28ed9208d3e40eaf0196" : true,
+        "5e2e77bebdd35d85036fa1e1" : true
+    },
+    "id" : "5c7f62f87e409ee0933b0bb6",
+    "architect" : "",
+    "building_type" : [ 
+        "Strata Buy", 
+        "Strata Rent"
+    ],
+    "certificate" : "",
+    "contractor" : "",
+    "fee_component" : [ 
+        {
+            "for" : "Rent",
+            "percentage" : 0.0,
+            "from" : "price_rent"
+        }, 
+        {
+            "for" : "Sell",
+            "percentage" : 0.0,
+            "from" : "price_sell"
+        }
+    ],
+    "last_update_by_uid" : "admin+dev@spacestock.com",
+    "promo" : "",
+    "rent_commission" : 0.0,
+    "sell_commission" : 0.0,
+    "year_completed_estimation" : NumberLong(0),
+    "year_construction" : NumberLong(0),
+    "auto_description" : true,
+    "is_leads_agent" : false,
+    "unit_rent_total" : NumberLong(3),
+    "average_floor_plate" : 0.0,
+    "ceiling_height" : 0.0,
+    "commercial_terms" : null,
+    "condition" : "",
+    "create_at" : NumberLong(0),
+    "create_by_id" : "",
+    "electricity" : null,
+    "fire_safety" : null,
+    "grade" : "",
+    "land_size" : 0.0,
+    "max_zone_per_floor" : NumberLong(0),
+    "office_hours" : null,
+    "power_line" : null,
+    "selling_point" : {
+        "id" : [ 
+            {
+                "title" : "",
+                "description" : ""
+            }
+        ]
+    },
+    "semi_gross_area" : 0.0,
+    "service_charge" : 0.0,
+    "sinking_fund" : 0.0,
+    "status" : NumberLong(0),
+    "unit_sell_total" : NumberLong(0),
+    "complex" : {
+        "id" : "5c7f62f87e409ee0933b0bb5",
+        "name" : "Apartemen Setiabudi"
+    }
+}
+
+/* 18 */
+{
+    "_id" : ObjectId("5c7f62f97e409ee0933b0bb8"),
+    "complex_id" : "5c7f62f87e409ee0933b0bb7",
+    "last_update_at" : NumberLong(1567559426),
+    "category" : "Apartment",
+    "name" : "Tower 1",
+    "year_completion" : NumberLong(820429200),
+    "year_renovation" : NumberLong(0),
+    "floor_count" : NumberLong(33),
+    "description" : null,
+    "parking" : [ 
+        {
+            "name" : "Car Parking",
+            "type" : "Car",
+            "payment_term" : "Free",
+            "price" : 0.0,
+            "capacity" : NumberLong(0)
+        }, 
+        {
+            "name" : "Motorcycle Parking",
+            "type" : "Motorcycle",
+            "payment_term" : "Free",
+            "price" : 0.0,
+            "capacity" : NumberLong(0)
+        }
+    ],
+    "lift" : [ 
+        {
+            "name" : "Passenger",
+            "serving" : "",
+            "count" : NumberLong(3)
+        }, 
+        {
+            "name" : "Service",
+            "serving" : "",
+            "count" : NumberLong(1)
+        }
+    ],
+    "internet" : {
+        "Indihome" : true,
+        "First Media" : true,
+        "My Republic" : true
+    },
+    "images" : {
+        "images_developer" : null,
+        "images_banner" : null,
+        "images_brochure" : null,
+        "images_interior" : null,
+        "images_exterior" : null,
+        "images_floorplan" : null,
+        "images_360" : null,
+        "video_link" : null
+    },
+    "unit_total" : NumberLong(264),
+    "branches" : {
+        "5e5e2e5d1f78725c121fa3fe" : true,
+        "5c8f5bc523a47a53411f0f5a" : true,
+        "5e5e19b51f78725c121fa3fc" : true,
+        "5e85d5daca6ee7ced714cc58" : true,
+        "5e2e77bebdd35d85036fa1e1" : true,
+        "5c8a28ed9208d3e40eaf0196" : true,
+        "5e2e6cddbdd35d85036fa1e0" : true,
+        "5c88a1599208d3e40eaf0195" : true,
+        "5e5e19d61f78725c121fa3fd" : true
+    },
+    "id" : "5c7f62f97e409ee0933b0bb8",
+    "architect" : "",
+    "building_type" : [ 
+        "Strata Buy", 
+        "Strata Rent"
+    ],
+    "certificate" : "",
+    "contractor" : "",
+    "fee_component" : [ 
+        {
+            "for" : "Rent",
+            "percentage" : 0.0,
+            "from" : "price_rent"
+        }, 
+        {
+            "for" : "Sell",
+            "percentage" : 0.0,
+            "from" : "price_sell"
+        }
+    ],
+    "last_update_by_uid" : "admin+dev@spacestock.com",
+    "promo" : "",
+    "rent_commission" : 0.0,
+    "sell_commission" : 0.0,
+    "year_completed_estimation" : NumberLong(0),
+    "year_construction" : NumberLong(0),
+    "service_charge" : 14500.0,
+    "auto_description" : true,
+    "is_leads_agent" : false,
+    "average_floor_plate" : 0.0,
+    "ceiling_height" : 0.0,
+    "commercial_terms" : null,
+    "condition" : "",
+    "create_at" : NumberLong(0),
+    "create_by_id" : "",
+    "electricity" : null,
+    "fire_safety" : null,
+    "grade" : "",
+    "land_size" : 0.0,
+    "max_zone_per_floor" : NumberLong(0),
+    "office_hours" : null,
+    "power_line" : null,
+    "selling_point" : {
+        "id" : [ 
+            {
+                "title" : "",
+                "description" : ""
+            }
+        ]
+    },
+    "semi_gross_area" : 0.0,
+    "sinking_fund" : 0.0,
+    "status" : NumberLong(0),
+    "unit_rent_total" : NumberLong(0),
+    "unit_sell_total" : NumberLong(0),
+    "complex" : {
+        "id" : "5c7f62f87e409ee0933b0bb7",
+        "name" : "Apartemen Taman Rasuna"
+    }
+}
+
+/* 19 */
+{
+    "_id" : ObjectId("5c7f62f97e409ee0933b0bb9"),
+    "complex_id" : "5c7f62f87e409ee0933b0bb7",
+    "last_update_at" : NumberLong(1567559483),
+    "category" : "Apartment",
+    "name" : "Tower 2",
+    "year_completion" : NumberLong(820429200),
+    "year_renovation" : NumberLong(0),
+    "floor_count" : NumberLong(27),
+    "description" : null,
+    "parking" : [ 
+        {
+            "name" : "Car Parking",
+            "type" : "Car",
+            "payment_term" : "Free",
+            "price" : 0.0,
+            "capacity" : NumberLong(0)
+        }, 
+        {
+            "name" : "Motorcycle Parking",
+            "type" : "Motorcycle",
+            "payment_term" : "Free",
+            "price" : 0.0,
+            "capacity" : NumberLong(0)
+        }
+    ],
+    "lift" : [ 
+        {
+            "name" : "Passenger",
+            "serving" : "",
+            "count" : NumberLong(3)
+        }, 
+        {
+            "name" : "Service",
+            "serving" : "",
+            "count" : NumberLong(1)
+        }
+    ],
+    "internet" : {
+        "Indihome" : true,
+        "First Media" : true,
+        "My Republic" : true
+    },
+    "images" : {
+        "images_developer" : null,
+        "images_banner" : null,
+        "images_brochure" : null,
+        "images_interior" : null,
+        "images_exterior" : null,
+        "images_floorplan" : null,
+        "images_360" : null,
+        "video_link" : null
+    },
+    "unit_total" : NumberLong(264),
+    "branches" : {
+        "5e5e2e5d1f78725c121fa3fe" : true,
+        "5c8f5bc523a47a53411f0f5a" : true,
+        "5e5e19b51f78725c121fa3fc" : true,
+        "5e85d5daca6ee7ced714cc58" : true,
+        "5e2e77bebdd35d85036fa1e1" : true,
+        "5c8a28ed9208d3e40eaf0196" : true,
+        "5e2e6cddbdd35d85036fa1e0" : true,
+        "5c88a1599208d3e40eaf0195" : true,
+        "5e5e19d61f78725c121fa3fd" : true
+    },
+    "id" : "5c7f62f97e409ee0933b0bb9",
+    "architect" : "",
+    "building_type" : [ 
+        "Strata Buy", 
+        "Strata Rent"
+    ],
+    "certificate" : "",
+    "contractor" : "",
+    "fee_component" : [ 
+        {
+            "for" : "Rent",
+            "percentage" : 0.0,
+            "from" : "price_rent"
+        }, 
+        {
+            "for" : "Sell",
+            "percentage" : 0.0,
+            "from" : "price_sell"
+        }
+    ],
+    "last_update_by_uid" : "admin+dev@spacestock.com",
+    "promo" : "",
+    "rent_commission" : 0.0,
+    "sell_commission" : 0.0,
+    "year_completed_estimation" : NumberLong(0),
+    "year_construction" : NumberLong(0),
+    "service_charge" : 14500.0,
+    "auto_description" : true,
+    "is_leads_agent" : false,
+    "unit_rent_total" : NumberLong(0),
+    "unit_sell_total" : NumberLong(0),
+    "average_floor_plate" : 0.0,
+    "ceiling_height" : 0.0,
+    "commercial_terms" : null,
+    "condition" : "",
+    "create_at" : NumberLong(0),
+    "create_by_id" : "",
+    "electricity" : null,
+    "fire_safety" : null,
+    "grade" : "",
+    "land_size" : 0.0,
+    "max_zone_per_floor" : NumberLong(0),
+    "office_hours" : null,
+    "power_line" : null,
+    "selling_point" : {
+        "id" : [ 
+            {
+                "title" : "",
+                "description" : ""
+            }
+        ]
+    },
+    "semi_gross_area" : 0.0,
+    "sinking_fund" : 0.0,
+    "status" : NumberLong(0),
+    "complex" : {
+        "id" : "5c7f62f87e409ee0933b0bb7",
+        "name" : "Apartemen Taman Rasuna"
+    }
+}
+
+/* 20 */
+{
+    "_id" : ObjectId("5c7f62f97e409ee0933b0bba"),
+    "complex_id" : "5c7f62f87e409ee0933b0bb7",
+    "last_update_at" : NumberLong(1567559529),
+    "category" : "Apartment",
+    "name" : "Tower 6",
+    "year_completion" : NumberLong(820429200),
+    "year_renovation" : NumberLong(0),
+    "floor_count" : NumberLong(27),
+    "description" : null,
+    "parking" : [ 
+        {
+            "name" : "Car Parking",
+            "type" : "Car",
+            "payment_term" : "Free",
+            "price" : 0.0,
+            "capacity" : NumberLong(0)
+        }, 
+        {
+            "name" : "Motorcycle Parking",
+            "type" : "Motorcycle",
+            "payment_term" : "Free",
+            "price" : 0.0,
+            "capacity" : NumberLong(0)
+        }
+    ],
+    "lift" : [ 
+        {
+            "name" : "Passenger",
+            "serving" : "",
+            "count" : NumberLong(3)
+        }, 
+        {
+            "name" : "Service",
+            "serving" : "",
+            "count" : NumberLong(1)
+        }
+    ],
+    "internet" : {
+        "First Media" : true,
+        "My Republic" : true,
+        "Indihome" : true
+    },
+    "images" : {
+        "images_developer" : null,
+        "images_banner" : null,
+        "images_brochure" : null,
+        "images_interior" : null,
+        "images_exterior" : null,
+        "images_floorplan" : null,
+        "images_360" : null,
+        "video_link" : null
+    },
+    "unit_total" : NumberLong(264),
+    "branches" : {
+        "5c8a28ed9208d3e40eaf0196" : true,
+        "5e2e6cddbdd35d85036fa1e0" : true,
+        "5c88a1599208d3e40eaf0195" : true,
+        "5e5e19d61f78725c121fa3fd" : true,
+        "5e2e77bebdd35d85036fa1e1" : true,
+        "5c8f5bc523a47a53411f0f5a" : true,
+        "5e5e19b51f78725c121fa3fc" : true,
+        "5e85d5daca6ee7ced714cc58" : true,
+        "5e5e2e5d1f78725c121fa3fe" : true
+    },
+    "id" : "5c7f62f97e409ee0933b0bba",
+    "architect" : "",
+    "building_type" : [ 
+        "Strata Buy", 
+        "Strata Rent"
+    ],
+    "certificate" : "",
+    "contractor" : "",
+    "fee_component" : [ 
+        {
+            "for" : "Rent",
+            "percentage" : 0.0,
+            "from" : "price_rent"
+        }, 
+        {
+            "for" : "Sell",
+            "percentage" : 0.0,
+            "from" : "price_sell"
+        }
+    ],
+    "last_update_by_uid" : "admin+dev@spacestock.com",
+    "promo" : "",
+    "rent_commission" : 0.0,
+    "sell_commission" : 0.0,
+    "year_completed_estimation" : NumberLong(0),
+    "year_construction" : NumberLong(0),
+    "service_charge" : 14500.0,
+    "auto_description" : false,
+    "is_leads_agent" : false,
+    "unit_rent_total" : NumberLong(2),
+    "unit_sell_total" : NumberLong(0),
+    "average_floor_plate" : 0.0,
+    "ceiling_height" : 0.0,
+    "commercial_terms" : null,
+    "condition" : "",
+    "create_at" : NumberLong(0),
+    "create_by_id" : "",
+    "electricity" : null,
+    "fire_safety" : null,
+    "grade" : "",
+    "land_size" : 0.0,
+    "max_zone_per_floor" : NumberLong(0),
+    "office_hours" : null,
+    "power_line" : null,
+    "selling_point" : {
+        "id" : [ 
+            {
+                "title" : "",
+                "description" : ""
+            }
+        ]
+    },
+    "semi_gross_area" : 0.0,
+    "sinking_fund" : 0.0,
+    "status" : NumberLong(0),
+    "complex" : {
+        "id" : "5c7f62f87e409ee0933b0bb7",
+        "name" : "Apartemen Taman Rasuna"
+    }
+}
+
+/* 21 */
+{
+    "_id" : ObjectId("5c7f62f97e409ee0933b0bbb"),
+    "complex_id" : "5c7f62f87e409ee0933b0bb7",
+    "last_update_at" : NumberLong(1567559560),
+    "category" : "Apartment",
+    "name" : "Tower 7",
+    "year_completion" : NumberLong(820429200),
+    "year_renovation" : NumberLong(0),
+    "floor_count" : NumberLong(27),
+    "description" : null,
+    "parking" : [ 
+        {
+            "name" : "Car Parking",
+            "type" : "Car",
+            "payment_term" : "Free",
+            "price" : 0.0,
+            "capacity" : NumberLong(0)
+        }, 
+        {
+            "name" : "Motorcycle Parking",
+            "type" : "Motorcycle",
+            "payment_term" : "Free",
+            "price" : 0.0,
+            "capacity" : NumberLong(0)
+        }
+    ],
+    "lift" : [ 
+        {
+            "name" : "Passenger",
+            "serving" : "",
+            "count" : NumberLong(3)
+        }, 
+        {
+            "name" : "Service",
+            "serving" : "",
+            "count" : NumberLong(1)
+        }
+    ],
+    "internet" : {
+        "My Republic" : true,
+        "Indihome" : true,
+        "First Media" : true
+    },
+    "images" : {
+        "images_developer" : null,
+        "images_banner" : null,
+        "images_brochure" : null,
+        "images_interior" : null,
+        "images_exterior" : null,
+        "images_floorplan" : null,
+        "images_360" : null,
+        "video_link" : null
+    },
+    "unit_total" : NumberLong(264),
+    "branches" : {
+        "5e2e77bebdd35d85036fa1e1" : true,
+        "5c8a28ed9208d3e40eaf0196" : true,
+        "5e2e6cddbdd35d85036fa1e0" : true,
+        "5c88a1599208d3e40eaf0195" : true,
+        "5e5e19d61f78725c121fa3fd" : true,
+        "5e5e2e5d1f78725c121fa3fe" : true,
+        "5c8f5bc523a47a53411f0f5a" : true,
+        "5e5e19b51f78725c121fa3fc" : true,
+        "5e85d5daca6ee7ced714cc58" : true
+    },
+    "id" : "5c7f62f97e409ee0933b0bbb",
+    "architect" : "",
+    "building_type" : [ 
+        "Strata Buy", 
+        "Strata Rent"
+    ],
+    "certificate" : "",
+    "contractor" : "",
+    "fee_component" : [ 
+        {
+            "for" : "Rent",
+            "percentage" : 0.0,
+            "from" : "price_rent"
+        }, 
+        {
+            "for" : "Sell",
+            "percentage" : 0.0,
+            "from" : "price_sell"
+        }
+    ],
+    "last_update_by_uid" : "admin+dev@spacestock.com",
+    "promo" : "",
+    "rent_commission" : 0.0,
+    "sell_commission" : 0.0,
+    "year_completed_estimation" : NumberLong(0),
+    "year_construction" : NumberLong(0),
+    "service_charge" : 14500.0,
+    "auto_description" : true,
+    "is_leads_agent" : false,
+    "average_floor_plate" : 0.0,
+    "ceiling_height" : 0.0,
+    "commercial_terms" : null,
+    "condition" : "",
+    "create_at" : NumberLong(0),
+    "create_by_id" : "",
+    "electricity" : null,
+    "fire_safety" : null,
+    "grade" : "",
+    "land_size" : 0.0,
+    "max_zone_per_floor" : NumberLong(0),
+    "office_hours" : null,
+    "power_line" : null,
+    "selling_point" : {
+        "id" : [ 
+            {
+                "title" : "",
+                "description" : ""
+            }
+        ]
+    },
+    "semi_gross_area" : 0.0,
+    "sinking_fund" : 0.0,
+    "status" : NumberLong(0),
+    "unit_rent_total" : NumberLong(4),
+    "unit_sell_total" : NumberLong(0),
+    "complex" : {
+        "id" : "5c7f62f87e409ee0933b0bb7",
+        "name" : "Apartemen Taman Rasuna"
+    }
+}
+
+/* 22 */
+{
+    "_id" : ObjectId("5c7f62f97e409ee0933b0bbc"),
+    "complex_id" : "5c7f62f87e409ee0933b0bb7",
+    "last_update_at" : NumberLong(1567559611),
+    "category" : "Apartment",
+    "name" : "Tower 8",
+    "year_completion" : NumberLong(820429200),
+    "year_renovation" : NumberLong(0),
+    "floor_count" : NumberLong(27),
+    "description" : null,
+    "parking" : [ 
+        {
+            "name" : "Car Parking",
+            "type" : "Car",
+            "payment_term" : "Free",
+            "price" : 0.0,
+            "capacity" : NumberLong(0)
+        }, 
+        {
+            "name" : "Motorcycle Parking",
+            "type" : "Motorcycle",
+            "payment_term" : "Free",
+            "price" : 0.0,
+            "capacity" : NumberLong(0)
+        }
+    ],
+    "lift" : [ 
+        {
+            "name" : "Passenger",
+            "serving" : "",
+            "count" : NumberLong(3)
+        }, 
+        {
+            "name" : "Service",
+            "serving" : "",
+            "count" : NumberLong(1)
+        }
+    ],
+    "internet" : {
+        "My Republic" : true,
+        "Indihome" : true,
+        "First Media" : true
+    },
+    "images" : {
+        "images_developer" : null,
+        "images_banner" : null,
+        "images_brochure" : null,
+        "images_interior" : null,
+        "images_exterior" : null,
+        "images_floorplan" : null,
+        "images_360" : null,
+        "video_link" : null
+    },
+    "unit_total" : NumberLong(264),
+    "branches" : {
+        "5e5e19d61f78725c121fa3fd" : true,
+        "5e2e77bebdd35d85036fa1e1" : true,
+        "5c8a28ed9208d3e40eaf0196" : true,
+        "5e2e6cddbdd35d85036fa1e0" : true,
+        "5c88a1599208d3e40eaf0195" : true,
+        "5e5e2e5d1f78725c121fa3fe" : true,
+        "5c8f5bc523a47a53411f0f5a" : true,
+        "5e5e19b51f78725c121fa3fc" : true,
+        "5e85d5daca6ee7ced714cc58" : true
+    },
+    "id" : "5c7f62f97e409ee0933b0bbc",
+    "architect" : "",
+    "building_type" : [ 
+        "Strata Buy", 
+        "Strata Rent"
+    ],
+    "certificate" : "",
+    "contractor" : "",
+    "fee_component" : [ 
+        {
+            "for" : "Rent",
+            "percentage" : 0.0,
+            "from" : "price_rent"
+        }, 
+        {
+            "for" : "Sell",
+            "percentage" : 0.0,
+            "from" : "price_sell"
+        }
+    ],
+    "last_update_by_uid" : "admin+dev@spacestock.com",
+    "promo" : "",
+    "rent_commission" : 0.0,
+    "sell_commission" : 0.0,
+    "year_completed_estimation" : NumberLong(0),
+    "year_construction" : NumberLong(0),
+    "service_charge" : 14500.0,
+    "auto_description" : true,
+    "is_leads_agent" : false,
+    "average_floor_plate" : 0.0,
+    "ceiling_height" : 0.0,
+    "commercial_terms" : null,
+    "condition" : "",
+    "create_at" : NumberLong(0),
+    "create_by_id" : "",
+    "electricity" : null,
+    "fire_safety" : null,
+    "grade" : "",
+    "land_size" : 0.0,
+    "max_zone_per_floor" : NumberLong(0),
+    "office_hours" : null,
+    "power_line" : null,
+    "selling_point" : {
+        "id" : [ 
+            {
+                "title" : "",
+                "description" : ""
+            }
+        ]
+    },
+    "semi_gross_area" : 0.0,
+    "sinking_fund" : 0.0,
+    "status" : NumberLong(0),
+    "unit_rent_total" : NumberLong(3),
+    "unit_sell_total" : NumberLong(0),
+    "complex" : {
+        "id" : "5c7f62f87e409ee0933b0bb7",
+        "name" : "Apartemen Taman Rasuna"
+    }
+}
+
+/* 23 */
+{
+    "_id" : ObjectId("5c7f62f97e409ee0933b0bbd"),
+    "complex_id" : "5c7f62f87e409ee0933b0bb7",
+    "last_update_at" : NumberLong(1567559651),
+    "category" : "Apartment",
+    "name" : "Tower 9",
+    "year_completion" : NumberLong(820429200),
+    "year_renovation" : NumberLong(0),
+    "floor_count" : NumberLong(34),
+    "description" : null,
+    "parking" : [ 
+        {
+            "name" : "Car Parking",
+            "type" : "Car",
+            "payment_term" : "Free",
+            "price" : 0.0,
+            "capacity" : NumberLong(0)
+        }, 
+        {
+            "name" : "Motorcycle Parking",
+            "type" : "Motorcycle",
+            "payment_term" : "Free",
+            "price" : 0.0,
+            "capacity" : NumberLong(0)
+        }
+    ],
+    "lift" : [ 
+        {
+            "name" : "Passenger",
+            "serving" : "",
+            "count" : NumberLong(3)
+        }, 
+        {
+            "name" : "Service",
+            "serving" : "",
+            "count" : NumberLong(1)
+        }
+    ],
+    "internet" : {
+        "First Media" : true,
+        "My Republic" : true,
+        "Indihome" : true
+    },
+    "images" : {
+        "images_developer" : null,
+        "images_banner" : null,
+        "images_brochure" : null,
+        "images_interior" : null,
+        "images_exterior" : null,
+        "images_floorplan" : null,
+        "images_360" : null,
+        "video_link" : null
+    },
+    "unit_total" : NumberLong(264),
+    "branches" : {
+        "5e5e2e5d1f78725c121fa3fe" : true,
+        "5c8f5bc523a47a53411f0f5a" : true,
+        "5e5e19b51f78725c121fa3fc" : true,
+        "5e85d5daca6ee7ced714cc58" : true,
+        "5e2e77bebdd35d85036fa1e1" : true,
+        "5c8a28ed9208d3e40eaf0196" : true,
+        "5e2e6cddbdd35d85036fa1e0" : true,
+        "5c88a1599208d3e40eaf0195" : true,
+        "5e5e19d61f78725c121fa3fd" : true
+    },
+    "id" : "5c7f62f97e409ee0933b0bbd",
+    "architect" : "",
+    "building_type" : [ 
+        "Strata Buy", 
+        "Strata Rent"
+    ],
+    "certificate" : "",
+    "contractor" : "",
+    "fee_component" : [ 
+        {
+            "for" : "Rent",
+            "percentage" : 0.0,
+            "from" : "price_rent"
+        }, 
+        {
+            "for" : "Sell",
+            "percentage" : 0.0,
+            "from" : "price_sell"
+        }
+    ],
+    "last_update_by_uid" : "admin+dev@spacestock.com",
+    "promo" : "",
+    "rent_commission" : 0.0,
+    "sell_commission" : 0.0,
+    "year_completed_estimation" : NumberLong(0),
+    "year_construction" : NumberLong(0),
+    "service_charge" : 14500.0,
+    "auto_description" : true,
+    "is_leads_agent" : false,
+    "average_floor_plate" : 0.0,
+    "ceiling_height" : 0.0,
+    "commercial_terms" : null,
+    "condition" : "",
+    "create_at" : NumberLong(0),
+    "create_by_id" : "",
+    "electricity" : null,
+    "fire_safety" : null,
+    "grade" : "",
+    "land_size" : 0.0,
+    "max_zone_per_floor" : NumberLong(0),
+    "office_hours" : null,
+    "power_line" : null,
+    "selling_point" : {
+        "id" : [ 
+            {
+                "title" : "",
+                "description" : ""
+            }
+        ]
+    },
+    "semi_gross_area" : 0.0,
+    "sinking_fund" : 0.0,
+    "status" : NumberLong(0),
+    "unit_rent_total" : NumberLong(3),
+    "unit_sell_total" : NumberLong(0),
+    "complex" : {
+        "id" : "5c7f62f87e409ee0933b0bb7",
+        "name" : "Apartemen Taman Rasuna"
+    }
+}
+
+/* 24 */
+{
+    "_id" : ObjectId("5c7f62f97e409ee0933b0bbe"),
+    "complex_id" : "5c7f62f87e409ee0933b0bb7",
+    "last_update_at" : NumberLong(1567559694),
+    "category" : "Apartment",
+    "name" : "Tower 10",
+    "year_completion" : NumberLong(820429200),
+    "year_renovation" : NumberLong(0),
+    "floor_count" : NumberLong(33),
+    "description" : null,
+    "parking" : [ 
+        {
+            "name" : "Car Parking",
+            "type" : "Car",
+            "payment_term" : "Free",
+            "price" : 0.0,
+            "capacity" : NumberLong(0)
+        }, 
+        {
+            "name" : "Motorcycle Parking",
+            "type" : "Motorcycle",
+            "payment_term" : "Free",
+            "price" : 0.0,
+            "capacity" : NumberLong(0)
+        }
+    ],
+    "lift" : [ 
+        {
+            "name" : "Passenger",
+            "serving" : "",
+            "count" : NumberLong(3)
+        }, 
+        {
+            "name" : "Service",
+            "serving" : "",
+            "count" : NumberLong(1)
+        }
+    ],
+    "internet" : {
+        "First Media" : true,
+        "My Republic" : true,
+        "Indihome" : true
+    },
+    "images" : {
+        "images_developer" : null,
+        "images_banner" : null,
+        "images_brochure" : null,
+        "images_interior" : null,
+        "images_exterior" : null,
+        "images_floorplan" : null,
+        "images_360" : null,
+        "video_link" : null
+    },
+    "unit_total" : NumberLong(264),
+    "branches" : {
+        "5e5e2e5d1f78725c121fa3fe" : true,
+        "5c8f5bc523a47a53411f0f5a" : true,
+        "5e5e19b51f78725c121fa3fc" : true,
+        "5e85d5daca6ee7ced714cc58" : true,
+        "5e2e77bebdd35d85036fa1e1" : true,
+        "5c8a28ed9208d3e40eaf0196" : true,
+        "5e2e6cddbdd35d85036fa1e0" : true,
+        "5c88a1599208d3e40eaf0195" : true,
+        "5e5e19d61f78725c121fa3fd" : true
+    },
+    "id" : "5c7f62f97e409ee0933b0bbe",
+    "architect" : "",
+    "building_type" : [ 
+        "Strata Buy", 
+        "Strata Rent"
+    ],
+    "certificate" : "",
+    "contractor" : "",
+    "fee_component" : [ 
+        {
+            "for" : "Rent",
+            "percentage" : 0.0,
+            "from" : "price_rent"
+        }, 
+        {
+            "for" : "Sell",
+            "percentage" : 0.0,
+            "from" : "price_sell"
+        }
+    ],
+    "last_update_by_uid" : "admin+dev@spacestock.com",
+    "promo" : "",
+    "rent_commission" : 0.0,
+    "sell_commission" : 0.0,
+    "year_completed_estimation" : NumberLong(0),
+    "year_construction" : NumberLong(0),
+    "service_charge" : 14500.0,
+    "auto_description" : true,
+    "is_leads_agent" : false,
+    "average_floor_plate" : 0.0,
+    "ceiling_height" : 0.0,
+    "commercial_terms" : null,
+    "condition" : "",
+    "create_at" : NumberLong(0),
+    "create_by_id" : "",
+    "electricity" : null,
+    "fire_safety" : null,
+    "grade" : "",
+    "land_size" : 0.0,
+    "max_zone_per_floor" : NumberLong(0),
+    "office_hours" : null,
+    "power_line" : null,
+    "selling_point" : {
+        "id" : [ 
+            {
+                "title" : "",
+                "description" : ""
+            }
+        ]
+    },
+    "semi_gross_area" : 0.0,
+    "sinking_fund" : 0.0,
+    "status" : NumberLong(0),
+    "unit_rent_total" : NumberLong(0),
+    "unit_sell_total" : NumberLong(0),
+    "complex" : {
+        "id" : "5c7f62f87e409ee0933b0bb7",
+        "name" : "Apartemen Taman Rasuna"
+    }
+}
+
+/* 25 */
+{
+    "_id" : ObjectId("5c7f62f97e409ee0933b0bbf"),
+    "complex_id" : "5c7f62f87e409ee0933b0bb7",
+    "last_update_at" : NumberLong(1567559734),
+    "category" : "Apartment",
+    "name" : "Tower 11",
+    "year_completion" : NumberLong(820429200),
+    "year_renovation" : NumberLong(0),
+    "floor_count" : NumberLong(34),
+    "description" : null,
+    "parking" : [ 
+        {
+            "name" : "Car Parking",
+            "type" : "Car",
+            "payment_term" : "Free",
+            "price" : 0.0,
+            "capacity" : NumberLong(0)
+        }, 
+        {
+            "name" : "Motorcycle Parking",
+            "type" : "Motorcycle",
+            "payment_term" : "Free",
+            "price" : 0.0,
+            "capacity" : NumberLong(0)
+        }
+    ],
+    "lift" : [ 
+        {
+            "name" : "Passenger",
+            "serving" : "",
+            "count" : NumberLong(3)
+        }, 
+        {
+            "name" : "Service",
+            "serving" : "",
+            "count" : NumberLong(1)
+        }
+    ],
+    "internet" : {
+        "Indihome" : true,
+        "First Media" : true,
+        "My Republic" : true
+    },
+    "images" : {
+        "images_developer" : null,
+        "images_banner" : null,
+        "images_brochure" : null,
+        "images_interior" : null,
+        "images_exterior" : null,
+        "images_floorplan" : null,
+        "images_360" : null,
+        "video_link" : null
+    },
+    "unit_total" : NumberLong(264),
+    "branches" : {
+        "5e2e77bebdd35d85036fa1e1" : true,
+        "5c8a28ed9208d3e40eaf0196" : true,
+        "5e2e6cddbdd35d85036fa1e0" : true,
+        "5c88a1599208d3e40eaf0195" : true,
+        "5e5e19d61f78725c121fa3fd" : true,
+        "5e5e2e5d1f78725c121fa3fe" : true,
+        "5c8f5bc523a47a53411f0f5a" : true,
+        "5e5e19b51f78725c121fa3fc" : true,
+        "5e85d5daca6ee7ced714cc58" : true
+    },
+    "id" : "5c7f62f97e409ee0933b0bbf",
+    "architect" : "",
+    "building_type" : [ 
+        "Strata Buy", 
+        "Strata Rent"
+    ],
+    "certificate" : "",
+    "contractor" : "",
+    "fee_component" : [ 
+        {
+            "for" : "Rent",
+            "percentage" : 0.0,
+            "from" : "price_rent"
+        }, 
+        {
+            "for" : "Sell",
+            "percentage" : 0.0,
+            "from" : "price_sell"
+        }
+    ],
+    "last_update_by_uid" : "admin+dev@spacestock.com",
+    "promo" : "",
+    "rent_commission" : 0.0,
+    "sell_commission" : 0.0,
+    "year_completed_estimation" : NumberLong(0),
+    "year_construction" : NumberLong(0),
+    "service_charge" : 14500.0,
+    "auto_description" : true,
+    "is_leads_agent" : false,
+    "average_floor_plate" : 0.0,
+    "ceiling_height" : 0.0,
+    "commercial_terms" : null,
+    "condition" : "",
+    "create_at" : NumberLong(0),
+    "create_by_id" : "",
+    "electricity" : null,
+    "fire_safety" : null,
+    "grade" : "",
+    "land_size" : 0.0,
+    "max_zone_per_floor" : NumberLong(0),
+    "office_hours" : null,
+    "power_line" : null,
+    "selling_point" : {
+        "id" : [ 
+            {
+                "title" : "",
+                "description" : ""
+            }
+        ]
+    },
+    "semi_gross_area" : 0.0,
+    "sinking_fund" : 0.0,
+    "status" : NumberLong(0),
+    "unit_rent_total" : NumberLong(3),
+    "unit_sell_total" : NumberLong(0),
+    "complex" : {
+        "id" : "5c7f62f87e409ee0933b0bb7",
+        "name" : "Apartemen Taman Rasuna"
+    }
+}
+
+/* 26 */
+{
+    "_id" : ObjectId("5c7f62fa7e409ee0933b0bc0"),
+    "complex_id" : "5c7f62f87e409ee0933b0bb7",
+    "last_update_at" : NumberLong(1567559762),
+    "category" : "Apartment",
+    "name" : "Tower 12",
+    "year_completion" : NumberLong(820429200),
+    "year_renovation" : NumberLong(0),
+    "floor_count" : NumberLong(27),
+    "description" : null,
+    "parking" : [ 
+        {
+            "name" : "Car Parking",
+            "type" : "Car",
+            "payment_term" : "Free",
+            "price" : 0.0,
+            "capacity" : NumberLong(0)
+        }, 
+        {
+            "name" : "Motorcycle Parking",
+            "type" : "Motorcycle",
+            "payment_term" : "Free",
+            "price" : 0.0,
+            "capacity" : NumberLong(0)
+        }
+    ],
+    "lift" : [ 
+        {
+            "name" : "Passenger",
+            "serving" : "",
+            "count" : NumberLong(3)
+        }, 
+        {
+            "name" : "Service",
+            "serving" : "",
+            "count" : NumberLong(1)
+        }
+    ],
+    "internet" : {
+        "First Media" : true,
+        "My Republic" : true,
+        "Indihome" : true
+    },
+    "images" : {
+        "images_developer" : null,
+        "images_banner" : null,
+        "images_brochure" : null,
+        "images_interior" : null,
+        "images_exterior" : null,
+        "images_floorplan" : null,
+        "images_360" : null,
+        "video_link" : null
+    },
+    "unit_total" : NumberLong(264),
+    "branches" : {
+        "5e5e2e5d1f78725c121fa3fe" : true,
+        "5c8f5bc523a47a53411f0f5a" : true,
+        "5e5e19b51f78725c121fa3fc" : true,
+        "5e85d5daca6ee7ced714cc58" : true,
+        "5e5e19d61f78725c121fa3fd" : true,
+        "5e2e77bebdd35d85036fa1e1" : true,
+        "5c8a28ed9208d3e40eaf0196" : true,
+        "5e2e6cddbdd35d85036fa1e0" : true,
+        "5c88a1599208d3e40eaf0195" : true
+    },
+    "id" : "5c7f62fa7e409ee0933b0bc0",
+    "architect" : "",
+    "building_type" : [ 
+        "Strata Buy", 
+        "Strata Rent"
+    ],
+    "certificate" : "",
+    "contractor" : "",
+    "fee_component" : [ 
+        {
+            "for" : "Rent",
+            "percentage" : 0.0,
+            "from" : "price_rent"
+        }, 
+        {
+            "for" : "Sell",
+            "percentage" : 0.0,
+            "from" : "price_sell"
+        }
+    ],
+    "last_update_by_uid" : "admin+dev@spacestock.com",
+    "promo" : "",
+    "rent_commission" : 0.0,
+    "sell_commission" : 0.0,
+    "year_completed_estimation" : NumberLong(0),
+    "year_construction" : NumberLong(0),
+    "service_charge" : 14500.0,
+    "auto_description" : true,
+    "is_leads_agent" : false,
+    "average_floor_plate" : 0.0,
+    "ceiling_height" : 0.0,
+    "commercial_terms" : null,
+    "condition" : "",
+    "create_at" : NumberLong(0),
+    "create_by_id" : "",
+    "electricity" : null,
+    "fire_safety" : null,
+    "grade" : "",
+    "land_size" : 0.0,
+    "max_zone_per_floor" : NumberLong(0),
+    "office_hours" : null,
+    "power_line" : null,
+    "selling_point" : {
+        "id" : [ 
+            {
+                "title" : "",
+                "description" : ""
+            }
+        ]
+    },
+    "semi_gross_area" : 0.0,
+    "sinking_fund" : 0.0,
+    "status" : NumberLong(0),
+    "unit_rent_total" : NumberLong(1),
+    "unit_sell_total" : NumberLong(0),
+    "complex" : {
+        "id" : "5c7f62f87e409ee0933b0bb7",
+        "name" : "Apartemen Taman Rasuna"
+    }
+}
+
+/* 27 */
+{
+    "_id" : ObjectId("5c7f62fa7e409ee0933b0bc1"),
+    "complex_id" : "5c7f62f87e409ee0933b0bb7",
+    "last_update_at" : NumberLong(1567559849),
+    "category" : "Apartment",
+    "name" : "Tower 14",
+    "year_completion" : NumberLong(820429200),
+    "year_renovation" : NumberLong(0),
+    "floor_count" : NumberLong(27),
+    "description" : null,
+    "parking" : [ 
+        {
+            "name" : "Car Parking",
+            "type" : "Car",
+            "payment_term" : "Free",
+            "price" : 0.0,
+            "capacity" : NumberLong(0)
+        }, 
+        {
+            "name" : "Motorcycle Parking",
+            "type" : "Motorcycle",
+            "payment_term" : "Free",
+            "price" : 0.0,
+            "capacity" : NumberLong(0)
+        }
+    ],
+    "lift" : [ 
+        {
+            "name" : "Passenger",
+            "serving" : "",
+            "count" : NumberLong(3)
+        }, 
+        {
+            "name" : "Service",
+            "serving" : "",
+            "count" : NumberLong(1)
+        }
+    ],
+    "internet" : {
+        "Indihome" : true,
+        "First Media" : true,
+        "My Republic" : true
+    },
+    "images" : {
+        "images_developer" : null,
+        "images_banner" : null,
+        "images_brochure" : null,
+        "images_interior" : null,
+        "images_exterior" : null,
+        "images_floorplan" : null,
+        "images_360" : null,
+        "video_link" : null
+    },
+    "unit_total" : NumberLong(264),
+    "branches" : {
+        "5e5e2e5d1f78725c121fa3fe" : true,
+        "5c8f5bc523a47a53411f0f5a" : true,
+        "5e5e19b51f78725c121fa3fc" : true,
+        "5e85d5daca6ee7ced714cc58" : true,
+        "5e2e77bebdd35d85036fa1e1" : true,
+        "5c8a28ed9208d3e40eaf0196" : true,
+        "5e2e6cddbdd35d85036fa1e0" : true,
+        "5c88a1599208d3e40eaf0195" : true,
+        "5e5e19d61f78725c121fa3fd" : true
+    },
+    "id" : "5c7f62fa7e409ee0933b0bc1",
+    "architect" : "",
+    "building_type" : [ 
+        "Strata Buy", 
+        "Strata Rent"
+    ],
+    "certificate" : "",
+    "contractor" : "",
+    "fee_component" : [ 
+        {
+            "for" : "Rent",
+            "percentage" : 0.0,
+            "from" : "price_rent"
+        }, 
+        {
+            "for" : "Sell",
+            "percentage" : 0.0,
+            "from" : "price_sell"
+        }
+    ],
+    "last_update_by_uid" : "admin+dev@spacestock.com",
+    "promo" : "",
+    "rent_commission" : 0.0,
+    "sell_commission" : 0.0,
+    "year_completed_estimation" : NumberLong(0),
+    "year_construction" : NumberLong(0),
+    "service_charge" : 14500.0,
+    "auto_description" : true,
+    "is_leads_agent" : false,
+    "average_floor_plate" : 0.0,
+    "ceiling_height" : 0.0,
+    "commercial_terms" : null,
+    "condition" : "",
+    "create_at" : NumberLong(0),
+    "create_by_id" : "",
+    "electricity" : null,
+    "fire_safety" : null,
+    "grade" : "",
+    "land_size" : 0.0,
+    "max_zone_per_floor" : NumberLong(0),
+    "office_hours" : null,
+    "power_line" : null,
+    "selling_point" : {
+        "id" : [ 
+            {
+                "title" : "",
+                "description" : ""
+            }
+        ]
+    },
+    "semi_gross_area" : 0.0,
+    "sinking_fund" : 0.0,
+    "status" : NumberLong(0),
+    "unit_rent_total" : NumberLong(1),
+    "unit_sell_total" : NumberLong(0),
+    "complex" : {
+        "id" : "5c7f62f87e409ee0933b0bb7",
+        "name" : "Apartemen Taman Rasuna"
+    }
+}
+
+/* 28 */
+{
+    "_id" : ObjectId("5c7f62fa7e409ee0933b0bc2"),
+    "complex_id" : "5c7f62f87e409ee0933b0bb7",
+    "last_update_at" : NumberLong(1567560027),
+    "category" : "Apartment",
+    "name" : "Tower 15",
+    "year_completion" : NumberLong(820429200),
+    "year_renovation" : NumberLong(0),
+    "floor_count" : NumberLong(27),
+    "description" : null,
+    "parking" : [ 
+        {
+            "name" : "Car Parking",
+            "type" : "Car",
+            "payment_term" : "Free",
+            "price" : 0.0,
+            "capacity" : NumberLong(0)
+        }, 
+        {
+            "name" : "Motorcycle Parking",
+            "type" : "Motorcycle",
+            "payment_term" : "Free",
+            "price" : 0.0,
+            "capacity" : NumberLong(0)
+        }
+    ],
+    "lift" : [ 
+        {
+            "name" : "Passenger",
+            "serving" : "",
+            "count" : NumberLong(3)
+        }, 
+        {
+            "name" : "Service",
+            "serving" : "",
+            "count" : NumberLong(1)
+        }
+    ],
+    "internet" : {
+        "My Republic" : true,
+        "Indihome" : true,
+        "First Media" : true
+    },
+    "images" : {
+        "images_developer" : null,
+        "images_banner" : null,
+        "images_brochure" : null,
+        "images_interior" : null,
+        "images_exterior" : null,
+        "images_floorplan" : null,
+        "images_360" : null,
+        "video_link" : null
+    },
+    "unit_total" : NumberLong(264),
+    "branches" : {
+        "5e2e77bebdd35d85036fa1e1" : true,
+        "5c8a28ed9208d3e40eaf0196" : true,
+        "5e2e6cddbdd35d85036fa1e0" : true,
+        "5c88a1599208d3e40eaf0195" : true,
+        "5e5e19d61f78725c121fa3fd" : true,
+        "5e5e2e5d1f78725c121fa3fe" : true,
+        "5c8f5bc523a47a53411f0f5a" : true,
+        "5e5e19b51f78725c121fa3fc" : true,
+        "5e85d5daca6ee7ced714cc58" : true
+    },
+    "id" : "5c7f62fa7e409ee0933b0bc2",
+    "architect" : "",
+    "building_type" : [ 
+        "Strata Buy", 
+        "Strata Rent"
+    ],
+    "certificate" : "",
+    "contractor" : "",
+    "fee_component" : [ 
+        {
+            "for" : "Rent",
+            "percentage" : 0.0,
+            "from" : "price_rent"
+        }, 
+        {
+            "for" : "Sell",
+            "percentage" : 0.0,
+            "from" : "price_sell"
+        }
+    ],
+    "last_update_by_uid" : "admin+dev@spacestock.com",
+    "promo" : "",
+    "rent_commission" : 0.0,
+    "sell_commission" : 0.0,
+    "year_completed_estimation" : NumberLong(0),
+    "year_construction" : NumberLong(0),
+    "service_charge" : 14500.0,
+    "auto_description" : true,
+    "is_leads_agent" : false,
+    "unit_rent_total" : NumberLong(2),
+    "average_floor_plate" : 0.0,
+    "ceiling_height" : 0.0,
+    "commercial_terms" : null,
+    "condition" : "",
+    "create_at" : NumberLong(0),
+    "create_by_id" : "",
+    "electricity" : null,
+    "fire_safety" : null,
+    "grade" : "",
+    "land_size" : 0.0,
+    "max_zone_per_floor" : NumberLong(0),
+    "office_hours" : null,
+    "power_line" : null,
+    "selling_point" : {
+        "id" : [ 
+            {
+                "title" : "",
+                "description" : ""
+            }
+        ]
+    },
+    "semi_gross_area" : 0.0,
+    "sinking_fund" : 0.0,
+    "status" : NumberLong(0),
+    "unit_sell_total" : NumberLong(0),
+    "complex" : {
+        "id" : "5c7f62f87e409ee0933b0bb7",
+        "name" : "Apartemen Taman Rasuna"
+    }
+}
+
+/* 29 */
+{
+    "_id" : ObjectId("5c7f62fa7e409ee0933b0bc3"),
+    "complex_id" : "5c7f62f87e409ee0933b0bb7",
+    "last_update_at" : NumberLong(1567560645),
+    "category" : "Apartment",
+    "name" : "Tower 16",
+    "year_completion" : NumberLong(820429200),
+    "year_renovation" : NumberLong(0),
+    "floor_count" : NumberLong(27),
+    "description" : null,
+    "parking" : [ 
+        {
+            "name" : "Car Parking",
+            "type" : "Car",
+            "payment_term" : "Free",
+            "price" : 0.0,
+            "capacity" : NumberLong(0)
+        }, 
+        {
+            "name" : "Motorcycle Parking",
+            "type" : "Motorcycle",
+            "payment_term" : "Free",
+            "price" : 0.0,
+            "capacity" : NumberLong(0)
+        }
+    ],
+    "lift" : [ 
+        {
+            "name" : "Passenger",
+            "serving" : "",
+            "count" : NumberLong(3)
+        }, 
+        {
+            "name" : "Service",
+            "serving" : "",
+            "count" : NumberLong(1)
+        }
+    ],
+    "internet" : {
+        "My Republic" : true,
+        "Indihome" : true,
+        "First Media" : true
+    },
+    "images" : {
+        "images_developer" : null,
+        "images_banner" : null,
+        "images_brochure" : null,
+        "images_interior" : null,
+        "images_exterior" : null,
+        "images_floorplan" : null,
+        "images_360" : null,
+        "video_link" : null
+    },
+    "unit_total" : NumberLong(264),
+    "branches" : {
+        "5e2e77bebdd35d85036fa1e1" : true,
+        "5c8a28ed9208d3e40eaf0196" : true,
+        "5e2e6cddbdd35d85036fa1e0" : true,
+        "5c88a1599208d3e40eaf0195" : true,
+        "5e5e19d61f78725c121fa3fd" : true,
+        "5e5e2e5d1f78725c121fa3fe" : true,
+        "5c8f5bc523a47a53411f0f5a" : true,
+        "5e5e19b51f78725c121fa3fc" : true,
+        "5e85d5daca6ee7ced714cc58" : true
+    },
+    "id" : "5c7f62fa7e409ee0933b0bc3",
+    "architect" : "",
+    "building_type" : [ 
+        "Strata Buy", 
+        "Strata Rent"
+    ],
+    "certificate" : "",
+    "contractor" : "",
+    "fee_component" : [ 
+        {
+            "for" : "Rent",
+            "percentage" : 0.0,
+            "from" : "price_rent"
+        }, 
+        {
+            "for" : "Sell",
+            "percentage" : 0.0,
+            "from" : "price_sell"
+        }
+    ],
+    "last_update_by_uid" : "admin+dev@spacestock.com",
+    "promo" : "",
+    "rent_commission" : 0.0,
+    "sell_commission" : 0.0,
+    "year_completed_estimation" : NumberLong(0),
+    "year_construction" : NumberLong(0),
+    "service_charge" : 14500.0,
+    "auto_description" : true,
+    "is_leads_agent" : false,
+    "average_floor_plate" : 0.0,
+    "ceiling_height" : 0.0,
+    "commercial_terms" : null,
+    "condition" : "",
+    "create_at" : NumberLong(0),
+    "create_by_id" : "",
+    "electricity" : null,
+    "fire_safety" : null,
+    "grade" : "",
+    "land_size" : 0.0,
+    "max_zone_per_floor" : NumberLong(0),
+    "office_hours" : null,
+    "power_line" : null,
+    "selling_point" : {
+        "id" : [ 
+            {
+                "title" : "",
+                "description" : ""
+            }
+        ]
+    },
+    "semi_gross_area" : 0.0,
+    "sinking_fund" : 0.0,
+    "status" : NumberLong(0),
+    "unit_rent_total" : NumberLong(3),
+    "unit_sell_total" : NumberLong(0),
+    "complex" : {
+        "id" : "5c7f62f87e409ee0933b0bb7",
+        "name" : "Apartemen Taman Rasuna"
+    }
+}
+
+/* 30 */
+{
+    "_id" : ObjectId("5c7f62fa7e409ee0933b0bc4"),
+    "complex_id" : "5c7f62f87e409ee0933b0bb7",
+    "last_update_at" : NumberLong(1567561083),
+    "category" : "Apartment",
+    "name" : "Tower 17",
+    "year_completion" : NumberLong(820429200),
+    "year_renovation" : NumberLong(0),
+    "floor_count" : NumberLong(27),
+    "description" : null,
+    "parking" : [ 
+        {
+            "name" : "Car Parking",
+            "type" : "Car",
+            "payment_term" : "Free",
+            "price" : 0.0,
+            "capacity" : NumberLong(0)
+        }, 
+        {
+            "name" : "Motorcycle Parking",
+            "type" : "Motorcycle",
+            "payment_term" : "Free",
+            "price" : 0.0,
+            "capacity" : NumberLong(0)
+        }
+    ],
+    "lift" : [ 
+        {
+            "name" : "Passenger",
+            "serving" : "",
+            "count" : NumberLong(3)
+        }, 
+        {
+            "name" : "Service",
+            "serving" : "",
+            "count" : NumberLong(1)
+        }
+    ],
+    "internet" : {
+        "Indihome" : true,
+        "First Media" : true,
+        "My Republic" : true
+    },
+    "images" : {
+        "images_developer" : null,
+        "images_banner" : null,
+        "images_brochure" : null,
+        "images_interior" : null,
+        "images_exterior" : null,
+        "images_floorplan" : null,
+        "images_360" : null,
+        "video_link" : null
+    },
+    "unit_total" : NumberLong(264),
+    "branches" : {
+        "5e5e2e5d1f78725c121fa3fe" : true,
+        "5c8f5bc523a47a53411f0f5a" : true,
+        "5e5e19b51f78725c121fa3fc" : true,
+        "5e85d5daca6ee7ced714cc58" : true,
+        "5e2e77bebdd35d85036fa1e1" : true,
+        "5c8a28ed9208d3e40eaf0196" : true,
+        "5e2e6cddbdd35d85036fa1e0" : true,
+        "5c88a1599208d3e40eaf0195" : true,
+        "5e5e19d61f78725c121fa3fd" : true
+    },
+    "id" : "5c7f62fa7e409ee0933b0bc4",
+    "architect" : "",
+    "building_type" : [ 
+        "Strata Buy", 
+        "Strata Rent"
+    ],
+    "certificate" : "",
+    "contractor" : "",
+    "fee_component" : [ 
+        {
+            "for" : "Rent",
+            "percentage" : 0.0,
+            "from" : "price_rent"
+        }, 
+        {
+            "for" : "Sell",
+            "percentage" : 0.0,
+            "from" : "price_sell"
+        }
+    ],
+    "last_update_by_uid" : "admin+dev@spacestock.com",
+    "promo" : "",
+    "rent_commission" : 0.0,
+    "sell_commission" : 0.0,
+    "year_completed_estimation" : NumberLong(0),
+    "year_construction" : NumberLong(0),
+    "service_charge" : 14500.0,
+    "auto_description" : true,
+    "is_leads_agent" : false,
+    "unit_rent_total" : NumberLong(1),
+    "unit_sell_total" : NumberLong(0),
+    "average_floor_plate" : 0.0,
+    "ceiling_height" : 0.0,
+    "commercial_terms" : null,
+    "condition" : "",
+    "create_at" : NumberLong(0),
+    "create_by_id" : "",
+    "electricity" : null,
+    "fire_safety" : null,
+    "grade" : "",
+    "land_size" : 0.0,
+    "max_zone_per_floor" : NumberLong(0),
+    "office_hours" : null,
+    "power_line" : null,
+    "selling_point" : {
+        "id" : [ 
+            {
+                "title" : "",
+                "description" : ""
+            }
+        ]
+    },
+    "semi_gross_area" : 0.0,
+    "sinking_fund" : 0.0,
+    "status" : NumberLong(0),
+    "complex" : {
+        "id" : "5c7f62f87e409ee0933b0bb7",
+        "name" : "Apartemen Taman Rasuna"
+    }
+}
+
+/* 31 */
+{
+    "_id" : ObjectId("5c7f62fa7e409ee0933b0bc6"),
+    "complex_id" : "5c7f62fa7e409ee0933b0bc5",
+    "last_update_at" : NumberLong(1559099514),
+    "category" : "Apartment",
+    "name" : "Ascott Thamrin",
+    "year_completion" : NumberLong(0),
+    "year_renovation" : NumberLong(0),
+    "floor_count" : NumberLong(0),
+    "description" : null,
+    "parking" : [ 
+        {
+            "name" : "Car Parking",
+            "type" : "Car",
+            "payment_term" : "",
+            "price" : 0.0,
+            "capacity" : NumberLong(0)
+        }, 
+        {
+            "name" : "Motorcycle Parking",
+            "type" : "Motorcycle",
+            "payment_term" : "",
+            "price" : 0.0,
+            "capacity" : NumberLong(0)
+        }
+    ],
+    "lift" : [ 
+        {
+            "name" : "Passenger",
+            "serving" : "",
+            "count" : NumberLong(0)
+        }, 
+        {
+            "name" : "Service",
+            "serving" : "",
+            "count" : NumberLong(0)
+        }
+    ],
+    "internet" : null,
+    "images" : {},
+    "unit_total" : NumberLong(78),
+    "branches" : {
+        "5e5e19b51f78725c121fa3fc" : true,
+        "5e2e77bebdd35d85036fa1e1" : true,
+        "5e5e19d61f78725c121fa3fd" : true,
+        "5e5e2e5d1f78725c121fa3fe" : true,
+        "5c8f5bc523a47a53411f0f5a" : true,
+        "5e2e6cddbdd35d85036fa1e0" : true,
+        "5c8a28ed9208d3e40eaf0196" : true,
+        "5c88a1599208d3e40eaf0195" : true
+    },
+    "id" : "5c7f62fa7e409ee0933b0bc6",
+    "building_type" : [ 
+        "Strata Buy", 
+        "Strata Rent"
+    ],
+    "architect" : "",
+    "certificate" : "",
+    "contractor" : "",
+    "fee_component" : [ 
+        {
+            "for" : "Rent",
+            "percentage" : 0.0,
+            "from" : "price_rent"
+        }, 
+        {
+            "for" : "Sell",
+            "percentage" : 0.0,
+            "from" : "price_sell"
+        }
+    ],
+    "last_update_by_uid" : "admin+dev@spacestock.com",
+    "promo" : "",
+    "rent_commission" : 0.0,
+    "sell_commission" : 0.0,
+    "year_completed_estimation" : NumberLong(0),
+    "year_construction" : NumberLong(0),
+    "auto_description" : false,
+    "is_leads_agent" : false,
+    "complex" : {
+        "id" : "5c7f62fa7e409ee0933b0bc5",
+        "name" : "Ascott Thamrin"
+    }
+}
+
+/* 32 */
+{
+    "_id" : ObjectId("5c7f62fa7e409ee0933b0bc8"),
+    "complex_id" : "5c7f62fa7e409ee0933b0bc7",
+    "last_update_at" : NumberLong(1559099619),
+    "category" : "Apartment",
+    "name" : "Tower A",
+    "year_completion" : NumberLong(1997),
+    "year_renovation" : NumberLong(0),
+    "floor_count" : NumberLong(28),
+    "description" : null,
+    "parking" : [ 
+        {
+            "name" : "Car Parking",
+            "type" : "Car",
+            "payment_term" : "Free",
+            "price" : 0.0,
+            "capacity" : NumberLong(0)
+        }, 
+        {
+            "name" : "Motorcycle Parking",
+            "type" : "Motorcycle",
+            "payment_term" : "Free",
+            "price" : 0.0,
+            "capacity" : NumberLong(0)
+        }
+    ],
+    "lift" : [ 
+        {
+            "name" : "Passenger",
+            "serving" : "",
+            "count" : NumberLong(2)
+        }, 
+        {
+            "name" : "Service",
+            "serving" : "",
+            "count" : NumberLong(1)
+        }
+    ],
+    "internet" : {
+        "First Media" : true,
+        "Inet" : true
+    },
+    "images" : {
+        "images_floorplan" : [ 
+            {
+                "url" : "building/h7n7gwemet4ugsxpidyi",
+                "alternate_text" : "1BR",
+                "priority" : NumberLong(3)
+            }, 
+            {
+                "url" : "building/vuzzzjqmfzbgsdhwzxzw",
+                "alternate_text" : "2BR",
+                "priority" : NumberLong(3)
+            }, 
+            {
+                "url" : "building/vgf1gnamowekqnxctxro",
+                "alternate_text" : "3BR",
+                "priority" : NumberLong(3)
+            }
+        ]
+    },
+    "unit_total" : NumberLong(224),
+    "branches" : {
+        "5c88a1599208d3e40eaf0195" : true,
+        "5e5e2e5d1f78725c121fa3fe" : true,
+        "5e85d5daca6ee7ced714cc58" : true,
+        "5c8f5bc523a47a53411f0f5a" : true,
+        "5c8a28ed9208d3e40eaf0196" : true,
+        "5e5e19b51f78725c121fa3fc" : true,
+        "5e5e19d61f78725c121fa3fd" : true,
+        "5e2e6cddbdd35d85036fa1e0" : true,
+        "5e2e77bebdd35d85036fa1e1" : true
+    },
+    "id" : "5c7f62fa7e409ee0933b0bc8",
+    "last_update_by_uid" : "admin+dev@spacestock.com",
+    "building_type" : [ 
+        "Strata Buy", 
+        "Strata Rent"
+    ],
+    "architect" : "",
+    "certificate" : "",
+    "contractor" : "",
+    "fee_component" : [ 
+        {
+            "for" : "Rent",
+            "percentage" : 0.0,
+            "from" : "price_rent"
+        }, 
+        {
+            "for" : "Sell",
+            "percentage" : 0.0,
+            "from" : "price_sell"
+        }
+    ],
+    "promo" : "",
+    "rent_commission" : 0.0,
+    "sell_commission" : 0.0,
+    "service_charge" : 21000.0,
+    "year_completed_estimation" : NumberLong(0),
+    "year_construction" : NumberLong(0),
+    "auto_description" : false,
+    "is_leads_agent" : false,
+    "complex" : {
+        "id" : "5c7f62fa7e409ee0933b0bc7",
+        "name" : "Aston Rasuna"
+    }
+}
+
+/* 33 */
+{
+    "_id" : ObjectId("5c7f62fb7e409ee0933b0bc9"),
+    "complex_id" : "5c7f62fa7e409ee0933b0bc7",
+    "last_update_at" : NumberLong(1568615636),
+    "category" : "Apartment",
+    "name" : "Tower B",
+    "year_completion" : NumberLong(852051600),
+    "year_renovation" : NumberLong(0),
+    "floor_count" : NumberLong(28),
+    "description" : null,
+    "parking" : [ 
+        {
+            "name" : "Car Parking",
+            "type" : "Car",
+            "payment_term" : "Free",
+            "price" : 0.0,
+            "capacity" : NumberLong(0)
+        }, 
+        {
+            "name" : "Motorcycle Parking",
+            "type" : "Motorcycle",
+            "payment_term" : "Free",
+            "price" : 0.0,
+            "capacity" : NumberLong(0)
+        }
+    ],
+    "lift" : [ 
+        {
+            "name" : "Passenger",
+            "serving" : "",
+            "count" : NumberLong(2)
+        }, 
+        {
+            "name" : "Service",
+            "serving" : "",
+            "count" : NumberLong(1)
+        }
+    ],
+    "internet" : {
+        "Inet" : true,
+        "First Media" : true
+    },
+    "images" : {
+        "images_developer" : null,
+        "images_banner" : null,
+        "images_brochure" : null,
+        "images_interior" : null,
+        "images_exterior" : null,
+        "images_floorplan" : [ 
+            {
+                "url" : "building/og4gbojnk9wcng5bplsm",
+                "alternate_text" : "2BR",
+                "priority" : NumberLong(1)
+            }, 
+            {
+                "url" : "building/kcnoohq6mg2abzaeqfuf",
+                "alternate_text" : "3BR",
+                "priority" : NumberLong(3)
+            }, 
+            {
+                "url" : "building/m5cyzybkbhjj94r3xmf5",
+                "alternate_text" : "1BR",
+                "priority" : NumberLong(3)
+            }
+        ],
+        "images_360" : null,
+        "video_link" : null
+    },
+    "unit_total" : NumberLong(224),
+    "branches" : {
+        "5c88a1599208d3e40eaf0195" : true,
+        "5e5e2e5d1f78725c121fa3fe" : true,
+        "5e85d5daca6ee7ced714cc58" : true,
+        "5c8f5bc523a47a53411f0f5a" : true,
+        "5c8a28ed9208d3e40eaf0196" : true,
+        "5e5e19b51f78725c121fa3fc" : true,
+        "5e5e19d61f78725c121fa3fd" : true,
+        "5e2e6cddbdd35d85036fa1e0" : true,
+        "5e2e77bebdd35d85036fa1e1" : true
+    },
+    "id" : "5c7f62fb7e409ee0933b0bc9",
+    "unit_rent_total" : NumberLong(5),
+    "last_update_by_uid" : "admin+dev@spacestock.com",
+    "building_type" : [ 
+        "Strata Buy", 
+        "Strata Rent"
+    ],
+    "architect" : "",
+    "certificate" : "",
+    "contractor" : "",
+    "fee_component" : [ 
+        {
+            "for" : "Rent",
+            "percentage" : 0.0,
+            "from" : "price_rent"
+        }, 
+        {
+            "for" : "Sell",
+            "percentage" : 0.0,
+            "from" : "price_sell"
+        }
+    ],
+    "promo" : "",
+    "rent_commission" : 0.0,
+    "sell_commission" : 0.0,
+    "service_charge" : 21000.0,
+    "year_completed_estimation" : NumberLong(0),
+    "year_construction" : NumberLong(0),
+    "auto_description" : true,
+    "is_leads_agent" : false,
+    "unit_sell_total" : NumberLong(1),
+    "complex" : {
+        "id" : "5c7f62fa7e409ee0933b0bc7",
+        "name" : "Aston Rasuna",
+        "address_city" : "JAKARTA SELATAN",
+        "primary_area" : null
+    },
+    "create_at" : NumberLong(0),
+    "create_by_id" : "",
+    "selling_point" : {
+        "id" : [ 
+            {
+                "title" : "",
+                "description" : ""
+            }
+        ]
+    },
+    "sinking_fund" : 0.0,
+    "status" : NumberLong(0)
+}
+
+/* 34 */
+{
+    "_id" : ObjectId("5c7f62fb7e409ee0933b0bcb"),
+    "complex_id" : "5c7f62fb7e409ee0933b0bca",
+    "last_update_at" : NumberLong(1568867771),
+    "category" : "Apartment",
+    "name" : "Tower 1",
+    "year_completion" : NumberLong(883587600),
+    "year_renovation" : NumberLong(0),
+    "floor_count" : NumberLong(34),
+    "description" : null,
+    "parking" : [ 
+        {
+            "name" : "Car Parking",
+            "type" : "Car",
+            "payment_term" : "Free",
+            "price" : 0.0,
+            "capacity" : NumberLong(0)
+        }, 
+        {
+            "name" : "Motorcycle Parking",
+            "type" : "Motorcycle",
+            "payment_term" : "Free",
+            "price" : 0.0,
+            "capacity" : NumberLong(0)
+        }
+    ],
+    "lift" : [ 
+        {
+            "name" : "Passenger",
+            "serving" : "",
+            "count" : NumberLong(3)
+        }, 
+        {
+            "name" : "Service",
+            "serving" : "",
+            "count" : NumberLong(1)
+        }
+    ],
+    "internet" : {
+        "Biznet" : true,
+        "CBM" : true
+    },
+    "images" : {
+        "images_developer" : null,
+        "images_banner" : null,
+        "images_brochure" : null,
+        "images_interior" : null,
+        "images_exterior" : null,
+        "images_floorplan" : [ 
+            {
+                "url" : "building/jmxnwmgfhywxumrxmbjz",
+                "alternate_text" : "Others",
+                "priority" : NumberLong(3)
+            }, 
+            {
+                "url" : "building/hjp2nxa8mvtiqaee2r8t",
+                "alternate_text" : "3BR",
+                "priority" : NumberLong(3)
+            }, 
+            {
+                "url" : "building/r6o2ug0lgolyes0alozn",
+                "alternate_text" : "2BR",
+                "priority" : NumberLong(3)
+            }, 
+            {
+                "url" : "building/oshpzfyftkam9893bmr7",
+                "alternate_text" : "1BR",
+                "priority" : NumberLong(1)
+            }
+        ],
+        "images_360" : null,
+        "video_link" : null
+    },
+    "unit_total" : NumberLong(300),
+    "branches" : {
+        "5e5e2e5d1f78725c121fa3fe" : true,
+        "5c8f5bc523a47a53411f0f5a" : true,
+        "5e2e6cddbdd35d85036fa1e0" : true,
+        "5e5e19b51f78725c121fa3fc" : true,
+        "5e2e77bebdd35d85036fa1e1" : true,
+        "5c8a28ed9208d3e40eaf0196" : true,
+        "5e5e19d61f78725c121fa3fd" : true,
+        "5c88a1599208d3e40eaf0195" : true
+    },
+    "id" : "5c7f62fb7e409ee0933b0bcb",
+    "unit_rent_total" : NumberLong(5),
+    "unit_sell_total" : NumberLong(3),
+    "last_update_by_uid" : "admin+dev@spacestock.com",
+    "building_type" : [ 
+        "Strata Buy", 
+        "Strata Rent"
+    ],
+    "architect" : "",
+    "auto_description" : true,
+    "certificate" : "",
+    "contractor" : "",
+    "fee_component" : [ 
+        {
+            "for" : "Rent",
+            "percentage" : 0.0,
+            "from" : "price_rent"
+        }, 
+        {
+            "for" : "Sell",
+            "percentage" : 0.0,
+            "from" : "price_sell"
+        }
+    ],
+    "is_leads_agent" : false,
+    "promo" : "",
+    "rent_commission" : 0.0,
+    "sell_commission" : 0.0,
+    "year_completed_estimation" : NumberLong(0),
+    "year_construction" : NumberLong(0),
+    "average_floor_plate" : 0.0,
+    "ceiling_height" : 0.0,
+    "commercial_terms" : null,
+    "condition" : "",
+    "electricity" : null,
+    "fire_safety" : null,
+    "grade" : "",
+    "land_size" : 0.0,
+    "max_zone_per_floor" : NumberLong(0),
+    "office_hours" : null,
+    "power_line" : null,
+    "selling_point" : {
+        "id" : [ 
+            {
+                "title" : "",
+                "description" : ""
+            }
+        ]
+    },
+    "semi_gross_area" : 0.0,
+    "service_charge" : 20000.0,
+    "sinking_fund" : -1.0,
+    "create_at" : NumberLong(0),
+    "create_by_id" : "",
+    "status" : NumberLong(0),
+    "complex" : {
+        "id" : "5c7f62fb7e409ee0933b0bca",
+        "name" : "Batavia Apartments",
+        "address_city" : "JAKARTA PUSAT",
+        "primary_area" : null
+    }
+}
+
+/* 35 */
+{
+    "_id" : ObjectId("5c7f62fb7e409ee0933b0bcc"),
+    "complex_id" : "5c7f62fb7e409ee0933b0bca",
+    "last_update_at" : NumberLong(1568867974),
+    "category" : "Apartment",
+    "name" : "Tower 2",
+    "year_completion" : NumberLong(883587600),
+    "year_renovation" : NumberLong(0),
+    "floor_count" : NumberLong(34),
+    "description" : null,
+    "parking" : [ 
+        {
+            "name" : "Car Parking",
+            "type" : "Car",
+            "payment_term" : "Free",
+            "price" : 0.0,
+            "capacity" : NumberLong(0)
+        }, 
+        {
+            "name" : "Motorcycle Parking",
+            "type" : "Motorcycle",
+            "payment_term" : "Free",
+            "price" : 0.0,
+            "capacity" : NumberLong(0)
+        }
+    ],
+    "lift" : [ 
+        {
+            "name" : "Passenger",
+            "serving" : "",
+            "count" : NumberLong(3)
+        }, 
+        {
+            "name" : "Service",
+            "serving" : "",
+            "count" : NumberLong(1)
+        }
+    ],
+    "internet" : {
+        "CBM" : true,
+        "Biznet" : true
+    },
+    "images" : {
+        "images_developer" : null,
+        "images_banner" : null,
+        "images_brochure" : null,
+        "images_interior" : [ 
+            {
+                "url" : "building/hdq37603p9mwpezbh88d",
+                "alternate_text" : "Others",
+                "priority" : NumberLong(1)
+            }, 
+            {
+                "url" : "building/wqgwzzymnwos1gmxgfyj",
+                "alternate_text" : "Others",
+                "priority" : NumberLong(3)
+            }
+        ],
+        "images_exterior" : null,
+        "images_floorplan" : [ 
+            {
+                "url" : "building/twe6skrofemfmostdlbh",
+                "alternate_text" : "1BR",
+                "priority" : NumberLong(1)
+            }, 
+            {
+                "url" : "building/vqpj9g0ccrvzpdjjugxx",
+                "alternate_text" : "2BR",
+                "priority" : NumberLong(3)
+            }, 
+            {
+                "url" : "building/t6j1urxjvqnd6rlyamaj",
+                "alternate_text" : "3BR",
+                "priority" : NumberLong(3)
+            }, 
+            {
+                "url" : "building/pntglbxejzv8aqk1sfjv",
+                "alternate_text" : "Others",
+                "priority" : NumberLong(3)
+            }
+        ],
+        "images_360" : null,
+        "video_link" : null
+    },
+    "unit_total" : NumberLong(300),
+    "id" : "5c7f62fb7e409ee0933b0bcc",
+    "last_update_by_uid" : "admin+dev@spacestock.com",
+    "branches" : {
+        "5e5e19d61f78725c121fa3fd" : true,
+        "5c88a1599208d3e40eaf0195" : true,
+        "5e5e2e5d1f78725c121fa3fe" : true,
+        "5c8f5bc523a47a53411f0f5a" : true,
+        "5e2e6cddbdd35d85036fa1e0" : true,
+        "5e5e19b51f78725c121fa3fc" : true,
+        "5e2e77bebdd35d85036fa1e1" : true,
+        "5c8a28ed9208d3e40eaf0196" : true
+    },
+    "unit_rent_total" : NumberLong(6),
+    "building_type" : [ 
+        "Strata Buy", 
+        "Strata Rent"
+    ],
+    "architect" : "",
+    "auto_description" : true,
+    "certificate" : "",
+    "contractor" : "",
+    "fee_component" : [ 
+        {
+            "for" : "Rent",
+            "percentage" : 0.0,
+            "from" : "price_rent"
+        }, 
+        {
+            "for" : "Sell",
+            "percentage" : 0.0,
+            "from" : "price_sell"
+        }
+    ],
+    "is_leads_agent" : false,
+    "promo" : "",
+    "rent_commission" : 0.0,
+    "sell_commission" : 0.0,
+    "year_completed_estimation" : NumberLong(0),
+    "year_construction" : NumberLong(0),
+    "average_floor_plate" : 0.0,
+    "ceiling_height" : 0.0,
+    "commercial_terms" : null,
+    "condition" : "",
+    "electricity" : null,
+    "fire_safety" : null,
+    "grade" : "",
+    "land_size" : 0.0,
+    "max_zone_per_floor" : NumberLong(0),
+    "office_hours" : null,
+    "power_line" : null,
+    "selling_point" : {
+        "id" : [ 
+            {
+                "title" : "",
+                "description" : ""
+            }
+        ]
+    },
+    "semi_gross_area" : 0.0,
+    "service_charge" : 20000.0,
+    "sinking_fund" : -1.0,
+    "unit_sell_total" : NumberLong(3),
+    "create_at" : NumberLong(0),
+    "create_by_id" : "",
+    "status" : NumberLong(0),
+    "complex" : {
+        "id" : "5c7f62fb7e409ee0933b0bca",
+        "name" : "Batavia Apartments",
+        "address_city" : "JAKARTA PUSAT",
+        "primary_area" : null
+    }
+}
+
+/* 36 */
+{
+    "_id" : ObjectId("5c7f62fb7e409ee0933b0bce"),
+    "complex_id" : "5c7f62fb7e409ee0933b0bcd",
+    "last_update_at" : NumberLong(1583822372),
+    "category" : "Apartment",
+    "name" : "Tower 1",
+    "year_completion" : NumberLong(1388509200),
+    "year_renovation" : NumberLong(0),
+    "floor_count" : 41,
+    "description" : null,
+    "parking" : [ 
+        {
+            "name" : "Car Parking",
+            "type" : "Car",
+            "payment_term" : "Free",
+            "price" : 0.0,
+            "capacity" : 0
+        }, 
+        {
+            "name" : "Motorcycle Parking",
+            "type" : "Motorcycle",
+            "payment_term" : "Free",
+            "price" : 0.0,
+            "capacity" : 0
+        }
+    ],
+    "lift" : [ 
+        {
+            "name" : "Passenger",
+            "serving" : "",
+            "count" : 1
+        }, 
+        {
+            "name" : "Service",
+            "serving" : "",
+            "count" : 2
+        }
+    ],
+    "internet" : {
+        "Biznet" : true,
+        "Fist Media" : true
+    },
+    "images" : {
+        "images_developer" : null,
+        "images_banner" : null,
+        "images_brochure" : null,
+        "images_interior" : null,
+        "images_exterior" : null,
+        "images_floorplan" : [ 
+            {
+                "url" : "building/qefixu3aifuiy0f3lktl",
+                "alternate_text" : "3BR",
+                "priority" : 3
+            }, 
+            {
+                "url" : "building/rgsra0fczzjq2x7tipeo",
+                "alternate_text" : "Others",
+                "priority" : 3
+            }, 
+            {
+                "url" : "building/qnipqachojqymmqefgd1",
+                "alternate_text" : "2BR",
+                "priority" : 3
+            }, 
+            {
+                "url" : "building/cjwhtnzrfbyqvtd5dgmz",
+                "alternate_text" : "1BR",
+                "priority" : 4
+            }, 
+            {
+                "url" : "building/vbjozrdgbyg8atjnrkxi",
+                "alternate_text" : "Others",
+                "priority" : 4
+            }
+        ],
+        "images_360" : null,
+        "video_link" : null
+    },
+    "unit_total" : 200,
+    "id" : "5c7f62fb7e409ee0933b0bce",
+    "last_update_by_uid" : "admin+dev@spacestock.com",
+    "branches" : {
+        "5e5e19b51f78725c121fa3fc" : true,
+        "5e2e77bebdd35d85036fa1e1" : true,
+        "5c8a28ed9208d3e40eaf0196" : true,
+        "5e5e19d61f78725c121fa3fd" : true,
+        "5c88a1599208d3e40eaf0195" : true,
+        "5e5e2e5d1f78725c121fa3fe" : true,
+        "5c8f5bc523a47a53411f0f5a" : true,
+        "5e2e6cddbdd35d85036fa1e0" : true
+    },
+    "unit_rent_total" : 9,
+    "unit_sell_total" : 3,
+    "building_type" : [ 
+        "Strata Buy", 
+        "Strata Rent"
+    ],
+    "architect" : "",
+    "certificate" : "",
+    "contractor" : "",
+    "fee_component" : [ 
+        {
+            "for" : "Rent",
+            "percentage" : 0.0,
+            "from" : "price_rent"
+        }, 
+        {
+            "for" : "Sell",
+            "percentage" : 0.0,
+            "from" : "price_sell"
+        }
+    ],
+    "promo" : "",
+    "rent_commission" : 0.0,
+    "sell_commission" : 0.0,
+    "service_charge" : 32000.0,
+    "year_completed_estimation" : NumberLong(0),
+    "year_construction" : NumberLong(0),
+    "auto_description" : true,
+    "is_leads_agent" : false,
+    "complex" : {
+        "id" : "5c7f62fb7e409ee0933b0bcd",
+        "name" : "Botanica Apartments",
+        "address_city" : "JAKARTA SELATAN",
+        "primary_area" : null
+    },
+    "create_at" : NumberLong(0),
+    "create_by_id" : "",
+    "selling_point" : {
+        "id" : [ 
+            {
+                "title" : "",
+                "description" : ""
+            }
+        ]
+    },
+    "sinking_fund" : 0.0,
+    "status" : 0,
+    "include_scsf" : false,
+    "total_unit_primary" : 0
+}
+
+/* 37 */
+{
+    "_id" : ObjectId("5c7f62fb7e409ee0933b0bcf"),
+    "complex_id" : "5c7f62fb7e409ee0933b0bcd",
+    "last_update_at" : NumberLong(1583822184),
+    "category" : "Apartment",
+    "name" : "Tower 2",
+    "year_completion" : NumberLong(1388509200),
+    "year_renovation" : NumberLong(0),
+    "floor_count" : 41,
+    "description" : null,
+    "parking" : [ 
+        {
+            "name" : "Car Parking",
+            "type" : "Car",
+            "payment_term" : "Free",
+            "price" : 0.0,
+            "capacity" : 0
+        }, 
+        {
+            "name" : "Motorcycle Parking",
+            "type" : "Motorcycle",
+            "payment_term" : "Free",
+            "price" : 0.0,
+            "capacity" : 0
+        }
+    ],
+    "lift" : [ 
+        {
+            "name" : "Passenger",
+            "serving" : "",
+            "count" : 1
+        }, 
+        {
+            "name" : "Service",
+            "serving" : "",
+            "count" : 2
+        }
+    ],
+    "internet" : {
+        "Fist Media" : true,
+        "Biznet" : true
+    },
+    "images" : {
+        "images_developer" : null,
+        "images_banner" : null,
+        "images_brochure" : null,
+        "images_interior" : null,
+        "images_exterior" : null,
+        "images_floorplan" : [ 
+            {
+                "url" : "building/e5nk4sjcc7va4x0cxos0",
+                "alternate_text" : "3BR",
+                "priority" : 3
+            }, 
+            {
+                "url" : "building/kncdwsuyuxrgfsug9r1i",
+                "alternate_text" : "4BR+",
+                "priority" : 3
+            }, 
+            {
+                "url" : "building/nlftimjgasc2krtlvzi8",
+                "alternate_text" : "2BR",
+                "priority" : 3
+            }, 
+            {
+                "url" : "building/z72abr04et98mclhp5xt",
+                "alternate_text" : "1BR",
+                "priority" : 4
+            }, 
+            {
+                "url" : "building/l4cwzrp5y7siqv8r35jt",
+                "alternate_text" : "3BR",
+                "priority" : 4
+            }
+        ],
+        "images_360" : [],
+        "video_link" : null
+    },
+    "unit_total" : 200,
+    "id" : "5c7f62fb7e409ee0933b0bcf",
+    "last_update_by_uid" : "admin+dev@spacestock.com",
+    "branches" : {
+        "5e5e19b51f78725c121fa3fc" : true,
+        "5e2e77bebdd35d85036fa1e1" : true,
+        "5c8a28ed9208d3e40eaf0196" : true,
+        "5e5e19d61f78725c121fa3fd" : true,
+        "5c88a1599208d3e40eaf0195" : true,
+        "5e5e2e5d1f78725c121fa3fe" : true,
+        "5c8f5bc523a47a53411f0f5a" : true,
+        "5e2e6cddbdd35d85036fa1e0" : true
+    },
+    "unit_rent_total" : 10,
+    "unit_sell_total" : 5,
+    "building_type" : [ 
+        "Strata Buy", 
+        "Strata Rent"
+    ],
+    "architect" : "",
+    "certificate" : "",
+    "contractor" : "",
+    "fee_component" : [ 
+        {
+            "for" : "Rent",
+            "percentage" : 0.0,
+            "from" : "price_rent"
+        }, 
+        {
+            "for" : "Sell",
+            "percentage" : 0.0,
+            "from" : "price_sell"
+        }
+    ],
+    "promo" : "",
+    "rent_commission" : 0.0,
+    "sell_commission" : 0.0,
+    "service_charge" : 32000.0,
+    "year_completed_estimation" : NumberLong(0),
+    "year_construction" : NumberLong(0),
+    "auto_description" : true,
+    "is_leads_agent" : false,
+    "complex" : {
+        "id" : "5c7f62fb7e409ee0933b0bcd",
+        "name" : "Botanica Apartments",
+        "address_city" : "JAKARTA SELATAN",
+        "primary_area" : null
+    },
+    "create_at" : NumberLong(0),
+    "create_by_id" : "",
+    "selling_point" : {
+        "id" : [ 
+            {
+                "title" : "",
+                "description" : ""
+            }
+        ]
+    },
+    "sinking_fund" : 0.0,
+    "status" : 0,
+    "include_scsf" : false,
+    "total_unit_primary" : 0
+}
+
+/* 38 */
+{
+    "_id" : ObjectId("5c7f62fb7e409ee0933b0bd0"),
+    "complex_id" : "5c7f62fb7e409ee0933b0bcd",
+    "last_update_at" : NumberLong(1583822311),
+    "category" : "Apartment",
+    "name" : "Tower 3",
+    "year_completion" : NumberLong(1388509200),
+    "year_renovation" : NumberLong(0),
+    "floor_count" : 39,
+    "description" : null,
+    "parking" : [ 
+        {
+            "name" : "Car Parking",
+            "type" : "Car",
+            "payment_term" : "Free",
+            "price" : 0.0,
+            "capacity" : 0
+        }, 
+        {
+            "name" : "Motorcycle Parking",
+            "type" : "Motorcycle",
+            "payment_term" : "Free",
+            "price" : 0.0,
+            "capacity" : 0
+        }
+    ],
+    "lift" : [ 
+        {
+            "name" : "Passenger",
+            "serving" : "",
+            "count" : 1
+        }, 
+        {
+            "name" : "Service",
+            "serving" : "",
+            "count" : 2
+        }
+    ],
+    "internet" : {
+        "Fist Media" : true,
+        "Biznet" : true
+    },
+    "images" : {
+        "images_developer" : null,
+        "images_banner" : null,
+        "images_brochure" : null,
+        "images_interior" : null,
+        "images_exterior" : null,
+        "images_floorplan" : [ 
+            {
+                "url" : "building/yt4musyznnwstdu1ninm",
+                "alternate_text" : "2BR",
+                "priority" : 3
+            }, 
+            {
+                "url" : "building/aneturf00ecmo1zd0ecz",
+                "alternate_text" : "Others",
+                "priority" : 3
+            }, 
+            {
+                "url" : "building/tqdz8eqscblq19uji1ph",
+                "alternate_text" : "2BR",
+                "priority" : 3
+            }, 
+            {
+                "url" : "building/czmvesw14q2hmttzs5uq",
+                "alternate_text" : "Others",
+                "priority" : 4
+            }, 
+            {
+                "url" : "building/k32tdjzprhrtbk8rsatw",
+                "alternate_text" : "2BR",
+                "priority" : 4
+            }
+        ],
+        "images_360" : null,
+        "video_link" : null
+    },
+    "unit_total" : 200,
+    "id" : "5c7f62fb7e409ee0933b0bd0",
+    "last_update_by_uid" : "admin+dev@spacestock.com",
+    "branches" : {
+        "5e5e19d61f78725c121fa3fd" : true,
+        "5c88a1599208d3e40eaf0195" : true,
+        "5e5e2e5d1f78725c121fa3fe" : true,
+        "5c8f5bc523a47a53411f0f5a" : true,
+        "5e2e6cddbdd35d85036fa1e0" : true,
+        "5e5e19b51f78725c121fa3fc" : true,
+        "5e2e77bebdd35d85036fa1e1" : true,
+        "5c8a28ed9208d3e40eaf0196" : true
+    },
+    "unit_rent_total" : 6,
+    "unit_sell_total" : 1,
+    "building_type" : [ 
+        "Strata Buy", 
+        "Strata Rent"
+    ],
+    "architect" : "",
+    "certificate" : "",
+    "contractor" : "",
+    "fee_component" : [ 
+        {
+            "for" : "Rent",
+            "percentage" : 0.0,
+            "from" : "price_rent"
+        }, 
+        {
+            "for" : "Sell",
+            "percentage" : 0.0,
+            "from" : "price_sell"
+        }
+    ],
+    "promo" : "",
+    "rent_commission" : 0.0,
+    "sell_commission" : 0.0,
+    "service_charge" : 32000.0,
+    "year_completed_estimation" : NumberLong(0),
+    "year_construction" : NumberLong(0),
+    "auto_description" : true,
+    "is_leads_agent" : false,
+    "complex" : {
+        "id" : "5c7f62fb7e409ee0933b0bcd",
+        "name" : "Botanica Apartments",
+        "address_city" : "JAKARTA SELATAN",
+        "primary_area" : null
+    },
+    "create_at" : NumberLong(0),
+    "create_by_id" : "",
+    "selling_point" : {
+        "id" : [ 
+            {
+                "title" : "",
+                "description" : ""
+            }
+        ]
+    },
+    "sinking_fund" : 0.0,
+    "status" : 0,
+    "include_scsf" : false,
+    "total_unit_primary" : 0
+}
+
+/* 39 */
+{
+    "_id" : ObjectId("5c7f62fc7e409ee0933b0bd2"),
+    "complex_id" : "5c7f62fb7e409ee0933b0bd1",
+    "last_update_at" : NumberLong(1559100393),
+    "category" : "Apartment",
+    "name" : "Tower One",
+    "year_completion" : NumberLong(2017),
+    "year_renovation" : NumberLong(0),
+    "floor_count" : NumberLong(61),
+    "description" : {
+        "id" : ""
+    },
+    "parking" : [ 
+        {
+            "name" : "Car Parking",
+            "type" : "Car",
+            "payment_term" : "Free",
+            "price" : 0.0,
+            "capacity" : NumberLong(0)
+        }, 
+        {
+            "name" : "Motorcycle Parking",
+            "type" : "Motorcycle",
+            "payment_term" : "Free",
+            "price" : 0.0,
+            "capacity" : NumberLong(0)
+        }
+    ],
+    "lift" : [ 
+        {
+            "name" : "Passenger",
+            "serving" : "",
+            "count" : NumberLong(4)
+        }, 
+        {
+            "name" : "Service",
+            "serving" : "",
+            "count" : NumberLong(1)
+        }
+    ],
+    "internet" : {
+        "First Media" : true,
+        "Fiber Star" : true
+    },
+    "images" : {
+        "images_interior" : [ 
+            {
+                "url" : "building/cat-20190306090444",
+                "alternate_text" : "koridor_passanger_lift.jpg",
+                "priority" : NumberLong(1)
+            }, 
+            {
+                "url" : "building/cat-20190306090445",
+                "alternate_text" : "koridor_passanger_lift.jpg",
+                "priority" : NumberLong(2)
+            }, 
+            {
+                "url" : "building/cat-20190306090446",
+                "alternate_text" : "koridor_passanger_lift.jpg",
+                "priority" : NumberLong(3)
+            }, 
+            {
+                "url" : "building/cat-20190306090448",
+                "alternate_text" : "lobby.jpg",
+                "priority" : NumberLong(4)
+            }, 
+            {
+                "url" : "building/cat-20190306090447",
+                "alternate_text" : "koridor_unit.jpg",
+                "priority" : NumberLong(4)
+            }, 
+            {
+                "url" : "building/cat-20190306090449",
+                "alternate_text" : "lobby.jpg",
+                "priority" : NumberLong(5)
+            }, 
+            {
+                "url" : "building/cat-20190306090450",
+                "alternate_text" : "lobby.jpg",
+                "priority" : NumberLong(6)
+            }, 
+            {
+                "url" : "building/cat-20190306090451",
+                "alternate_text" : "lobby.jpg",
+                "priority" : NumberLong(7)
+            }
+        ],
+        "images_floorplan" : [ 
+            {
+                "url" : "building/cat-20190306090437",
+                "alternate_text" : "floorplan.jpg",
+                "priority" : NumberLong(1)
+            }, 
+            {
+                "url" : "building/cat-20190306090438",
+                "alternate_text" : "floorplan.jpg",
+                "priority" : NumberLong(2)
+            }, 
+            {
+                "url" : "building/cat-20190306090442",
+                "alternate_text" : "floorplan.jpg",
+                "priority" : NumberLong(2)
+            }, 
+            {
+                "url" : "building/cat-20190306090440",
+                "alternate_text" : "floorplan.jpg",
+                "priority" : NumberLong(3)
+            }, 
+            {
+                "url" : "building/cat-20190306090441",
+                "alternate_text" : "floorplan.jpg",
+                "priority" : NumberLong(4)
+            }, 
+            {
+                "url" : "building/cat-20190306090441",
+                "alternate_text" : "floorplan.jpg",
+                "priority" : NumberLong(5)
+            }, 
+            {
+                "url" : "building/cat-20190306090443",
+                "alternate_text" : "floorplan.jpg",
+                "priority" : NumberLong(7)
+            }
+        ],
+        "images_360" : [ 
+            {
+                "url" : "building/cat-20190306090121",
+                "alternate_text" : "lobby_one.JPG",
+                "priority" : NumberLong(1)
+            }
+        ]
+    },
+    "unit_total" : NumberLong(186),
+    "id" : "5c7f62fc7e409ee0933b0bd2",
+    "last_update_by_uid" : "admin+dev@spacestock.com",
+    "branches" : {
+        "5c8a28ed9208d3e40eaf0196" : true,
+        "5e2e77bebdd35d85036fa1e1" : true,
+        "5e5e19d61f78725c121fa3fd" : true,
+        "5c88a1599208d3e40eaf0195" : true,
+        "5e5e19b51f78725c121fa3fc" : true,
+        "5e5e2e5d1f78725c121fa3fe" : true,
+        "5c8f5bc523a47a53411f0f5a" : true,
+        "5e2e6cddbdd35d85036fa1e0" : true
+    },
+    "building_type" : [ 
+        "Strata Buy", 
+        "Strata Rent"
+    ],
+    "unit_rent_total" : NumberLong(18),
+    "unit_sell_total" : NumberLong(5),
+    "architect" : "",
+    "certificate" : "",
+    "contractor" : "",
+    "fee_component" : [ 
+        {
+            "for" : "Rent",
+            "percentage" : 0.0,
+            "from" : "price_rent"
+        }, 
+        {
+            "for" : "Sell",
+            "percentage" : 0.0,
+            "from" : "price_sell"
+        }
+    ],
+    "promo" : "",
+    "rent_commission" : 0.0,
+    "sell_commission" : 0.0,
+    "service_charge" : 35000.0,
+    "sinking_fund" : 2000.0,
+    "year_completed_estimation" : NumberLong(0),
+    "year_construction" : NumberLong(0),
+    "auto_description" : false,
+    "is_leads_agent" : false,
+    "complex" : {
+        "id" : "5c7f62fb7e409ee0933b0bd1",
+        "name" : "Casa Domaine"
+    }
+}
+
+/* 40 */
+{
+    "_id" : ObjectId("5c7f62fc7e409ee0933b0bd3"),
+    "complex_id" : "5c7f62fb7e409ee0933b0bd1",
+    "last_update_at" : NumberLong(1569916897),
+    "category" : "Apartment",
+    "name" : "Tower Prive",
+    "year_completion" : NumberLong(1483203600),
+    "year_renovation" : NumberLong(0),
+    "floor_count" : NumberLong(57),
+    "description" : {
+        "id" : ""
+    },
+    "parking" : [ 
+        {
+            "name" : "Car Parking",
+            "type" : "Car",
+            "payment_term" : "Free",
+            "price" : 0.0,
+            "capacity" : NumberLong(0)
+        }, 
+        {
+            "name" : "Motorcycle Parking",
+            "type" : "Motorcycle",
+            "payment_term" : "Free",
+            "price" : 0.0,
+            "capacity" : NumberLong(0)
+        }
+    ],
+    "lift" : [ 
+        {
+            "name" : "Passenger",
+            "serving" : "",
+            "count" : NumberLong(4)
+        }, 
+        {
+            "name" : "Service",
+            "serving" : "",
+            "count" : NumberLong(1)
+        }
+    ],
+    "internet" : {
+        "First Media" : true,
+        "Fiber Star" : true
+    },
+    "images" : {
+        "images_developer" : null,
+        "images_banner" : null,
+        "images_brochure" : null,
+        "images_interior" : [ 
+            {
+                "url" : "building/cat-20190306090501",
+                "alternate_text" : "lobby.jpg",
+                "priority" : NumberLong(1)
+            }, 
+            {
+                "url" : "building/cat-20190306090505",
+                "alternate_text" : "koridor lift.jpg",
+                "priority" : NumberLong(2)
+            }, 
+            {
+                "url" : "building/cat-20190306090502",
+                "alternate_text" : "lobby.jpg",
+                "priority" : NumberLong(2)
+            }, 
+            {
+                "url" : "building/cat-20190306090503",
+                "alternate_text" : "lobby.jpg",
+                "priority" : NumberLong(3)
+            }, 
+            {
+                "url" : "building/cat-20190306090504",
+                "alternate_text" : "lobby.jpg",
+                "priority" : NumberLong(4)
+            }
+        ],
+        "images_exterior" : [ 
+            {
+                "url" : "building/yl3i9gho3vbqv9wjlo85",
+                "alternate_text" : "Tower Exterior",
+                "priority" : NumberLong(1)
+            }, 
+            {
+                "url" : "building/i3vlqawhf8dqnzifxzhw",
+                "alternate_text" : "Tower Exterior",
+                "priority" : NumberLong(2)
+            }
+        ],
+        "images_floorplan" : [ 
+            {
+                "url" : "building/cat-20190306090459",
+                "alternate_text" : "4BR+",
+                "priority" : NumberLong(1)
+            }, 
+            {
+                "url" : "building/cat-20190306090455",
+                "alternate_text" : "3BR",
+                "priority" : NumberLong(2)
+            }, 
+            {
+                "url" : "building/cat-20190306090455",
+                "alternate_text" : "3BR",
+                "priority" : NumberLong(2)
+            }, 
+            {
+                "url" : "building/cat-20190306090456",
+                "alternate_text" : "3BR",
+                "priority" : NumberLong(3)
+            }, 
+            {
+                "url" : "building/cat-20190306090457",
+                "alternate_text" : "3BR",
+                "priority" : NumberLong(4)
+            }, 
+            {
+                "url" : "building/cat-20190306090458",
+                "alternate_text" : "2BR",
+                "priority" : NumberLong(5)
+            }, 
+            {
+                "url" : "building/cat-20190306090459",
+                "alternate_text" : "4BR+",
+                "priority" : NumberLong(7)
+            }, 
+            {
+                "url" : "building/cat-20190306090500",
+                "alternate_text" : "4BR+",
+                "priority" : NumberLong(8)
+            }, 
+            {
+                "url" : "building/cat-20190306090453",
+                "alternate_text" : "4BR+",
+                "priority" : NumberLong(10)
+            }, 
+            {
+                "url" : "building/cat-20190306090454",
+                "alternate_text" : "4BR+",
+                "priority" : NumberLong(11)
+            }
+        ],
+        "images_360" : [ 
+            {
+                "url" : "building/cat-20190306090451",
+                "alternate_text" : "lobby_prive.JPG",
+                "priority" : NumberLong(1)
+            }
+        ],
+        "video_link" : null
+    },
+    "unit_total" : NumberLong(137),
+    "id" : "5c7f62fc7e409ee0933b0bd3",
+    "last_update_by_uid" : "admin+dev@spacestock.com",
+    "branches" : {
+        "5c8a28ed9208d3e40eaf0196" : true,
+        "5e2e77bebdd35d85036fa1e1" : true,
+        "5e5e19d61f78725c121fa3fd" : true,
+        "5c88a1599208d3e40eaf0195" : true,
+        "5e5e19b51f78725c121fa3fc" : true,
+        "5e5e2e5d1f78725c121fa3fe" : true,
+        "5c8f5bc523a47a53411f0f5a" : true,
+        "5e2e6cddbdd35d85036fa1e0" : true
+    },
+    "building_type" : [ 
+        "Strata Buy", 
+        "Strata Rent", 
+        "Developer Buy"
+    ],
+    "architect" : "",
+    "certificate" : "PPJB",
+    "contractor" : "",
+    "fee_component" : [ 
+        {
+            "for" : "Rent",
+            "percentage" : 0.0,
+            "from" : "price_rent"
+        }, 
+        {
+            "for" : "Sell",
+            "percentage" : 2.5,
+            "from" : "price_sell"
+        }
+    ],
+    "promo" : "",
+    "rent_commission" : 0.0,
+    "sell_commission" : 2.5,
+    "service_charge" : 35000.0,
+    "sinking_fund" : 2000.0,
+    "year_completed_estimation" : NumberLong(1483203600),
+    "year_construction" : NumberLong(0),
+    "auto_description" : false,
+    "is_leads_agent" : true,
+    "average_floor_plate" : 0.0,
+    "ceiling_height" : 0.0,
+    "commercial_terms" : null,
+    "condition" : "",
+    "create_at" : NumberLong(0),
+    "create_by_id" : "",
+    "electricity" : null,
+    "fire_safety" : null,
+    "grade" : "",
+    "land_size" : 0.0,
+    "max_zone_per_floor" : NumberLong(0),
+    "office_hours" : null,
+    "power_line" : null,
+    "selling_point" : {
+        "id" : [ 
+            {
+                "title" : "Premium Apartment in the central of Jakarta",
+                "description" : "Premium Apartment in the central of Jakarta"
+            }
+        ]
+    },
+    "semi_gross_area" : 0.0,
+    "status" : NumberLong(0),
+    "unit_rent_total" : NumberLong(0),
+    "unit_sell_total" : NumberLong(5),
+    "complex" : {
+        "id" : "5c7f62fb7e409ee0933b0bd1",
+        "name" : "Casa Domaine",
+        "address_city" : "JAKARTA PUSAT",
+        "primary_area" : null
+    }
+}
+
+/* 41 */
+{
+    "_id" : ObjectId("5c7f62fc7e409ee0933b0bd5"),
+    "complex_id" : "5c7f62fc7e409ee0933b0bd4",
+    "last_update_at" : NumberLong(1560321651),
+    "category" : "Apartment",
+    "name" : "Tower Avalon",
+    "year_completion" : NumberLong(2011),
+    "year_renovation" : NumberLong(0),
+    "floor_count" : NumberLong(36),
+    "description" : null,
+    "parking" : [ 
+        {
+            "name" : "Car Parking",
+            "type" : "Car",
+            "payment_term" : "Monthly",
+            "price" : 750000.0,
+            "capacity" : NumberLong(0)
+        }, 
+        {
+            "name" : "Motorcycle Parking",
+            "type" : "Motorcycle",
+            "payment_term" : "Monthly",
+            "price" : 0.0,
+            "capacity" : NumberLong(0)
+        }
+    ],
+    "lift" : [ 
+        {
+            "name" : "Passenger",
+            "serving" : "",
+            "count" : NumberLong(4)
+        }, 
+        {
+            "name" : "Service",
+            "serving" : "",
+            "count" : NumberLong(1)
+        }
+    ],
+    "internet" : {
+        "Envision" : true
+    },
+    "images" : {
+        "images_interior" : [ 
+            {
+                "url" : "building/cat-20190306090816",
+                "alternate_text" : "drop_off.jpg",
+                "priority" : NumberLong(1)
+            }, 
+            {
+                "url" : "building/cat-20190306090817",
+                "alternate_text" : "lift.jpg",
+                "priority" : NumberLong(2)
+            }
+        ],
+        "images_floorplan" : [ 
+            {
+                "url" : "building/lm6cr0qsbkuyzwzhoydx",
+                "alternate_text" : "3BR",
+                "priority" : NumberLong(3)
+            }, 
+            {
+                "url" : "building/i28eyby8g2z16dis6wbt",
+                "alternate_text" : "3BR",
+                "priority" : NumberLong(3)
+            }, 
+            {
+                "url" : "building/oarfptf3tq870ydameat",
+                "alternate_text" : "Tower",
+                "priority" : NumberLong(3)
+            }, 
+            {
+                "url" : "building/ileohp70bavba0mquvhv",
+                "alternate_text" : "Tower",
+                "priority" : NumberLong(3)
+            }, 
+            {
+                "url" : "building/feo2h2srileqtjrgebj9",
+                "alternate_text" : "Tower",
+                "priority" : NumberLong(3)
+            }
+        ],
+        "images_360" : [ 
+            {
+                "url" : "building/cat-20190306090751",
+                "alternate_text" : "lobby_avalon_mirage.JPG",
+                "priority" : NumberLong(1)
+            }
+        ]
+    },
+    "unit_total" : NumberLong(173),
+    "id" : "5c7f62fc7e409ee0933b0bd5",
+    "branches" : {
+        "5c8f5bc523a47a53411f0f5a" : true,
+        "5e2e6cddbdd35d85036fa1e0" : true,
+        "5c8a28ed9208d3e40eaf0196" : true,
+        "5c88a1599208d3e40eaf0195" : true,
+        "5e5e19b51f78725c121fa3fc" : true,
+        "5e2e77bebdd35d85036fa1e1" : true,
+        "5e5e19d61f78725c121fa3fd" : true,
+        "5e5e2e5d1f78725c121fa3fe" : true
+    },
+    "last_update_by_uid" : "admin+dev@spacestock.com",
+    "unit_rent_total" : NumberLong(6),
+    "unit_sell_total" : NumberLong(4),
+    "architect" : "",
+    "certificate" : "",
+    "contractor" : "",
+    "fee_component" : [ 
+        {
+            "for" : "Rent",
+            "percentage" : 0.0,
+            "from" : "price_rent"
+        }, 
+        {
+            "for" : "Sell",
+            "percentage" : 0.0,
+            "from" : "price_sell"
+        }
+    ],
+    "promo" : "",
+    "rent_commission" : 0.0,
+    "sell_commission" : 0.0,
+    "service_charge" : 19500.0,
+    "sinking_fund" : 1000.0,
+    "year_completed_estimation" : NumberLong(0),
+    "year_construction" : NumberLong(0),
+    "building_type" : [ 
+        "Strata Buy", 
+        "Strata Rent"
+    ],
+    "auto_description" : false,
+    "is_leads_agent" : false,
+    "complex" : {
+        "id" : "5c7f62fc7e409ee0933b0bd4",
+        "name" : "Casa Grande Residence"
+    }
+}
+
+/* 42 */
+{
+    "_id" : ObjectId("5c7f62fc7e409ee0933b0bd6"),
+    "complex_id" : "5c7f62fc7e409ee0933b0bd4",
+    "last_update_at" : NumberLong(1560321672),
+    "category" : "Apartment",
+    "name" : "Tower Mirage",
+    "year_completion" : NumberLong(2011),
+    "year_renovation" : NumberLong(0),
+    "floor_count" : NumberLong(36),
+    "description" : null,
+    "parking" : [ 
+        {
+            "name" : "Car Parking",
+            "type" : "Car",
+            "payment_term" : "Monthly",
+            "price" : 750000.0,
+            "capacity" : NumberLong(0)
+        }, 
+        {
+            "name" : "Motorcycle Parking",
+            "type" : "Motorcycle",
+            "payment_term" : "Monthly",
+            "price" : 0.0,
+            "capacity" : NumberLong(0)
+        }
+    ],
+    "lift" : [ 
+        {
+            "name" : "Passenger",
+            "serving" : "",
+            "count" : NumberLong(4)
+        }, 
+        {
+            "name" : "Service",
+            "serving" : "",
+            "count" : NumberLong(1)
+        }
+    ],
+    "internet" : {
+        "Envision" : true
+    },
+    "images" : {
+        "images_interior" : [ 
+            {
+                "url" : "building/cat-20190306091237",
+                "alternate_text" : "drop_off.jpg",
+                "priority" : NumberLong(1)
+            }, 
+            {
+                "url" : "building/cat-20190306091239",
+                "alternate_text" : "lift.jpg",
+                "priority" : NumberLong(2)
+            }
+        ],
+        "images_floorplan" : [ 
+            {
+                "url" : "building/n2w8jtcw435umvhrkmnn",
+                "alternate_text" : "Tower",
+                "priority" : NumberLong(3)
+            }, 
+            {
+                "url" : "building/rivug2qt9de8wzbqwuxl",
+                "alternate_text" : "Tower",
+                "priority" : NumberLong(3)
+            }
+        ],
+        "images_360" : [ 
+            {
+                "url" : "building/cat-20190306091136",
+                "alternate_text" : "lobby_avalon_mirage.JPG",
+                "priority" : NumberLong(1)
+            }
+        ]
+    },
+    "unit_total" : NumberLong(302),
+    "id" : "5c7f62fc7e409ee0933b0bd6",
+    "branches" : {
+        "5e5e19b51f78725c121fa3fc" : true,
+        "5e2e77bebdd35d85036fa1e1" : true,
+        "5e5e19d61f78725c121fa3fd" : true,
+        "5e5e2e5d1f78725c121fa3fe" : true,
+        "5c8f5bc523a47a53411f0f5a" : true,
+        "5e2e6cddbdd35d85036fa1e0" : true,
+        "5c8a28ed9208d3e40eaf0196" : true,
+        "5c88a1599208d3e40eaf0195" : true
+    },
+    "last_update_by_uid" : "admin+dev@spacestock.com",
+    "unit_rent_total" : NumberLong(31),
+    "unit_sell_total" : NumberLong(3),
+    "architect" : "",
+    "certificate" : "",
+    "contractor" : "",
+    "fee_component" : [ 
+        {
+            "for" : "Rent",
+            "percentage" : 0.0,
+            "from" : "price_rent"
+        }, 
+        {
+            "for" : "Sell",
+            "percentage" : 0.0,
+            "from" : "price_sell"
+        }
+    ],
+    "promo" : "",
+    "rent_commission" : 0.0,
+    "sell_commission" : 0.0,
+    "service_charge" : 19500.0,
+    "sinking_fund" : 1000.0,
+    "year_completed_estimation" : NumberLong(0),
+    "year_construction" : NumberLong(0),
+    "building_type" : [ 
+        "Strata Buy", 
+        "Strata Rent"
+    ],
+    "auto_description" : false,
+    "is_leads_agent" : false,
+    "complex" : {
+        "id" : "5c7f62fc7e409ee0933b0bd4",
+        "name" : "Casa Grande Residence"
+    }
+}
+
+/* 43 */
+{
+    "_id" : ObjectId("5c7f62fc7e409ee0933b0bd7"),
+    "complex_id" : "5c7f62fc7e409ee0933b0bd4",
+    "last_update_at" : NumberLong(1560321696),
+    "category" : "Apartment",
+    "name" : "Tower Montana",
+    "year_completion" : NumberLong(2012),
+    "year_renovation" : NumberLong(0),
+    "floor_count" : NumberLong(36),
+    "description" : null,
+    "parking" : [ 
+        {
+            "name" : "Car Parking",
+            "type" : "Car",
+            "payment_term" : "Monthly",
+            "price" : 750000.0,
+            "capacity" : NumberLong(0)
+        }, 
+        {
+            "name" : "Motorcycle Parking",
+            "type" : "Motorcycle",
+            "payment_term" : "Monthly",
+            "price" : 0.0,
+            "capacity" : NumberLong(0)
+        }
+    ],
+    "lift" : [ 
+        {
+            "name" : "Passenger",
+            "serving" : "",
+            "count" : NumberLong(4)
+        }, 
+        {
+            "name" : "Service",
+            "serving" : "",
+            "count" : NumberLong(1)
+        }
+    ],
+    "internet" : {
+        "Envision" : true
+    },
+    "images" : {
+        "images_360" : [ 
+            {
+                "url" : "building/cat-20190306091342",
+                "alternate_text" : "lobby_montana_montreal.JPG",
+                "priority" : NumberLong(1)
+            }
+        ]
+    },
+    "unit_total" : NumberLong(280),
+    "id" : "5c7f62fc7e409ee0933b0bd7",
+    "branches" : {
+        "5e2e77bebdd35d85036fa1e1" : true,
+        "5e5e19d61f78725c121fa3fd" : true,
+        "5e5e2e5d1f78725c121fa3fe" : true,
+        "5c8f5bc523a47a53411f0f5a" : true,
+        "5e2e6cddbdd35d85036fa1e0" : true,
+        "5c8a28ed9208d3e40eaf0196" : true,
+        "5c88a1599208d3e40eaf0195" : true,
+        "5e5e19b51f78725c121fa3fc" : true
+    },
+    "last_update_by_uid" : "admin+dev@spacestock.com",
+    "unit_rent_total" : NumberLong(18),
+    "unit_sell_total" : NumberLong(5),
+    "architect" : "",
+    "certificate" : "",
+    "contractor" : "",
+    "fee_component" : [ 
+        {
+            "for" : "Rent",
+            "percentage" : 0.0,
+            "from" : "price_rent"
+        }, 
+        {
+            "for" : "Sell",
+            "percentage" : 0.0,
+            "from" : "price_sell"
+        }
+    ],
+    "promo" : "",
+    "rent_commission" : 0.0,
+    "sell_commission" : 0.0,
+    "service_charge" : 19500.0,
+    "sinking_fund" : 1000.0,
+    "year_completed_estimation" : NumberLong(0),
+    "year_construction" : NumberLong(0),
+    "building_type" : [ 
+        "Strata Buy", 
+        "Strata Rent"
+    ],
+    "auto_description" : false,
+    "is_leads_agent" : false,
+    "complex" : {
+        "id" : "5c7f62fc7e409ee0933b0bd4",
+        "name" : "Casa Grande Residence"
+    }
+}
+
+/* 44 */
+{
+    "_id" : ObjectId("5c7f62fc7e409ee0933b0bd8"),
+    "complex_id" : "5c7f62fc7e409ee0933b0bd4",
+    "last_update_at" : NumberLong(1560321750),
+    "category" : "Apartment",
+    "name" : "Tower Montreal",
+    "year_completion" : NumberLong(2012),
+    "year_renovation" : NumberLong(0),
+    "floor_count" : NumberLong(36),
+    "description" : {
+        "id" : ""
+    },
+    "parking" : [ 
+        {
+            "name" : "Car Parking",
+            "type" : "Car",
+            "payment_term" : "Monthly",
+            "price" : 750000.0,
+            "capacity" : NumberLong(0)
+        }, 
+        {
+            "name" : "Motorcycle Parking",
+            "type" : "Motorcycle",
+            "payment_term" : "Monthly",
+            "price" : 0.0,
+            "capacity" : NumberLong(0)
+        }
+    ],
+    "lift" : [ 
+        {
+            "name" : "Passenger",
+            "serving" : "",
+            "count" : NumberLong(4)
+        }, 
+        {
+            "name" : "Service",
+            "serving" : "",
+            "count" : NumberLong(1)
+        }
+    ],
+    "internet" : {
+        "Envision" : true
+    },
+    "images" : {
+        "images_interior" : [ 
+            {
+                "url" : "building/cat-20190306091638",
+                "alternate_text" : "drop_off.jpg",
+                "priority" : NumberLong(1)
+            }
+        ],
+        "images_360" : [ 
+            {
+                "url" : "building/cat-20190306091548",
+                "alternate_text" : "lobby_montana_montreal.JPG",
+                "priority" : NumberLong(1)
+            }
+        ]
+    },
+    "unit_total" : NumberLong(313),
+    "id" : "5c7f62fc7e409ee0933b0bd8",
+    "branches" : {
+        "5e5e19b51f78725c121fa3fc" : true,
+        "5e2e77bebdd35d85036fa1e1" : true,
+        "5e5e19d61f78725c121fa3fd" : true,
+        "5e5e2e5d1f78725c121fa3fe" : true,
+        "5c8f5bc523a47a53411f0f5a" : true,
+        "5e2e6cddbdd35d85036fa1e0" : true,
+        "5c8a28ed9208d3e40eaf0196" : true,
+        "5c88a1599208d3e40eaf0195" : true
+    },
+    "building_type" : [ 
+        "Strata Buy", 
+        "Strata Rent"
+    ],
+    "last_update_by_uid" : "admin+dev@spacestock.com",
+    "service_charge" : 19500.0,
+    "sinking_fund" : 1000.0,
+    "unit_rent_total" : NumberLong(31),
+    "unit_sell_total" : NumberLong(7),
+    "architect" : "",
+    "certificate" : "",
+    "contractor" : "",
+    "fee_component" : [ 
+        {
+            "for" : "Rent",
+            "percentage" : 0.0,
+            "from" : "price_rent"
+        }, 
+        {
+            "for" : "Sell",
+            "percentage" : 0.0,
+            "from" : "price_sell"
+        }
+    ],
+    "promo" : "",
+    "rent_commission" : 0.0,
+    "sell_commission" : 0.0,
+    "year_completed_estimation" : NumberLong(0),
+    "year_construction" : NumberLong(0),
+    "auto_description" : false,
+    "is_leads_agent" : false,
+    "complex" : {
+        "id" : "5c7f62fc7e409ee0933b0bd4",
+        "name" : "Casa Grande Residence"
+    }
+}
+
+/* 45 */
+{
+    "_id" : ObjectId("5c7f62fc7e409ee0933b0bd9"),
+    "complex_id" : "5c7f62fc7e409ee0933b0bd4",
+    "last_update_at" : NumberLong(1560321794),
+    "category" : "Apartment",
+    "name" : "Tower Angelo",
+    "year_completion" : NumberLong(2018),
+    "year_renovation" : NumberLong(0),
+    "floor_count" : NumberLong(45),
+    "description" : null,
+    "parking" : [ 
+        {
+            "name" : "Car Parking",
+            "type" : "Car",
+            "payment_term" : "Free",
+            "price" : 0.0,
+            "capacity" : NumberLong(0)
+        }, 
+        {
+            "name" : "Motorcycle Parking",
+            "type" : "Motorcycle",
+            "payment_term" : "Free",
+            "price" : 0.0,
+            "capacity" : NumberLong(0)
+        }
+    ],
+    "lift" : [ 
+        {
+            "name" : "Passenger",
+            "serving" : "",
+            "count" : NumberLong(4)
+        }, 
+        {
+            "name" : "Service",
+            "serving" : "",
+            "count" : NumberLong(1)
+        }
+    ],
+    "internet" : {
+        "Envision" : true
+    },
+    "images" : {
+        "images_interior" : [ 
+            {
+                "url" : "building/cat-20190306090554",
+                "alternate_text" : "lobby_angelo.jpg",
+                "priority" : NumberLong(1)
+            }
+        ],
+        "images_floorplan" : [ 
+            {
+                "url" : "building/gqznymk17rirrqosuiie",
+                "alternate_text" : "Tower",
+                "priority" : NumberLong(3)
+            }, 
+            {
+                "url" : "building/rqzivswlbgqwhsvwdkyl",
+                "alternate_text" : "2BR",
+                "priority" : NumberLong(3)
+            }, 
+            {
+                "url" : "building/tahnrgr6l4dnksdtsqjq",
+                "alternate_text" : "2BR",
+                "priority" : NumberLong(3)
+            }, 
+            {
+                "url" : "building/gn0jvtlsgepvortghzjj",
+                "alternate_text" : "2BR",
+                "priority" : NumberLong(3)
+            }, 
+            {
+                "url" : "building/wgpi90gaovn2d6nna4p8",
+                "alternate_text" : "3BR",
+                "priority" : NumberLong(3)
+            }, 
+            {
+                "url" : "building/mhreqesskyo0yrazqoo4",
+                "alternate_text" : "3BR",
+                "priority" : NumberLong(3)
+            }, 
+            {
+                "url" : "building/qteufnuhtau5fc0p3pju",
+                "alternate_text" : "3BR",
+                "priority" : NumberLong(3)
+            }, 
+            {
+                "url" : "building/mtyxf6wnpufpddn58npe",
+                "alternate_text" : "3BR",
+                "priority" : NumberLong(3)
+            }, 
+            {
+                "url" : "building/ov7z0zgmcxkwj7oe6swg",
+                "alternate_text" : "Tower",
+                "priority" : NumberLong(3)
+            }
+        ]
+    },
+    "unit_total" : NumberLong(360),
+    "id" : "5c7f62fc7e409ee0933b0bd9",
+    "last_update_by_uid" : "admin+dev@spacestock.com",
+    "branches" : {
+        "5c8a28ed9208d3e40eaf0196" : true,
+        "5c88a1599208d3e40eaf0195" : true,
+        "5e5e19b51f78725c121fa3fc" : true,
+        "5e2e77bebdd35d85036fa1e1" : true,
+        "5e5e19d61f78725c121fa3fd" : true,
+        "5e5e2e5d1f78725c121fa3fe" : true,
+        "5c8f5bc523a47a53411f0f5a" : true,
+        "5e2e6cddbdd35d85036fa1e0" : true
+    },
+    "unit_rent_total" : NumberLong(24),
+    "unit_sell_total" : NumberLong(6),
+    "architect" : "",
+    "certificate" : "",
+    "contractor" : "",
+    "fee_component" : [ 
+        {
+            "for" : "Rent",
+            "percentage" : 0.0,
+            "from" : "price_rent"
+        }, 
+        {
+            "for" : "Sell",
+            "percentage" : 0.0,
+            "from" : "price_sell"
+        }
+    ],
+    "promo" : "",
+    "rent_commission" : 0.0,
+    "sell_commission" : 0.0,
+    "service_charge" : 20000.0,
+    "sinking_fund" : 2000.0,
+    "year_completed_estimation" : NumberLong(0),
+    "year_construction" : NumberLong(0),
+    "building_type" : [ 
+        "Strata Buy", 
+        "Strata Rent"
+    ],
+    "auto_description" : false,
+    "is_leads_agent" : false,
+    "complex" : {
+        "id" : "5c7f62fc7e409ee0933b0bd4",
+        "name" : "Casa Grande Residence"
+    }
+}
+
+/* 46 */
+{
+    "_id" : ObjectId("5c7f62fd7e409ee0933b0bda"),
+    "complex_id" : "5c7f62fc7e409ee0933b0bd4",
+    "last_update_at" : NumberLong(1560321815),
+    "category" : "Apartment",
+    "name" : "Tower Bella",
+    "year_completion" : NumberLong(2018),
+    "year_renovation" : NumberLong(0),
+    "floor_count" : NumberLong(45),
+    "description" : null,
+    "parking" : [ 
+        {
+            "name" : "Car Parking",
+            "type" : "Car",
+            "payment_term" : "Free",
+            "price" : 0.0,
+            "capacity" : NumberLong(0)
+        }, 
+        {
+            "name" : "Motorcycle Parking",
+            "type" : "Motorcycle",
+            "payment_term" : "Free",
+            "price" : 0.0,
+            "capacity" : NumberLong(0)
+        }
+    ],
+    "lift" : [ 
+        {
+            "name" : "Passenger",
+            "serving" : "",
+            "count" : NumberLong(4)
+        }, 
+        {
+            "name" : "Service",
+            "serving" : "",
+            "count" : NumberLong(1)
+        }
+    ],
+    "internet" : {
+        "Envision" : true
+    },
+    "images" : {
+        "images_interior" : [ 
+            {
+                "url" : "building/cat-20190306090855",
+                "alternate_text" : "lobby.jpg",
+                "priority" : NumberLong(1)
+            }, 
+            {
+                "url" : "building/cat-20190306090856",
+                "alternate_text" : "lobby.jpg",
+                "priority" : NumberLong(2)
+            }, 
+            {
+                "url" : "building/cat-20190306090857",
+                "alternate_text" : "lobby.jpg",
+                "priority" : NumberLong(3)
+            }, 
+            {
+                "url" : "building/cat-20190306090858",
+                "alternate_text" : "lobby.jpg",
+                "priority" : NumberLong(4)
+            }
+        ],
+        "images_floorplan" : [ 
+            {
+                "url" : "building/qilgzofbxgbhx9gtoydz",
+                "alternate_text" : "2BR",
+                "priority" : NumberLong(3)
+            }, 
+            {
+                "url" : "building/z2oamd5fmlcxtcqnhdbq",
+                "alternate_text" : "2BR",
+                "priority" : NumberLong(3)
+            }, 
+            {
+                "url" : "building/r9th9tabghechkd0uzrv",
+                "alternate_text" : "3BR",
+                "priority" : NumberLong(3)
+            }, 
+            {
+                "url" : "building/evqlpj6tbvx6p2wqttif",
+                "alternate_text" : "3BR",
+                "priority" : NumberLong(3)
+            }, 
+            {
+                "url" : "building/qim75j1farvrnaa231dk",
+                "alternate_text" : "3BR",
+                "priority" : NumberLong(3)
+            }, 
+            {
+                "url" : "building/xv2ftyghcs8pqbxs01ce",
+                "alternate_text" : "3BR",
+                "priority" : NumberLong(3)
+            }, 
+            {
+                "url" : "building/zayeqrfzm7eatnos71ac",
+                "alternate_text" : "2BR",
+                "priority" : NumberLong(3)
+            }
+        ]
+    },
+    "unit_total" : NumberLong(359),
+    "id" : "5c7f62fd7e409ee0933b0bda",
+    "last_update_by_uid" : "admin+dev@spacestock.com",
+    "branches" : {
+        "5e5e2e5d1f78725c121fa3fe" : true,
+        "5c8f5bc523a47a53411f0f5a" : true,
+        "5e2e6cddbdd35d85036fa1e0" : true,
+        "5c8a28ed9208d3e40eaf0196" : true,
+        "5c88a1599208d3e40eaf0195" : true,
+        "5e5e19b51f78725c121fa3fc" : true,
+        "5e2e77bebdd35d85036fa1e1" : true,
+        "5e5e19d61f78725c121fa3fd" : true
+    },
+    "unit_rent_total" : NumberLong(18),
+    "unit_sell_total" : NumberLong(3),
+    "architect" : "",
+    "certificate" : "",
+    "contractor" : "",
+    "fee_component" : [ 
+        {
+            "for" : "Rent",
+            "percentage" : 0.0,
+            "from" : "price_rent"
+        }, 
+        {
+            "for" : "Sell",
+            "percentage" : 0.0,
+            "from" : "price_sell"
+        }
+    ],
+    "promo" : "",
+    "rent_commission" : 0.0,
+    "sell_commission" : 0.0,
+    "service_charge" : 20000.0,
+    "sinking_fund" : 2000.0,
+    "year_completed_estimation" : NumberLong(0),
+    "year_construction" : NumberLong(0),
+    "building_type" : [ 
+        "Strata Buy", 
+        "Strata Rent"
+    ],
+    "auto_description" : false,
+    "is_leads_agent" : false,
+    "complex" : {
+        "id" : "5c7f62fc7e409ee0933b0bd4",
+        "name" : "Casa Grande Residence"
+    }
+}
+
+/* 47 */
+{
+    "_id" : ObjectId("5c7f62fd7e409ee0933b0bdb"),
+    "complex_id" : "5c7f62fc7e409ee0933b0bd4",
+    "last_update_at" : NumberLong(1560321854),
+    "category" : "Apartment",
+    "name" : "Tower Chianti",
+    "year_completion" : NumberLong(2018),
+    "year_renovation" : NumberLong(0),
+    "floor_count" : NumberLong(45),
+    "description" : null,
+    "parking" : [ 
+        {
+            "name" : "Car Parking",
+            "type" : "Car",
+            "payment_term" : "Free",
+            "price" : 0.0,
+            "capacity" : NumberLong(0)
+        }, 
+        {
+            "name" : "Motorcycle Parking",
+            "type" : "Motorcycle",
+            "payment_term" : "Free",
+            "price" : 0.0,
+            "capacity" : NumberLong(0)
+        }
+    ],
+    "lift" : [ 
+        {
+            "name" : "Passenger",
+            "serving" : "",
+            "count" : NumberLong(3)
+        }, 
+        {
+            "name" : "Service",
+            "serving" : "",
+            "count" : NumberLong(1)
+        }
+    ],
+    "internet" : {
+        "Envision" : true
+    },
+    "images" : {
+        "images_floorplan" : [ 
+            {
+                "url" : "building/c8oxdp3x0xxlu8r4szwr",
+                "alternate_text" : "Tower",
+                "priority" : NumberLong(3)
+            }
+        ]
+    },
+    "unit_total" : NumberLong(405),
+    "branches" : {
+        "5e5e19d61f78725c121fa3fd" : true,
+        "5e5e2e5d1f78725c121fa3fe" : true,
+        "5c8f5bc523a47a53411f0f5a" : true,
+        "5e2e6cddbdd35d85036fa1e0" : true,
+        "5c8a28ed9208d3e40eaf0196" : true,
+        "5c88a1599208d3e40eaf0195" : true,
+        "5e5e19b51f78725c121fa3fc" : true,
+        "5e2e77bebdd35d85036fa1e1" : true
+    },
+    "id" : "5c7f62fd7e409ee0933b0bdb",
+    "last_update_by_uid" : "admin+dev@spacestock.com",
+    "architect" : "",
+    "certificate" : "",
+    "contractor" : "",
+    "fee_component" : [ 
+        {
+            "for" : "Rent",
+            "percentage" : 0.0,
+            "from" : "price_rent"
+        }, 
+        {
+            "for" : "Sell",
+            "percentage" : 0.0,
+            "from" : "price_sell"
+        }
+    ],
+    "promo" : "",
+    "rent_commission" : 0.0,
+    "sell_commission" : 0.0,
+    "service_charge" : 20000.0,
+    "sinking_fund" : 2000.0,
+    "year_completed_estimation" : NumberLong(0),
+    "year_construction" : NumberLong(0),
+    "building_type" : [ 
+        "Strata Buy", 
+        "Strata Rent"
+    ],
+    "auto_description" : false,
+    "is_leads_agent" : false,
+    "unit_rent_total" : NumberLong(11),
+    "unit_sell_total" : NumberLong(3),
+    "complex" : {
+        "id" : "5c7f62fc7e409ee0933b0bd4",
+        "name" : "Casa Grande Residence"
+    }
+}
+
+/* 48 */
+{
+    "_id" : ObjectId("5c7f62fd7e409ee0933b0bdd"),
+    "complex_id" : "5c7f62fd7e409ee0933b0bdc",
+    "last_update_at" : NumberLong(1569481185),
+    "category" : "Apartment",
+    "name" : "Tower 1",
+    "year_completion" : NumberLong(852051600),
+    "year_renovation" : NumberLong(0),
+    "floor_count" : NumberLong(16),
+    "description" : {
+        "id" : ""
+    },
+    "parking" : [ 
+        {
+            "name" : "Car Parking",
+            "type" : "Car",
+            "payment_term" : "Free",
+            "price" : 0.0,
+            "capacity" : NumberLong(0)
+        }, 
+        {
+            "name" : "Motorcycle Parking",
+            "type" : "Motorcycle",
+            "payment_term" : "Free",
+            "price" : 0.0,
+            "capacity" : NumberLong(0)
+        }
+    ],
+    "lift" : [ 
+        {
+            "name" : "Passenger",
+            "serving" : "",
+            "count" : NumberLong(4)
+        }, 
+        {
+            "name" : "Service",
+            "serving" : "",
+            "count" : NumberLong(2)
+        }
+    ],
+    "internet" : {
+        "Gridnet" : true
+    },
+    "images" : {
+        "images_developer" : null,
+        "images_banner" : null,
+        "images_brochure" : null,
+        "images_interior" : null,
+        "images_exterior" : null,
+        "images_floorplan" : [ 
+            {
+                "url" : "building/i9inl8qbhw4w9ujlok24",
+                "alternate_text" : "2BR",
+                "priority" : NumberLong(1)
+            }
+        ],
+        "images_360" : null,
+        "video_link" : null
+    },
+    "unit_total" : NumberLong(236),
+    "building_type" : [ 
+        "Strata Buy", 
+        "Strata Rent"
+    ],
+    "id" : "5c7f62fd7e409ee0933b0bdd",
+    "last_update_by_uid" : "admin+dev@spacestock.com",
+    "service_charge" : 30000.0,
+    "branches" : {
+        "5e2e6cddbdd35d85036fa1e0" : true,
+        "5c88a1599208d3e40eaf0195" : true,
+        "5c8f5bc523a47a53411f0f5a" : true,
+        "5e5e2e5d1f78725c121fa3fe" : true,
+        "5e5e19b51f78725c121fa3fc" : true,
+        "5c8b61bb23a47a53411f0f58" : true,
+        "5e5e19d61f78725c121fa3fd" : true,
+        "5e2e77bebdd35d85036fa1e1" : true,
+        "5c8a28ed9208d3e40eaf0196" : true
+    },
+    "unit_rent_total" : NumberLong(1),
+    "architect" : "",
+    "certificate" : "",
+    "contractor" : "",
+    "fee_component" : [ 
+        {
+            "for" : "Rent",
+            "percentage" : 0.0,
+            "from" : "price_rent"
+        }, 
+        {
+            "for" : "Sell",
+            "percentage" : 0.0,
+            "from" : "price_sell"
+        }
+    ],
+    "promo" : "",
+    "rent_commission" : 0.0,
+    "sell_commission" : 0.0,
+    "year_completed_estimation" : NumberLong(0),
+    "year_construction" : NumberLong(0),
+    "auto_description" : true,
+    "is_leads_agent" : false,
+    "complex" : {
+        "id" : "5c7f62fd7e409ee0933b0bdc",
+        "name" : "Casablanca Apartment",
+        "address_city" : "JAKARTA SELATAN",
+        "primary_area" : null
+    },
+    "create_at" : NumberLong(0),
+    "create_by_id" : "",
+    "selling_point" : {
+        "id" : [ 
+            {
+                "title" : "",
+                "description" : ""
+            }
+        ]
+    },
+    "sinking_fund" : 0.0,
+    "status" : NumberLong(0),
+    "unit_sell_total" : NumberLong(0)
+}
+
+/* 49 */
+{
+    "_id" : ObjectId("5c7f62fd7e409ee0933b0bde"),
+    "complex_id" : "5c7f62fd7e409ee0933b0bdc",
+    "last_update_at" : NumberLong(1569482366),
+    "category" : "Apartment",
+    "name" : "Tower 2",
+    "year_completion" : NumberLong(852051600),
+    "year_renovation" : NumberLong(0),
+    "floor_count" : NumberLong(16),
+    "description" : {
+        "id" : ""
+    },
+    "parking" : [ 
+        {
+            "name" : "Car Parking",
+            "type" : "Car",
+            "payment_term" : "Free",
+            "price" : 0.0,
+            "capacity" : NumberLong(0)
+        }, 
+        {
+            "name" : "Motorcycle Parking",
+            "type" : "Motorcycle",
+            "payment_term" : "Free",
+            "price" : 0.0,
+            "capacity" : NumberLong(0)
+        }
+    ],
+    "lift" : [ 
+        {
+            "name" : "Passenger",
+            "serving" : "",
+            "count" : NumberLong(6)
+        }, 
+        {
+            "name" : "Service",
+            "serving" : "",
+            "count" : NumberLong(2)
+        }
+    ],
+    "internet" : {
+        "Gridnet" : true
+    },
+    "images" : {
+        "images_developer" : null,
+        "images_banner" : null,
+        "images_brochure" : null,
+        "images_interior" : [ 
+            {
+                "url" : "building/cmgzjwm2xqhdvu03txqm",
+                "alternate_text" : "Lobby",
+                "priority" : NumberLong(1)
+            }, 
+            {
+                "url" : "building/ftzbbgeoagm06uwymcfy",
+                "alternate_text" : "Others",
+                "priority" : NumberLong(3)
+            }, 
+            {
+                "url" : "building/uic2jaocpo2phrfodogo",
+                "alternate_text" : "Lobby Lift",
+                "priority" : NumberLong(3)
+            }, 
+            {
+                "url" : "building/iousdbfalcxmkp0zvnz8",
+                "alternate_text" : "Lobby Lift",
+                "priority" : NumberLong(3)
+            }, 
+            {
+                "url" : "building/y6i5xg0cymaxlicg7kkv",
+                "alternate_text" : "Lobby",
+                "priority" : NumberLong(3)
+            }
+        ],
+        "images_exterior" : null,
+        "images_floorplan" : [ 
+            {
+                "url" : "building/ubq4mkcdr3s6gttyiw0o",
+                "alternate_text" : "1BR",
+                "priority" : NumberLong(1)
+            }, 
+            {
+                "url" : "building/elziwuph9vvcos5aosl3",
+                "alternate_text" : "1BR",
+                "priority" : NumberLong(3)
+            }, 
+            {
+                "url" : "building/w9ilbnbpfxpgku6zpq6j",
+                "alternate_text" : "2BR",
+                "priority" : NumberLong(3)
+            }, 
+            {
+                "url" : "building/pjthp7ktyjjmwyirpmcw",
+                "alternate_text" : "2BR",
+                "priority" : NumberLong(3)
+            }, 
+            {
+                "url" : "building/ia7daiglr4c95witg37c",
+                "alternate_text" : "1BR",
+                "priority" : NumberLong(3)
+            }, 
+            {
+                "url" : "building/e9mjf6iefnrqub9eyk4r",
+                "alternate_text" : "1BR",
+                "priority" : NumberLong(3)
+            }, 
+            {
+                "url" : "building/xrgkkqweucccfqj7nwqf",
+                "alternate_text" : "1BR",
+                "priority" : NumberLong(3)
+            }
+        ],
+        "images_360" : null,
+        "video_link" : null
+    },
+    "unit_total" : NumberLong(236),
+    "id" : "5c7f62fd7e409ee0933b0bde",
+    "last_update_by_uid" : "admin+dev@spacestock.com",
+    "building_type" : [ 
+        "Strata Buy", 
+        "Strata Rent"
+    ],
+    "service_charge" : 30000.0,
+    "branches" : {
+        "5e2e77bebdd35d85036fa1e1" : true,
+        "5c8a28ed9208d3e40eaf0196" : true,
+        "5e5e2e5d1f78725c121fa3fe" : true,
+        "5e5e19b51f78725c121fa3fc" : true,
+        "5c8b61bb23a47a53411f0f58" : true,
+        "5e5e19d61f78725c121fa3fd" : true,
+        "5e2e6cddbdd35d85036fa1e0" : true,
+        "5c88a1599208d3e40eaf0195" : true,
+        "5c8f5bc523a47a53411f0f5a" : true
+    },
+    "unit_rent_total" : NumberLong(16),
+    "unit_sell_total" : NumberLong(3),
+    "architect" : "",
+    "certificate" : "",
+    "contractor" : "",
+    "fee_component" : [ 
+        {
+            "for" : "Rent",
+            "percentage" : 0.0,
+            "from" : "price_rent"
+        }, 
+        {
+            "for" : "Sell",
+            "percentage" : 0.0,
+            "from" : "price_sell"
+        }
+    ],
+    "promo" : "",
+    "rent_commission" : 0.0,
+    "sell_commission" : 0.0,
+    "year_completed_estimation" : NumberLong(0),
+    "year_construction" : NumberLong(0),
+    "auto_description" : true,
+    "is_leads_agent" : false,
+    "complex" : {
+        "id" : "5c7f62fd7e409ee0933b0bdc",
+        "name" : "Casablanca Apartment",
+        "address_city" : "JAKARTA SELATAN",
+        "primary_area" : null
+    },
+    "create_at" : NumberLong(0),
+    "create_by_id" : "",
+    "selling_point" : {
+        "id" : [ 
+            {
+                "title" : "",
+                "description" : ""
+            }
+        ]
+    },
+    "sinking_fund" : 0.0,
+    "status" : NumberLong(0)
+}
+
+/* 50 */
+{
+    "_id" : ObjectId("5c7f62fd7e409ee0933b0be0"),
+    "complex_id" : "5c7f62fd7e409ee0933b0bdf",
+    "last_update_at" : NumberLong(1583823554),
+    "category" : "Apartment",
+    "name" : "Raffles Residences Jakarta",
+    "year_completion" : NumberLong(1388509200),
+    "year_renovation" : NumberLong(0),
+    "floor_count" : 52,
+    "description" : null,
+    "parking" : [ 
+        {
+            "name" : "Car Parking",
+            "type" : "Car",
+            "payment_term" : "Free",
+            "price" : 0.0,
+            "capacity" : 0
+        }, 
+        {
+            "name" : "Motorcycle Parking",
+            "type" : "Motorcycle",
+            "payment_term" : "Free",
+            "price" : 0.0,
+            "capacity" : 0
+        }
+    ],
+    "lift" : [ 
+        {
+            "name" : "Passenger",
+            "serving" : "",
+            "count" : 1
+        }, 
+        {
+            "name" : "Service",
+            "serving" : "",
+            "count" : 2
+        }
+    ],
+    "internet" : {
+        "Indihome" : true,
+        "First Media" : true
+    },
+    "images" : {
+        "images_developer" : null,
+        "images_banner" : null,
+        "images_brochure" : null,
+        "images_interior" : null,
+        "images_exterior" : null,
+        "images_floorplan" : [ 
+            {
+                "url" : "building/rewxaodbpswuzufa9tea",
+                "alternate_text" : "Others",
+                "priority" : 3
+            }, 
+            {
+                "url" : "building/az2kbuk6rrahijfmzzhg",
+                "alternate_text" : "Others",
+                "priority" : 3
+            }, 
+            {
+                "url" : "building/bjx72ye1glzijauovpvh",
+                "alternate_text" : "Others",
+                "priority" : 3
+            }, 
+            {
+                "url" : "building/egkwrohykc0w8kg4ezyo",
+                "alternate_text" : "Others",
+                "priority" : 3
+            }
+        ],
+        "images_360" : null,
+        "video_link" : null
+    },
+    "unit_total" : 88,
+    "branches" : {
+        "5e2e6cddbdd35d85036fa1e0" : true,
+        "5e2e77bebdd35d85036fa1e1" : true,
+        "5e5e19d61f78725c121fa3fd" : true,
+        "5c8a28ed9208d3e40eaf0196" : true,
+        "5c88a1599208d3e40eaf0195" : true,
+        "5e5e19b51f78725c121fa3fc" : true,
+        "5e5e2e5d1f78725c121fa3fe" : true,
+        "5c8f5bc523a47a53411f0f5a" : true
+    },
+    "id" : "5c7f62fd7e409ee0933b0be0",
+    "unit_sell_total" : NumberLong(1),
+    "architect" : "",
+    "certificate" : "",
+    "contractor" : "",
+    "fee_component" : [ 
+        {
+            "for" : "Rent",
+            "percentage" : 0.0,
+            "from" : "price_rent"
+        }, 
+        {
+            "for" : "Sell",
+            "percentage" : 0.0,
+            "from" : "price_sell"
+        }
+    ],
+    "last_update_by_uid" : "admin+dev@spacestock.com",
+    "promo" : "",
+    "rent_commission" : 0.0,
+    "sell_commission" : 0.0,
+    "year_completed_estimation" : NumberLong(0),
+    "year_construction" : NumberLong(0),
+    "service_charge" : 40000.0,
+    "building_type" : [ 
+        "Strata Buy", 
+        "Strata Rent"
+    ],
+    "auto_description" : true,
+    "is_leads_agent" : false,
+    "complex" : {
+        "id" : "5c7f62fd7e409ee0933b0bdf",
+        "name" : "Ciputra World 1 Jakarta",
+        "address_city" : "JAKARTA SELATAN",
+        "primary_area" : null
+    },
+    "create_at" : NumberLong(0),
+    "create_by_id" : "",
+    "selling_point" : {
+        "id" : [ 
+            {
+                "title" : "",
+                "description" : ""
+            }
+        ]
+    },
+    "sinking_fund" : 0.0,
+    "status" : 0,
+    "unit_rent_total" : NumberLong(2),
+    "include_scsf" : false,
+    "total_unit_primary" : 0
+}
